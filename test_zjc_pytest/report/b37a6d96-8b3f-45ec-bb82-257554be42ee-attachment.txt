@@ -1,0 +1,6 @@
+conftest.py                 13 INFO     打开火狐浏览器
+basePage.py                 45 INFO     打开网址 http://zjcbytest.zhutx.net/
+basePage.py                 63 INFO     定位元素成功——username
+basePage.py                 63 INFO     定位元素成功——password
+basePage.py                 63 INFO     定位元素成功——login
+basePage.py                 95 INFO     点击元素成功——login

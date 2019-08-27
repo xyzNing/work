@@ -1,0 +1,8 @@
+2019-08-22 17:07:10,299 - conf - INFO - 打开火狐浏览器
+2019-08-22 17:07:11,250 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/custom.php/Login/login
+2019-08-22 17:07:12,282 - BasePage - INFO - 定位元素成功——username
+2019-08-22 17:07:13,346 - BasePage - INFO - 定位元素成功——password
+2019-08-22 17:07:14,404 - BasePage - INFO - 定位元素成功——submit_button
+2019-08-22 17:07:15,502 - BasePage - INFO - 点击元素成功——submit_button
+2019-08-22 17:07:25,653 - BasePage - ERROR - 定位元素失败——//a[@class='index-login__link mt16 goAdminPage']
+2019-08-22 17:07:25,794 - BasePage - ERROR - 点击元素失败——//a[@class='index-login__link mt16 goAdminPage']

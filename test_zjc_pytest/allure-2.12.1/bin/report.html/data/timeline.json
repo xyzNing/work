@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-FL5D3QJ",
+    "children" : [ {
+      "name" : "840-MainThread",
+      "children" : [ {
+        "name" : "C:\\Work\\test_zjc_pytest\\case\\zjc.test_login.TestLogin.test_login",
+        "uid" : "258a9c36506a3904",
+        "parentUid" : "698feca2b568b2b51d948c88885ffb11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566285801998,
+          "stop" : 1566285812924,
+          "duration" : 10926
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Work\\test_zjc_pytest\\case\\zjc.test_Instock.TestInstock.test_add_instock",
+        "uid" : "21e9189b37a29d48",
+        "parentUid" : "698feca2b568b2b51d948c88885ffb11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566285724185,
+          "stop" : 1566285801992,
+          "duration" : 77807
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Work\\test_zjc_pytest\\case\\zjc.test_login.TestLogin.test_login1",
+        "uid" : "df38dc1def64aa54",
+        "parentUid" : "698feca2b568b2b51d948c88885ffb11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566285812927,
+          "stop" : 1566285823976,
+          "duration" : 11049
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "698feca2b568b2b51d948c88885ffb11"
+    } ],
+    "uid" : "a02a79afe703976f0a530ea02dfd3d48"
+  } ]
+}

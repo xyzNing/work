@@ -1,0 +1,1523 @@
+1534129598117	geckodriver	INFO	geckodriver 0.19.1
+1534129598759	geckodriver	INFO	Listening on 127.0.0.1:56823
+1534129603536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.yAzKevZHy90E"
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\WINDOWS\system32\config\systemprofile\AppData\Local\openvr\openvrpaths.vrpath
+1534129610165	Marionette	INFO	Listening on port 56837
+1534129611583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534147436250	geckodriver	INFO	geckodriver 0.19.1
+1534147436275	geckodriver	INFO	Listening on 127.0.0.1:54736
+1534147439409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.BXzPr3JDyV3b"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534147446739	Marionette	INFO	Listening on port 54756
+1534147447285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2D0107,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+[Parent 15932, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6404, Chrome_Ch1534147495413	geckodriver	INFO	geckodriver 0.19.1
+1534147495422	geckodriver	INFO	Listening on 127.0.0.1:54836
+1534147498480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.oQuyyjc59Bfb"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534147502317	Marionette	INFO	Listening on port 54852
+1534147502843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 14284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7144, Chrome_ChildT[Child 2312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2312, Ch[Parent 14284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12496,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534147513839	Marionette	INFO	Listening on port 54937
+1534147514072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 14180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16176, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534149384649	geckodriver	INFO	geckodriver 0.19.1
+1534149384658	geckodriver	INFO	Listening on 127.0.0.1:56863
+1534149388050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.0j1lc1Xe7sl4"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534149395336	Marionette	INFO	Listening on port 56875
+1534149396284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534149481952	geckodriver	INFO	geckodriver 0.19.1
+1534149481970	geckodriver	INFO	Listening on 127.0.0.1:57492
+1534149484981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.W88UPZBLsJok"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534149488624	Marionette	INFO	Listening on port 57516
+1534149488904	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1534149499936	geckodriver	INFO	geckodriver 0.19.1
+1534149499945	geckodriver	INFO	Listening on 127.0.0.1:57672
+1534149502993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.7kKBai9r4auD"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534149506462	Marionette	INFO	Listening on port 57686
+1534149506943	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534149611779	geckodriver	INFO	geckodriver 0.19.1
+1534149611787	geckodriver	INFO	Listening on 127.0.0.1:58399
+1534149614821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.sS0EIXTnO5dr"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534149618635	Marionette	INFO	Listening on port 58418
+1534149619037	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534149751549	geckodriver	INFO	geckodriver 0.19.1
+1534149751559	geckodriver	INFO	Listening on 127.0.0.1:59390
+1534149754582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.l25hkASn90ox"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534149758474	Marionette	INFO	Listening on port 59407
+1534149759667	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534151940503	geckodriver	INFO	geckodriver 0.19.1
+1534151940514	geckodriver	INFO	Listening on 127.0.0.1:50662
+1534151943569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.hy6tfVioSKP8"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534151947099	Marionette	INFO	Listening on port 50696
+1534151948141	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6132, Chro1534152036158	geckodriver	INFO	geckodriver 0.19.1
+1534152036167	geckodriver	INFO	Listening on 127.0.0.1:52196
+1534152039223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.Cej3bPDjVido"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534152042628	Marionette	INFO	Listening on port 52254
+1534152043156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534152055086	geckodriver	INFO	geckodriver 0.19.1
+1534152055096	geckodriver	INFO	Listening on 127.0.0.1:52674
+1534152058135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.euruSKYOvwaf"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534152061394	Marionette	INFO	Listening on port 52696
+1534152062135	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534152163523	geckodriver	INFO	geckodriver 0.19.1
+1534152163534	geckodriver	INFO	Listening on 127.0.0.1:54057
+1534152166576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.H9K9rnreyX4C"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534152169960	Marionette	INFO	Listening on port 54073
+1534152170500	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534152297699	geckodriver	INFO	geckodriver 0.19.1
+1534152297709	geckodriver	INFO	Listening on 127.0.0.1:55421
+1534152300755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.AqTlA7kGaifl"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534152304312	Marionette	INFO	Listening on port 55432
+1534152305324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/jquery.cookie.js, line 17: ReferenceError: jQuery is not defined
+JavaScript error: http://zjcbytest.zhutx.net/index.php/Purchaser/Index/index, line 269: ReferenceError: $ is not defined
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/purchaser/common.js, line 555: ReferenceError: jQuery is not defined
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/module.js, line 10: ReferenceError: $ is not defined
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/purchaser/index/index.js, line 1: ReferenceError: $ is not defined
+[Parent 17252, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13372, C1534153126312	geckodriver	INFO	geckodriver 0.19.1
+1534153126320	geckodriver	INFO	Listening on 127.0.0.1:57301
+1534153129396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.NiMzCpHvuo8A"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534153132945	Marionette	INFO	Listening on port 57332
+1534153133486	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 14156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1534153141044	geckodriver	INFO	geckodriver 0.19.1
+1534153141054	geckodriver	INFO	Listening on 127.0.0.1:57509
+1534153144101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.GQWrLkg9jJWK"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534153147546	Marionette	INFO	Listening on port 57539
+1534153148132	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534153150863	geckodriver	INFO	geckodriver 0.19.1
+1534153150872	geckodriver	INFO	Listening on 127.0.0.1:57635
+1534153153959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.7hyLJkvKIled"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534153157653	Marionette	INFO	Listening on port 57646
+1534153157671	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15888, Chrome_Chi1534153192195	geckodriver	INFO	geckodriver 0.19.1
+1534153192216	geckodriver	INFO	Listening on 127.0.0.1:58006
+1534153195261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.mGYOHn5xhGOZ"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534153198815	Marionette	INFO	Listening on port 58015
+1534153199244	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14688, [Child 12440, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12440, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12440, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534153212545	geckodriver	INFO	geckodriver 0.19.1
+1534153212554	geckodriver	INFO	Listening on 127.0.0.1:58221
+1534153215628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.dmlTgPlpR1T8"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534153219134	Marionette	INFO	Listening on port 58239
+1534153219346	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14968,[GPU 16948, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534153285472	geckodriver::marionette	ERROR	Failed to kill browser process
+1534209023263	geckodriver	INFO	geckodriver 0.19.1
+1534209023292	geckodriver	INFO	Listening on 127.0.0.1:51056
+1534209026327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.CkZKX7EYmfPq"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534209029758	Marionette	INFO	Listening on port 51066
+1534209030081	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534209121778	geckodriver	INFO	geckodriver 0.19.1
+1534209121786	geckodriver	INFO	Listening on 127.0.0.1:51469
+1534209124864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.hiPjCggsa545"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534209128055	Marionette	INFO	Listening on port 51477
+1534209128884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534209139972	geckodriver	INFO	geckodriver 0.19.1
+1534209139980	geckodriver	INFO	Listening on 127.0.0.1:51581
+1534209143038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.de534dbcO0d3"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534209146497	Marionette	INFO	Listening on port 51591
+1534209146792	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2392, Chrome_1534209249123	geckodriver	INFO	geckodriver 0.19.1
+1534209249132	geckodriver	INFO	Listening on 127.0.0.1:52034
+1534209252188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.qNiujZUvfHs5"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534209255507	Marionette	INFO	Listening on port 52046
+1534209256177	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5104, Chrome_1534209382995	geckodriver	INFO	geckodriver 0.19.1
+1534209383003	geckodriver	INFO	Listening on 127.0.0.1:52560
+1534209386054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Lee\\AppData\\Local\\Temp\\rust_mozprofile.MgPrjhzLIQSu"
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Lee\AppData\Local\openvr\openvrpaths.vrpath
+1534209389533	Marionette	INFO	Listening on port 52568
+1534209389948	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543375602464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.HgV8b7UIoQKz"
+1543375605138	Marionette	INFO	Listening on port 54467
+1543375605237	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 19908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1543375900907	Marionette	INFO	Stopped listening on port 54467
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 20332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543375621805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.AZDPUh41qWdW"
+1543375624207	Marionette	INFO	Listening on port 54532
+1543375624568	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Child 20836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Parent 21316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1543383135192	Marionette	INFO	Stopped listening on port 54532
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[build/build/src[Parent 21916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21720, Chrome_ChildThread] WARNING: pipe er[Child 22448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22448, Ch1543383133888	Marionette	INFO	Stopped listening on port 54616
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ne 346h
+ild 23300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 22764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1543375720231	Marionette	INFO	Stopped listening on port 54646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+d][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543375774318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.UKQaRckziZ5H"
+1543375776843	Marionette	INFO	Listening on port 54730
+1543375777077	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Child 23556, Chrome_ChildThread] WARNING: pipe error: 109: file z[:C/hild 1build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3467
+972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17[Parent 21856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1543375899156	Marionette	INFO	Stopped listening on port 54730
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543375793653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.0dvu3hXdirZR"
+1543375796152	Marionette	INFO	Listening on port 54795
+1543375796407	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 24192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19532, Chrome_ChildT[Parent 24192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543383131857	Marionette	INFO	Stopped listening on port 54795
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [346C
+hild 23108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[Parent 21164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1543383129186	Marionette	INFO	Stopped listening on port 54873
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1543375874651	Marionette	INFO	Stopped listening on port 54933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543383046424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.x1QDkYu3zNCU"
+1543383062823	Marionette	INFO	Listening on port 55840
+1543383063439	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 1208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Child 23528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 1208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543383203710	Marionette	INFO	Stopped listening on port 55840
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+build/1543383189969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.KvPwe8wX2BLP"
+[Parent 21232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Child 22076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1543383207922	addons.manager	ERROR	Failure during AddonRepository shutdown: Error: The object has been already finalized.(resource://gre/modules/DeferredTask.jsm:240:13) JS Stack trace: finalize@DeferredTask.jsm:240:13
+shutdown@AddonRepository.jsm:924:19
+shutdown@AddonRepository.jsm:340:12
+shutdownManager@AddonManager.jsm:1062:13
+observe@AsyncShutdown.jsm:541:9
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  AddonManager: shutting down.
+          Phase: profile-before-change
+          State: [{"name":"AddonRepository: async shutdown","state":"in progress"}]
+WARNING: Error: The object has been already finalized.
+WARNING: finalize@resource://gre/modules/DeferredTask.jsm:240:13
+shutdown@resource://gre/modules/addons/AddonRepository.jsm:924:19
+shutdown@resource://gre/modules/addons/AddonRepository.jsm:340:12
+shutdownManager@resource://gre/modules/AddonManager.jsm:1062:13
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 240: Error: The object has been already finalized.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPUJavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 407: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543383215602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.7JmkLzdAYrLT"
+1543383231733	Marionette	INFO	Listening on port 56041
+1543383232096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543383235991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.PPnVtyXOT81Q"
+1543825542809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.oHr1jRLAYR76"
+1543825544965	Marionette	INFO	Listening on port 49358
+1543825545034	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Child 10124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr[oChild 15988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346m
+e/common/ipc_channel_win.cc, line 346
+[Ch[Child 13796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1543825600878	Marionette	INFO	Stopped listening on port 49358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7244,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+me/common/ipc_channel_win.cc, line 346
+[Child 17736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1543825599255	Marionette	INFO	Stopped listening on port 49450
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP1543825603405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.hjOQtvXv4VWy"
+1543825605510	Marionette	INFO	Listening on port 49627
+1543825605528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+[Parent 7404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 18228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 18104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543825606577	Marionette	INFO	Stopped listening on port 49627
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543825618809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.5OElMZSy5P1h"
+1543825620888	Marionette	INFO	Listening on port 49658
+1543825620925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543825642011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.VToyBT4Tj3QX"
+1543825644148	Marionette	INFO	Listening on port 49794
+1543825644235	Marionette	WARN	TLS certificate errors will be ign[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 16864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1543825710762	Marionette	INFO	Stopped listening on port 49658
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543825710765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ecQoJN7p2qR8"
+1543825712810	Marionette	INFO	Listening on port 50000
+1543825712887	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543825769185	Marionette	INFO	Stopped listening on port 50000
+[Parent 16744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Child 17356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543825773178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.H7DT1LFHpTmt"
+1543825775288	Marionette	INFO	Listening on port 50195
+1543825775416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1543825781173	Marionette	INFO	Stopped listening on port 50195
+[Child 1852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 17844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543825785275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.bjRqUs5Majw3"
+1543825787352	Marionette	INFO	Listening on port 50266
+1543825787396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1543825792652	Marionette	INFO	Stopped listening on port 50266
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Child 17644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 17360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 18356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543825796745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.dYDPrHUL66V0"
+1543825798829	Marionette	INFO	Listening on port 50334
+1543825798865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/guangdong"
+http://requirejs.org/docs/errors.html#scripterror
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543825900125	Marionette	INFO	Stopped listening on port 50334
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 1276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 18132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 1276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15288,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543825904180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.LmuMfLXQQWS3"
+1543825906369	Marionette	INFO	Listening on port 50639
+1543825906405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543825928968	Marionette	INFO	Stopped listening on port 50639
+[Parent 5884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[uild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346Child 16876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+[Child 16876, Chrom[Parent 5884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2084, Chro1543826089590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.v1PT7ufZTzZz"
+1543826091651	Marionette	INFO	Listening on port 50779
+1543826091712	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18344, Chrome_ChildThread] WARNING: pip[eChild  e14068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346r
+ror: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Parent 16876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/1543826120561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.na12UyE99a0C"
+1543826122635	Marionette	INFO	Listening on port 50971
+1543826122682	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 18112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Parent 8060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1543826196841	Marionette	INFO	Stopped listening on port 50971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 180
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543826200559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.fLNj1eq6JxyW"
+1543826202753	Marionette	INFO	Listening on port 51195
+1543826202785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+[Parent 17204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9432, Chrome_ChildThread] WARNING: pipe [Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chromeerror: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc/,common/ipc_channel_win.cc, line 346 
+line 346
+[Chi[Parent 17204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1543826207537	Marionette	INFO	Stopped listening on port 51195
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543826213065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.uXX1gtE0m4VT"
+1543826215635	Marionette	INFO	Listening on port 51269
+1543826215784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543826235694	Marionette	INFO	Stopped listening on port 51269
+[Child 4144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 18048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17368,21[Parent 18424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543826230838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ozuUItnTb7Uy"
+1543826232919	Marionette	INFO	Listening on port 51410
+1543826232959	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 19108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 19240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1543826314560	Marionette	INFO	Stopped listening on port 51410
+[GPU 18772
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.f1vBxsW4xxEf"
+1543826278576	Marionette	INFO	Listening on port 51687
+1543826278640	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 19164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11980, Chrome_ChildThread] WARNING1543826318463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.dhauwui0kia4"
+1543826320870	Marionette	INFO	Listening on port 51905
+1543826321179	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[bChild 18284, Chrome_ChildThread] WARNING: pipe error: 109: file z:u/iblud/src/ipc/chromium/src/chrome/icommon/ipc_channel_win.cc, line 346l
+d/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 7852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11543826325440	Marionette	INFO	Stopped listening on port 51905
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543826363150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.HHh5d8m3aOOk"
+1543826365148	Marionette	INFO	Listening on port 51989
+1543826365291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543826380587	Marionette	INFO	Stopped listening on port 51989
+[Parent 17872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Child 9844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 17872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543826384548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.3KPJ1TNhoJTB"
+1543826386617	Marionette	INFO	Listening on port 52117
+1543826386673	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/aomen"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/beijing"
+http://requirejs.org/docs/errors.html#scripterror
+1543826767168	Marionette	INFO	Stopped listening on port 52117
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 18864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 14620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 14620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18868, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543826770969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.a3joxjQC44ym"
+1543826773084	Marionette	INFO	Listening on port 52438
+1543826773190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "echarts", needed by: province/gansu, province/guangdong
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/heilongjiang"
+http://requirejs.org/docs/errors.html#scripterror
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543827307599	Marionette	INFO	Stopped listening on port 52438
+[Parent 7556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Child 19316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 7556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543827311777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.xb3o1VmsK1sN"
+1543827314428	Marionette	INFO	Listening on port 52965
+1543827314507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1543827319663	Marionette	INFO	Stopped listening on port 52965
+[Parent 9256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/[sChild 6592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346r
+c/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 9256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1543827331047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.Hl4dFYE4UL0i"
+1543827333667	Marionette	INFO	Listening on port 53028
+1543827333784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1543827339504	Marionette	INFO	Stopped listening on port 53028
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Child 16712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 8296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[GPU 232, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543827343878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.FymzTOEwgJci"
+1543827346493	Marionette	INFO	Listening on port 53104
+1543827346620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "china"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/anhui"
+http://requirejs.org/docs/errors.html#scripterror
+1543827422083	Marionette	INFO	Stopped listening on port 53104
+[Parent 16400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 16400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 16400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[GPU 12
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543827426307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.OKf2gvTmpC04"
+1543827428994	Marionette	INFO	Listening on port 53337
+1543827429029	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543827520498	Marionette	INFO	Stopped listening on port 53337
+[Parent 7964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 13380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 7964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[GPU 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+11565330839226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.nL42549m40j8"
+1565330841804	Marionette	INFO	Listening on port 55884
+1565330841957	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565330841962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565330842004	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565330842056	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+[Parent 1620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6644, Chrome_ChildThread] WA[RChild 631N2I, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341N
+G: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 1620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15004, Chrome_ChildThread] WARNING: pipe [Parent 1620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+[Child 6812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+/ipc_channel_win.cc, line 341
+[Child 6812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1565330850892	Marionette	INFO	Stopped listening on port 55884
+[GPU 8484, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1565331009535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.tZp1kpotaOgS"
+1565331011994	Marionette	INFO	Listening on port 55976
+1565331012150	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331012179	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331012215	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331012260	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13964, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331046759	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331046806	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331046908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+JavaScript error: http://zlzrtest.zhutx.net/static/js/plugin/jquery.cookie.js?version=20190514, line 17: ReferenceError: jQuery is not defined
+JavaScript error: http://zlzrtest.zhutx.net/static/js/common.js?version=20190514, line 283: ReferenceError: $ is not defined
+JavaScript error: http://zlzrtest.zhutx.net/index.php/custom/userManagement/login, line 39: ReferenceError: $ is not defined
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4c300035d4d0e7fbf02006c3720%26s%3d250x250%26d%3d0%26t%3d1565331071&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4c300035d4d0e7fbf02006c3720&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1565331104172	Marionette	INFO	Stopped listening on port 56126
+[Parent 15564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 15564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 15564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1565331112913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.TdRjd19AkoKB"
+1565331115270	Marionette	INFO	Listening on port 56324
+1565331115440	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331115465	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331115496	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331115632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://paytest.zhutx.net/static/js/plugin/jquery.cookie.js, line 17: ReferenceError: jQuery is not defined
+JavaScript error: http://paytest.zhutx.net/static/js/common.js?version=201908091411, line 230: ReferenceError: $ is not defined
+JavaScript error: http://paytest.zhutx.net/index.php/custom/userManagement/login, line 39: ReferenceError: $ is not defined
+1565331146272	Marionette	INFO	Stopped listening on port 56324
+[Parent 13176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 13176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 13176, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+sk_156338312
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+9/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 151565331157355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.4u8i6uwGNSHx"
+1565331159807	Marionette	INFO	Listening on port 56492
+1565331159974	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331160006	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331160046	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331160098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565331439368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.BIdwBkfw6xWx"
+1565331441819	Marionette	INFO	Listening on port 56556
+1565331441986	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331442018	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331442059	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331442110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565331474027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.6VUlKjIOtcJq"
+1565331476476	Marionette	INFO	Listening on port 56719
+1565331476633	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331476663	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331476698	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565331476746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+me=4454914557&adk=4086984255&adf=3279755400&w=565&guci=2.2.0.0.2.2.0.0&format=565x60&url=https%3A%2F%2Fhome.firefoxchina.cn%2F&ea=0&flash=0&wgl=1&dt=1565331453217&bpp=26&bdt=561&fdt=208&idt=208&shv=r20190807&cbv=r20190131&saldr=aa&correlator=5565717350863&frm=24&ife=1&pv=2&ga_vid=2072617982.1565331453&ga_sid=1565331453&ga_hid=206671327&ga_fc=0&icsg=42&nhd=1&dssz=4&mdo=0&mso=0&u_tz=480&u_his=3&u_java=0&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=565&ish=60&ifk=3930807125&scr_x=-12245933&scr_y=-12245933&eid=4089042%2C20199336&oid=3&rx=0&eae=2&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C0%2C0%2C565%2C60&vis=2&rsz=%7C%7CceE%7C&abl=NS&pfx=0&fu=24&bc=29&ifi=1&uci=1.ojcjvmjzc4gi&dtd=239, line 1: ReferenceError: init_icr is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0676661022110159&output=html&h=60&slotname=4454914557&adk=4086984255&adf=3279755400&w=565&guci=2.2.0.0.2.2.0.0&format=565x60&url=https%3A%2F%2Fhome.firefoxchina.cn%2F&ea=0&flash=0&wgl=1&dt=1565331453217&bpp=26&bdt=561&fdt=208&idt=208&shv=r20190807&cbv=r20190131&saldr=aa&correlator=5565717350863&frm=24&ife=1&pv=2&ga_vid=2072617982.1565331453&ga_sid=1565331453&ga_hid=206671327&ga_fc=0&icsg=42&nhd=1&dssz=4&mdo=0&mso=0&u_tz=480&u_his=3&u_java=0&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=565&ish=60&ifk=3930807125&scr_x=-12245933&scr_y=-12245933&eid=4089042%2C20199336&oid=3&rx=0&eae=2&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C0%2C0%2C565%2C60&vis=2&rsz=%7C%7CceE%7C&abl=NS&pfx=0&fu=24&bc=29&ifi=1&uci=1.ojcjvmjzc4gi&dtd=239, line 1: TypeError: _.v is not a function
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0676661022110159&output=html&h=60&slotname=4454914557&adk=4086984255&adf=3279755400&w=565&guci=2.2.0.0.2.2.0.0&format=565x60&url=https%3A%2F%2Fhome.firefoxchina.cn%2F&ea=0&flash=0&wgl=1&dt=1565331453217&bpp=26&bdt=561&fdt=208&idt=208&shv=r20190807&cbv=r20190131&saldr=aa&correlator=5565717350863&frm=24&ife=1&pv=2&ga_vid=2072617982.1565331453&ga_sid=1565331453&ga_hid=206671327&ga_fc=0&icsg=42&nhd=1&dssz=4&mdo=0&mso=0&u_tz=480&u_his=3&u_java=0&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=565&ish=60&ifk=3930807125&scr_x=-12245933&scr_y=-12245933&eid=4089042%2C20199336&oid=3&rx=0&eae=2&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C0%2C0%2C565%2C60&vis=2&rsz=%7C%7CceE%7C&abl=NS&pfx=0&fu=24&bc=29&ifi=1&uci=1.ojcjvmjzc4gi&dtd=239, line 1: ReferenceError: buildTextAd is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0676661022110159&output=html&h=60&slotname=4454914557&adk=4086984255&adf=3279755400&w=565&guci=2.2.0.0.2.2.0.0&format=565x60&url=https%3A%2F%2Fhome.firefoxchina.cn%2F&ea=0&flash=0&wgl=1&dt=1565331453217&bpp=26&bdt=561&fdt=208&idt=208&shv=r20190807&cbv=r20190131&saldr=aa&correlator=5565717350863&frm=24&ife=1&pv=2&ga_vid=2072617982.1565331453&ga_sid=1565331453&ga_hid=206671327&ga_fc=0&icsg=42&nhd=1&dssz=4&mdo=0&mso=0&u_tz=480&u_his=3&u_java=0&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=565&ish=60&ifk=3930807125&scr_x=-12245933&scr_y=-12245933&eid=4089042%2C20199336&oid=3&rx=0&eae=2&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C0%2C0%2C565%2C60&vis=2&rsz=%7C%7CceE%7C&abl=NS&pfx=0&fu=24&bc=29&ifi=1&uci=1.ojcjvmjzc4gi&dtd=239, line 1: ReferenceError: adSlot is not defined
+1565333083515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.E1pVkizfrtH8"
+1565333085983	Marionette	INFO	Listening on port 57449
+1565333086077	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333086099	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333086133	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333086231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0676661022110159&output=html&h=60&slotname=4454914557&adk=4086984255&adf=3279755400&w=565&guci=2.2.0.0.2.2.0.0&format=565x60&url=https%3A%2F%2Fhome.firefoxchina.cn%2F&ea=0&flash=0&wgl=1&dt=1565333100897&bpp=13&bdt=3755&fdt=283&idt=284&shv=r20190807&cbv=r20190131&saldr=aa&correlator=8192112021104&frm=24&ife=1&pv=2&ga_vid=1095265154.1565333101&ga_sid=1565333101&ga_hid=818743957&ga_fc=0&icsg=42&nhd=1&dssz=4&mdo=0&mso=0&u_tz=480&u_his=3&u_java=0&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=565&ish=60&ifk=3930807125&scr_x=-12245933&scr_y=-12245933&eid=26835105%2C21063906&oid=3&rx=0&eae=2&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C0%2C0%2C565%2C60&vis=2&rsz=%7C%7CceE%7C&abl=NS&pfx=0&fu=24&bc=29&ifi=1&uci=1.z9dbirwp9fxa&dtd=302, line 17: ReferenceError: osdlfm is not defined
+1565333118062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ta2l3d1ekRuR"
+1565333120535	Marionette	INFO	Listening on port 57602
+1565333120659	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333120707	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333120773	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333120789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1565333235883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.NsA3Z0dxh8gZ"
+1565333238334	Marionette	INFO	Listening on port 57697
+1565333238499	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333238523	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333238564	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333238613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565333270365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ydtuEeheoBJG"
+1565333272770	Marionette	INFO	Listening on port 57864
+1565333272904	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333272935	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333272972	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333273085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1565333303715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.G8WmiIQIeO7T"
+1565333306263	Marionette	INFO	Listening on port 57955
+1565333306380	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333306419	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333306454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565333306465	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4ab00035d4d174e69a3006c9999%26s%3d250x250%26d%3d0%26t%3d1565333326&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4ab00035d4d174e69a3006c9999&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4ab00035d4d174e69a3006c9999%26s%3d250x250%26d%3d0%26t%3d1565333326&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4ab00035d4d174e69a3006c9999&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4ab00035d4d174e69a3006c9999%26s%3d250x250%26d%3d0%26t%3d1565333326&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4ab00035d4d174e69a3006c9999&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4ab00035d4d174e69a3006c9999%26s%3d250x250%26d%3d0%26t%3d1565333326&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4ab00035d4d174e69a3006c9999&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4ab00035d4d174e69a3006c9999%26s%3d250x250%26d%3d0%26t%3d1565333326&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4ab00035d4d174e69a3006c9999&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1565333342201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.Fqza9pcQElln"
+1565333344813	Marionette	INFO	Listening on port 58109
+1565333344881	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333344905	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333344927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565333344947	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/jquery.json.min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/jquery.cookie.js, line 17: ReferenceError: jQuery is not defined
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 2: ReferenceError: $ is not defined
+JavaScript error: http://zjcbytest.zhutx.net/custom.php/Login/login, line 123: ReferenceError: $ is not defined
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+JavaScript error: http://zjcbytest.zhutx.net/custom.php/Login/login, line 136: ReferenceError: $ is not defined
+1565333679616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.WuUZM9xivZRP"
+1565333682063	Marionette	INFO	Listening on port 58460
+1565333682242	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333682267	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333682303	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333682359	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-0676661022110159&output=html&h=60&slotname=4454914557&adk=4086984255&adf=3279755400&w=565&guci=2.2.0.0.2.2.0.0&format=565x60&url=https%3A%2F%2Fhome.firefoxchina.cn%2F&ea=0&flash=0&wgl=1&dt=1565333697169&bpp=17&bdt=3626&fdt=256&idt=257&shv=r20190807&cbv=r20190131&saldr=aa&correlator=3018629231852&frm=24&ife=1&pv=2&ga_vid=145938420.1565333697&ga_sid=1565333697&ga_hid=1082217546&ga_fc=0&icsg=42&nhd=1&dssz=4&mdo=0&mso=0&u_tz=480&u_his=3&u_java=0&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=565&ish=60&ifk=3930807125&scr_x=-12245933&scr_y=-12245933&eid=20199336%2C21060548%2C21064245&oid=3&rx=0&eae=2&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C0%2C0%2C565%2C60&vis=2&rsz=%7C%7CceE%7C&abl=NS&pfx=0&fu=24&bc=29&ifi=1&uci=1.228r8try5dmr&dtd=288, line 17: ReferenceError: buildAttribution is not defined
+r.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333696863	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333696981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript error: http://zjcbytest.zhutx.net/custom.php/Login/login, line 123: TypeError: $.cookie is not a function
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1565333745525	Marionette	INFO	Stopped listening on port 58572
+1565333947769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.I8HhxL9Uru42"
+1565333950122	Marionette	INFO	Listening on port 58881
+1565333950275	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333950305	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333950342	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333950484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565333962094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.SIt612sU8269"
+1565333964664	Marionette	INFO	Listening on port 58999
+1565333964736	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333964760	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333964809	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565333964825	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[
+Child 12644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChJavaScript error: http://zlzrtest.zhutx.net/static/js/common.js?version=20190514, line 136: ReferenceE[Parent 16860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+rror: md5 is not defined
+[Parent 16860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4488, Chrome_ChildThread] W
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+ARNING: pipe e
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+rror: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+1565333973761	Marionette	INFO	Stopped listening on port 58999
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21565334000499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.RkFPPf9TLS0k"
+1565334003052	Marionette	INFO	Listening on port 59084
+1565334003122	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565334003149	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565334003190	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565334003242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0bb4f4aa00025d4d1a105dae006e300b%26s%3d250x250%26d%3d0%26t%3d1565334032&pid=mm_28347190_2425761_9313994&tp=5&tsid=0bb4f4aa00025d4d1a105dae006e300b&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565334017198	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565334017249	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565334017335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://zlzrtest.zhutx.net/static/js/common.js?version=20190514, line 136: ReferenceError: md5 is not defined
+1565334035347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.pJxFCdUHCO24"
+1565334037910	Marionette	INFO	Listening on port 59286
+1565334037986	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565334038014	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565334038050	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1565334038065	Marionette	WARN	TLS certificate errors will be ignored for this session

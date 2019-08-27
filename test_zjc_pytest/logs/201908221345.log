@@ -1,0 +1,54 @@
+2019-08-22 13:46:04,334 - conf - INFO - 打开火狐浏览器
+2019-08-22 13:46:07,345 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-08-22 13:46:12,967 - BasePage - INFO - 定位元素成功——username
+2019-08-22 13:46:14,045 - BasePage - INFO - 定位元素成功——password
+2019-08-22 13:46:15,113 - BasePage - INFO - 定位元素成功——login
+2019-08-22 13:46:17,364 - BasePage - INFO - 点击元素成功——login
+2019-08-22 13:46:18,398 - BasePage - INFO - 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-08-22 13:46:40,388 - BasePage - INFO - 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-08-22 13:46:41,409 - BasePage - INFO - 定位元素成功——#n2>h3>span
+2019-08-22 13:46:41,649 - BasePage - INFO - 点击元素成功——#n2>h3>span
+2019-08-22 13:46:42,659 - BasePage - INFO - 定位元素成功——#n2-5>span
+2019-08-22 13:46:42,889 - BasePage - INFO - 点击元素成功——#n2-5>span
+2019-08-22 13:46:43,899 - BasePage - INFO - 定位元素成功——//li[@id='n2-5-1']/a
+2019-08-22 13:46:45,040 - BasePage - INFO - 点击元素成功——//li[@id='n2-5-1']/a
+2019-08-22 13:46:46,080 - BasePage - INFO - 定位元素成功——//input[@value='新增入库单']
+2019-08-22 13:46:46,850 - BasePage - INFO - 点击元素成功——//input[@value='新增入库单']
+2019-08-22 13:46:47,898 - BasePage - INFO - 定位元素成功——//input[@value='选择合同']
+2019-08-22 13:46:48,128 - BasePage - INFO - 点击元素成功——//input[@value='选择合同']
+2019-08-22 13:46:49,139 - BasePage - INFO - 定位元素成功——//input[@id='searchInput1']
+2019-08-22 13:46:50,249 - BasePage - INFO - 定位元素成功——//div[@id='choseContract']//div[@class='modal-search-right fr']//input[@value='搜索']
+2019-08-22 13:46:50,479 - BasePage - INFO - 点击元素成功——//div[@id='choseContract']//div[@class='modal-search-right fr']//input[@value='搜索']
+2019-08-22 13:46:52,490 - BasePage - INFO - 定位元素成功——//i[@class='icon radio radio-no']
+2019-08-22 13:46:52,720 - BasePage - INFO - 点击元素成功——//i[@class='icon radio radio-no']
+2019-08-22 13:46:53,730 - BasePage - INFO - 定位元素成功——//div[@id='choseContract']//div[@class='btns-div']//input[@value='确定']
+2019-08-22 13:46:53,960 - BasePage - INFO - 点击元素成功——//div[@id='choseContract']//div[@class='btns-div']//input[@value='确定']
+2019-08-22 13:46:55,000 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[1]/input
+2019-08-22 13:46:56,070 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[2]/input
+2019-08-22 13:46:57,151 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[6]/input
+2019-08-22 13:46:58,211 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[7]/input
+2019-08-22 13:46:59,281 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[8]/input
+2019-08-22 13:47:00,362 - BasePage - INFO - 定位元素成功——from
+2019-08-22 13:47:01,432 - BasePage - INFO - 定位元素成功——to
+2019-08-22 13:47:02,502 - BasePage - INFO - 定位元素成功——prePayDate
+2019-08-22 13:47:03,572 - BasePage - INFO - 定位元素成功——//input[@id='operator']
+2019-08-22 13:47:04,623 - BasePage - INFO - 定位元素成功——//button[@id='selectfiles1']
+2019-08-22 13:47:05,013 - BasePage - INFO - 点击元素成功——//button[@id='selectfiles1']
+2019-08-22 13:47:08,989 - BasePage - INFO - 定位元素成功——//input[@value='提交']
+2019-08-22 13:47:09,249 - BasePage - INFO - 点击元素成功——//input[@value='提交']
+2019-08-22 13:47:11,269 - BasePage - INFO - 定位元素成功——//div[@class='dialog__footer']/a
+2019-08-22 13:47:11,749 - BasePage - INFO - 点击元素成功——//div[@class='dialog__footer']/a
+2019-08-22 13:47:12,769 - BasePage - INFO - 定位元素成功——//a[@status='4']
+2019-08-22 13:47:13,010 - BasePage - INFO - 点击元素成功——//a[@status='4']
+2019-08-22 13:47:14,150 - BasePage - INFO - 开始写入入库单编号
+2019-08-22 13:47:14,150 - BasePage - INFO - 正在写入RK190822003
+2019-08-22 13:47:14,150 - BasePage - INFO - 正在写入RK190820002
+2019-08-22 13:47:14,150 - BasePage - INFO - 正在写入RK190820001
+2019-08-22 13:47:14,150 - BasePage - INFO - 正在写入RK190819006
+2019-08-22 13:47:14,160 - BasePage - INFO - 正在写入RK190819005
+2019-08-22 13:47:14,160 - BasePage - INFO - 正在写入RK190819004
+2019-08-22 13:47:14,160 - BasePage - INFO - 正在写入RK190819003
+2019-08-22 13:47:14,160 - BasePage - INFO - 正在写入RK190819001
+2019-08-22 13:47:14,160 - BasePage - INFO - 正在写入RK190819002
+2019-08-22 13:47:14,160 - BasePage - INFO - 正在写入RK190722001
+2019-08-22 13:47:14,160 - BasePage - INFO - 入库单写入完成

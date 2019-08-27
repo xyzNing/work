@@ -1,0 +1,48 @@
+basePage.py                 63 INFO     定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+basePage.py                 95 INFO     点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+basePage.py                 63 INFO     定位元素成功——#n2>h3>span
+basePage.py                 95 INFO     点击元素成功——#n2>h3>span
+basePage.py                 63 INFO     定位元素成功——#n2-5>span
+basePage.py                 95 INFO     点击元素成功——#n2-5>span
+basePage.py                 63 INFO     定位元素成功——//li[@id='n2-5-1']/a
+basePage.py                 95 INFO     点击元素成功——//li[@id='n2-5-1']/a
+basePage.py                 63 INFO     定位元素成功——//input[@value='新增入库单']
+basePage.py                 95 INFO     点击元素成功——//input[@value='新增入库单']
+basePage.py                 63 INFO     定位元素成功——//input[@value='选择合同']
+basePage.py                 95 INFO     点击元素成功——//input[@value='选择合同']
+basePage.py                 63 INFO     定位元素成功——//input[@id='searchInput1']
+basePage.py                 63 INFO     定位元素成功——//div[@id='choseContract']//div[@class='modal-search-right fr']//input[@value='搜索']
+basePage.py                 95 INFO     点击元素成功——//div[@id='choseContract']//div[@class='modal-search-right fr']//input[@value='搜索']
+basePage.py                 63 INFO     定位元素成功——//i[@class='icon radio radio-no']
+basePage.py                 95 INFO     点击元素成功——//i[@class='icon radio radio-no']
+basePage.py                 63 INFO     定位元素成功——//div[@id='choseContract']//div[@class='btns-div']//input[@value='确定']
+basePage.py                 95 INFO     点击元素成功——//div[@id='choseContract']//div[@class='btns-div']//input[@value='确定']
+basePage.py                 63 INFO     定位元素成功——//tbody[@id='productTbody2']/tr/td[1]/input
+basePage.py                 63 INFO     定位元素成功——//tbody[@id='productTbody2']/tr/td[2]/input
+basePage.py                 63 INFO     定位元素成功——//tbody[@id='productTbody2']/tr/td[6]/input
+basePage.py                 63 INFO     定位元素成功——//tbody[@id='productTbody2']/tr/td[7]/input
+basePage.py                 63 INFO     定位元素成功——//tbody[@id='productTbody2']/tr/td[8]/input
+basePage.py                 63 INFO     定位元素成功——from
+basePage.py                 63 INFO     定位元素成功——to
+basePage.py                 63 INFO     定位元素成功——prePayDate
+basePage.py                 63 INFO     定位元素成功——//input[@id='operator']
+basePage.py                 63 INFO     定位元素成功——//button[@id='selectfiles1']
+basePage.py                 95 INFO     点击元素成功——//button[@id='selectfiles1']
+basePage.py                 63 INFO     定位元素成功——//input[@value='提交']
+basePage.py                 95 INFO     点击元素成功——//input[@value='提交']
+basePage.py                 63 INFO     定位元素成功——//div[@class='dialog__footer']/a
+basePage.py                 95 INFO     点击元素成功——//div[@class='dialog__footer']/a
+basePage.py                 63 INFO     定位元素成功——//a[@status='4']
+basePage.py                 95 INFO     点击元素成功——//a[@status='4']
+basePage.py                271 INFO     开始写入入库单编号
+basePage.py                276 INFO     正在写入RK190820004
+basePage.py                276 INFO     正在写入RK190820003
+basePage.py                276 INFO     正在写入RK190820002
+basePage.py                276 INFO     正在写入RK190820001
+basePage.py                276 INFO     正在写入RK190819006
+basePage.py                276 INFO     正在写入RK190819005
+basePage.py                276 INFO     正在写入RK190819004
+basePage.py                276 INFO     正在写入RK190819003
+basePage.py                276 INFO     正在写入RK190819001
+basePage.py                276 INFO     正在写入RK190819002
+basePage.py                277 INFO     入库单写入完成

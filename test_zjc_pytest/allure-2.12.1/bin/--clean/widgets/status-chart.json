@@ -1,0 +1,31 @@
+[ {
+  "uid" : "b54a0dbc1fd8ec7",
+  "name" : "C:\\Work\\test_zjc_pytest\\case\\zjc.test_login.TestLogin.test_login1",
+  "time" : {
+    "start" : 1566287678473,
+    "stop" : 1566287688893,
+    "duration" : 10420
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27991859ad11aab0",
+  "name" : "C:\\Work\\test_zjc_pytest\\case\\zjc.test_login.TestLogin.test_login",
+  "time" : {
+    "start" : 1566287667821,
+    "stop" : 1566287678468,
+    "duration" : 10647
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efac59b09ec4215",
+  "name" : "C:\\Work\\test_zjc_pytest\\case\\zjc.test_Instock.TestInstock.test_add_instock",
+  "time" : {
+    "start" : 1566287590876,
+    "stop" : 1566287667817,
+    "duration" : 76941
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

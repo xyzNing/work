@@ -1,0 +1,8 @@
+2019-08-22 15:44:18,390 - conf - INFO - 打开火狐浏览器
+2019-08-22 15:44:21,268 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-08-22 15:44:22,297 - BasePage - INFO - 定位元素成功——username
+2019-08-22 15:44:23,368 - BasePage - INFO - 定位元素成功——password
+2019-08-22 15:44:24,447 - BasePage - INFO - 定位元素成功——login
+2019-08-22 15:44:26,869 - BasePage - INFO - 点击元素成功——login
+2019-08-22 15:44:37,050 - BasePage - ERROR - 定位元素失败——//input[@value='新增发票']
+2019-08-22 15:44:37,429 - BasePage - ERROR - 点击元素失败——//input[@value='新增发票']

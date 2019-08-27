@@ -1,0 +1,50 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1566287590876" stop="1566287688893">
+  <name>case</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1566287590876" status="passed" stop="1566287667817">
+      <description>新增入库单</description>
+      <name>C:\Work\test_zjc_pytest\case\zjc.test_Instock.TestInstock.test_add_instock</name>
+      <attachments>
+        <attachment source="b37a6d96-8b3f-45ec-bb82-257554be42ee-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="339e36b9-6149-494b-b9fc-10d56a499577-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="16844-MainThread"/>
+        <label name="host" value="DESKTOP-FL5D3QJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1566287667821" status="passed" stop="1566287678468">
+      <name>C:\Work\test_zjc_pytest\case\zjc.test_login.TestLogin.test_login</name>
+      <attachments>
+        <attachment source="a79deb59-212a-4737-a92a-396b9b7614f2-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="16844-MainThread"/>
+        <label name="host" value="DESKTOP-FL5D3QJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1566287678473" status="passed" stop="1566287688893">
+      <name>C:\Work\test_zjc_pytest\case\zjc.test_login.TestLogin.test_login1</name>
+      <attachments>
+        <attachment source="f0d3de54-e2e2-41f6-b9f2-0247041c0159-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="16844-MainThread"/>
+        <label name="host" value="DESKTOP-FL5D3QJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

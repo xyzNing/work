@@ -1,0 +1,17 @@
+2019-08-22 14:17:55,766 - conf - INFO - 打开火狐浏览器
+2019-08-22 14:17:56,483 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/custom.php/Login/login
+2019-08-22 14:17:57,515 - BasePage - INFO - 定位元素成功——username
+2019-08-22 14:17:58,593 - BasePage - INFO - 定位元素成功——password
+2019-08-22 14:17:59,668 - BasePage - INFO - 定位元素成功——submit_button
+2019-08-22 14:17:59,905 - BasePage - INFO - 点击元素成功——submit_button
+2019-08-22 14:18:01,969 - BasePage - INFO - 定位元素成功——//h3[@headerindex='6h']
+2019-08-22 14:18:02,268 - BasePage - INFO - 点击元素成功——//h3[@headerindex='6h']
+2019-08-22 14:18:03,300 - BasePage - INFO - 定位元素成功——//a[@title='入库管理']
+2019-08-22 14:18:03,929 - BasePage - INFO - 点击元素成功——//a[@title='入库管理']
+2019-08-22 14:18:03,957 - BasePage - INFO - 开始读instock信息
+2019-08-22 14:18:03,959 - BasePage - INFO - 读取instock完成
+2019-08-22 14:18:05,007 - BasePage - INFO - 定位元素成功——txtname
+2019-08-22 14:18:06,088 - BasePage - INFO - 定位元素成功——search_button
+2019-08-22 14:18:06,330 - BasePage - INFO - 点击元素成功——search_button
+2019-08-22 14:18:18,567 - BasePage - ERROR - 定位元素失败——//a[@title='审核']
+2019-08-22 14:18:18,725 - BasePage - ERROR - 点击元素失败——//a[@title='审核']

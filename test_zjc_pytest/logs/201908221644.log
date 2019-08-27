@@ -1,0 +1,6 @@
+2019-08-22 16:44:41,616 - conf - INFO - 打开火狐浏览器
+2019-08-22 16:44:43,896 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-08-22 16:44:44,925 - BasePage - INFO - 定位元素成功——username
+2019-08-22 16:44:45,993 - BasePage - INFO - 定位元素成功——password
+2019-08-22 16:44:47,069 - BasePage - INFO - 定位元素成功——login
+2019-08-22 16:44:49,394 - BasePage - INFO - 点击元素成功——login

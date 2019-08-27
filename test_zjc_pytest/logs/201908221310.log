@@ -1,0 +1,42 @@
+2019-08-22 13:10:46,254 - conf - INFO - 打开火狐浏览器
+2019-08-22 13:10:48,978 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-08-22 13:10:50,009 - BasePage - INFO - 定位元素成功——username
+2019-08-22 13:10:51,069 - BasePage - INFO - 定位元素成功——password
+2019-08-22 13:10:52,149 - BasePage - INFO - 定位元素成功——login
+2019-08-22 13:10:54,471 - BasePage - INFO - 点击元素成功——login
+2019-08-22 13:10:55,505 - BasePage - INFO - 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-08-22 13:11:17,442 - BasePage - INFO - 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-08-22 13:11:18,472 - BasePage - INFO - 定位元素成功——#n2>h3>span
+2019-08-22 13:11:18,712 - BasePage - INFO - 点击元素成功——#n2>h3>span
+2019-08-22 13:11:19,722 - BasePage - INFO - 定位元素成功——#n2-5>span
+2019-08-22 13:11:19,952 - BasePage - INFO - 点击元素成功——#n2-5>span
+2019-08-22 13:11:20,963 - BasePage - INFO - 定位元素成功——//li[@id='n2-5-1']/a
+2019-08-22 13:11:22,073 - BasePage - INFO - 点击元素成功——//li[@id='n2-5-1']/a
+2019-08-22 13:11:23,103 - BasePage - INFO - 定位元素成功——//input[@value='新增入库单']
+2019-08-22 13:11:23,883 - BasePage - INFO - 点击元素成功——//input[@value='新增入库单']
+2019-08-22 13:11:24,914 - BasePage - INFO - 定位元素成功——//input[@value='选择合同']
+2019-08-22 13:11:25,154 - BasePage - INFO - 点击元素成功——//input[@value='选择合同']
+2019-08-22 13:11:26,164 - BasePage - INFO - 定位元素成功——//input[@id='searchInput1']
+2019-08-22 13:11:27,224 - BasePage - INFO - 定位元素成功——//div[@id='choseContract']//div[@class='modal-search-right fr']//input[@value='搜索']
+2019-08-22 13:11:27,444 - BasePage - INFO - 点击元素成功——//div[@id='choseContract']//div[@class='modal-search-right fr']//input[@value='搜索']
+2019-08-22 13:11:29,455 - BasePage - INFO - 定位元素成功——//i[@class='icon radio radio-no']
+2019-08-22 13:11:29,675 - BasePage - INFO - 点击元素成功——//i[@class='icon radio radio-no']
+2019-08-22 13:11:30,685 - BasePage - INFO - 定位元素成功——//div[@id='choseContract']//div[@class='btns-div']//input[@value='确定']
+2019-08-22 13:11:30,905 - BasePage - INFO - 点击元素成功——//div[@id='choseContract']//div[@class='btns-div']//input[@value='确定']
+2019-08-22 13:11:31,916 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[1]/input
+2019-08-22 13:11:32,976 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[2]/input
+2019-08-22 13:11:34,056 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[6]/input
+2019-08-22 13:11:35,116 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[7]/input
+2019-08-22 13:11:36,177 - BasePage - INFO - 定位元素成功——//tbody[@id='productTbody2']/tr/td[8]/input
+2019-08-22 13:11:37,237 - BasePage - INFO - 定位元素成功——from
+2019-08-22 13:11:38,317 - BasePage - INFO - 定位元素成功——to
+2019-08-22 13:11:39,378 - BasePage - INFO - 定位元素成功——prePayDate
+2019-08-22 13:11:40,438 - BasePage - INFO - 定位元素成功——//input[@id='operator']
+2019-08-22 13:11:41,478 - BasePage - INFO - 定位元素成功——//button[@id='selectfiles1']
+2019-08-22 13:11:42,148 - BasePage - INFO - 点击元素成功——//button[@id='selectfiles1']
+2019-08-22 13:11:46,209 - BasePage - INFO - 定位元素成功——//input[@value='提交']
+2019-08-22 13:11:46,469 - BasePage - INFO - 点击元素成功——//input[@value='提交']
+2019-08-22 13:11:47,480 - BasePage - INFO - 定位元素成功——//div[@class='dialog__footer']/a
+2019-08-22 13:11:47,704 - BasePage - INFO - 点击元素成功——//div[@class='dialog__footer']/a
+2019-08-22 13:11:57,727 - BasePage - ERROR - 定位元素失败——//a[@status='4']
+2019-08-22 13:11:57,907 - BasePage - ERROR - 点击元素失败——//a[@status='4']

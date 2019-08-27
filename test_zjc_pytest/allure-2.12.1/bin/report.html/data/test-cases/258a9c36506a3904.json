@@ -1,0 +1,77 @@
+{
+  "uid" : "258a9c36506a3904",
+  "name" : "C:\\Work\\test_zjc_pytest\\case\\zjc.test_login.TestLogin.test_login",
+  "fullName" : "case.C:\\Work\\test_zjc_pytest\\case\\zjc.test_login.TestLogin.test_login",
+  "historyId" : "4aa2e95480575d4fcaa2826812682c37",
+  "time" : {
+    "start" : 1566285801998,
+    "stop" : 1566285812924,
+    "duration" : 10926
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a98a9bfab90ac1f9",
+      "name" : "Captured log call",
+      "source" : "a98a9bfab90ac1f9.txt",
+      "type" : "text/plain",
+      "size" : 366
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-FL5D3QJ"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "840-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "case"
+  }, {
+    "name" : "testClass",
+    "value" : "case"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Work\\test_zjc_pytest\\case\\zjc.test_login.TestLogin.test_login"
+  }, {
+    "name" : "package",
+    "value" : "case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "258a9c36506a3904.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,3 @@
+2019-08-22 15:31:00,442 - conf - INFO - 打开火狐浏览器
+2019-08-22 15:31:03,649 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-08-22 15:31:13,765 - BasePage - ERROR - 定位元素失败——username
