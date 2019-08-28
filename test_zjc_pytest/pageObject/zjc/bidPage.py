@@ -3,9 +3,8 @@ from public.basePage import BasePage
 from selenium.webdriver.common.by import By
 import time
 
-
 class PublicBid(BasePage):
-    location_public_bid = (By.XPATH,"//p[@class='fr']/input[3]")
+    location_public_bid = (By.XPATH,"//input[@value='发布标书']")
     #标书基本信息
     location_bid_type = (By.ID, "//div[@id='bidType'/i[1]")
     location_bid_project = (By.ID,"bidProject")
@@ -48,6 +47,7 @@ class PublicBid(BasePage):
     #招标要求
     tender_closing_time=(By.ID,"endTime")
     calibration_date=(By.ID,'confirmTime')
+    entry_data=(By.ID,'forecastTime')
     sent_sample=(By.XPATH,".//*[@id='sentSampleLi']/div/i[1]")
     sent_product=(By.XPATH,".//*[@id='sentProductLi']/div/i[1]")
 
@@ -60,20 +60,20 @@ class PublicBid(BasePage):
     address = (By.ID,"address")
 
     quote_type = (By.XPATH,".//*[@id='quoteTypeLi']/div/i[1]")
-    location_pay_day = (By.XPATH,".//*[@id='payDaysLi']/div/i[1]")
-    location_pay_way = (By.ID,"payway")
+    location_pay_day = (By.XPATH,".//*[@id='payDaysLi']/div/i[1]")  #付款天数
+    location_pay_way = (By.ID,"payway")  #付款方式
     location_invoice_type = (By.XPATH,".//*[@id='invoice_type']/i[2]")   #发票要求
     location_is_deposit = (By.XPATH, "//li[@id='depositLi']/div/i[1]")  # 是否保证金   1不需要 2需要
     location_is_deposit2=(By.XPATH,"//li[@id='depositLi']/div/i[2]")  #是否保证金   1不需要 2需要
     location_money=(By.XPATH,"//li[@id='depositBox']/input")   #标书保证金金额
-    location_second_next = (By.XPATH,"//*[@id='step2']/div[2]/input[3]")   #下一步
+    location_second_next = (By.XPATH,"//input[@value='下一步']")   #下一步
     location_public_button=(By.XPATH,"//input[@value='发布标书']")
     public_tender = (By.ID,'addBidBtn')
     #选择金融产品
     financial_product=(By.XPATH,".//li[@id='260']//div[@class='poa cursor opens']")
     financia_day=(By.XPATH,".//li[@id='260']//input[@name='paydays']")
     public=(By.ID,"addBidBtn")
-    confirm3=(By.LINK_TEXT,"确认")
+    confirm3=(By.XPATH,"//div[@class='btns-div']/input[4]")  #金融标书确认按钮，不管是否时金融标书
 
     #处理发布标书成功后的弹框
     bid_success=(By.XPATH,".//div[@class='dialog__footer']/a")
@@ -131,14 +131,17 @@ class PublicBid(BasePage):
         self.send_keys(self.location_bid_content,content)
         self.click(self.location_first_next)
 
-    def input_date(self,date1,date2):
+    def input_date(self,date1,date2,date3):
         js1= 'document.getElementById("endTime").removeAttribute("readonly")'
         js2='document.getElementById("confirmTime").removeAttribute("readonly")'
+        js3='document.getElementById("forecastTime").removeAttribute("readonly")'
         self.driver.execute_script(js1)
         self.driver.execute_script(js2)
-
+        self.driver.execute_script(js3)
         self.send_keys(self.tender_closing_time,date1)
         self.send_keys(self.calibration_date,date2)
+        self.send_keys(self.entry_data,date3)
+
 
     def input_address(self,address):
         self.click(self.provice)
@@ -161,11 +164,9 @@ class PublicBid(BasePage):
     def invoice_type(self):
         self.click(self.location_invoice_type)
         self.click(self.location_is_deposit)
-        self.click(self.location_second_next)
 
     def click_submit(self):
-        self.click(self.public_tender)
-        self.click(self.bid_success)
+        self.click(self.location_public_button)
 
     def base_info(self,bidname, linkname, linkphone, name, model, unit, amount, price, content):
 
@@ -176,13 +177,12 @@ class PublicBid(BasePage):
         self.input_material(name,model,unit,amount,price)
         self.input_bid_content(content)
 
-    def bid_request(self,date1,date2,text):
-        self.input_date(date1,date2)
+    def bid_require(self,date1,date2,date3,text):
+        self.input_date(date1,date2,date3)
         self.click(self.sent_sample)
         self.click(self.sent_product)
         # self.input_address(address)
         self.click(self.quote_type)
-        self.click(self.location_pay_day)
         self.pay_way(text)
         self.invoice_type()
 

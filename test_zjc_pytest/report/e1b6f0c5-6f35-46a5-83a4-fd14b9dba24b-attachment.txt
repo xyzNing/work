@@ -1,0 +1,7 @@
+INFO     BasePage:basePage.py:45 打开网址 http://zjcbytest.zhutx.net/
+INFO     BasePage:basePage.py:63 定位元素成功——username
+INFO     BasePage:basePage.py:63 定位元素成功——password
+INFO     BasePage:basePage.py:63 定位元素成功——login
+INFO     BasePage:basePage.py:95 点击元素成功——login
+ERROR    BasePage:basePage.py:66 定位元素失败——//p[@class='fr']/input[3]
+ERROR    BasePage:basePage.py:97 点击元素失败——//p[@class='fr']/input[3]

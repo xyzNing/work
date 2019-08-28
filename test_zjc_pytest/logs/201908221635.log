@@ -1,3 +1,0 @@
-2019-08-22 16:35:30,591 - conf - INFO - 打开火狐浏览器
-2019-08-22 16:35:40,736 - BasePage - ERROR - 定位元素失败——//a[@class='index-login__link mt16 goAdminPage']
-2019-08-22 16:35:40,870 - BasePage - ERROR - 点击元素失败——//a[@class='index-login__link mt16 goAdminPage']

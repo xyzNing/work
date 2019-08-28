@@ -1,0 +1,101 @@
+[ {
+  "uid" : "5d637e907ec47c45",
+  "name" : "test_addInvoice",
+  "time" : {
+    "start" : 1566978136140,
+    "stop" : 1566978140351,
+    "duration" : 4211
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "24b6e4cde87cb05",
+  "name" : "test_check_instock",
+  "time" : {
+    "start" : 1566978215520,
+    "stop" : 1566978236421,
+    "duration" : 20901
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6c42c585c2c4e1a9",
+  "name" : "test_add_instock",
+  "time" : {
+    "start" : 1566978180853,
+    "stop" : 1566978180853,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f937108a4c7e7b91",
+  "name" : "test_ensure_Invoice",
+  "time" : {
+    "start" : 1566978257596,
+    "stop" : 1566978257596,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8d2020f378450f13",
+  "name" : "test_check_invoice",
+  "time" : {
+    "start" : 1566978240495,
+    "stop" : 1566978257524,
+    "duration" : 17029
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d29e451d918141fc",
+  "name" : "test_01",
+  "time" : {
+    "start" : 1566978192670,
+    "stop" : 1566978192670,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7bc138871deb15bb",
+  "name" : "test_login1",
+  "time" : {
+    "start" : 1566978156762,
+    "stop" : 1566978163498,
+    "duration" : 6736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5322cfd150815d2a",
+  "name" : "test_addInstokc",
+  "time" : {
+    "start" : 1566978122901,
+    "stop" : 1566978122901,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "863e6a34e397c1b3",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1566978146157,
+    "stop" : 1566978153051,
+    "duration" : 6894
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29e0f197cef0f249",
+  "name" : "test_ordinary_bid",
+  "time" : {
+    "start" : 1566978170231,
+    "stop" : 1566978180755,
+    "duration" : 10524
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

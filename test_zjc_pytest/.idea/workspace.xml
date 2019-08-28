@@ -1,7 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="460eda7a-35dc-43a2-8b61-e03ca8bb9087" name="Default Changelist" comment="" />
+    <list default="true" id="460eda7a-35dc-43a2-8b61-e03ca8bb9087" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/attachments/525fa1d648ed4c84.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/attachments/9bb7f7c0bd13c4e9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/attachments/c960fab655706a74.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/attachments/efde86b7e8cbd0ec.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/run_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/test-cases/27991859ad11aab0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/test-cases/b54a0dbc1fd8ec7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/test-cases/efac59b09ec4215.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/--clean/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/allure-report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/attachments/a98a9bfab90ac1f9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/attachments/c750c358ab49162c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/attachments/d88cede132488164.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/attachments/f370140e06932b53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/test-cases/21e9189b37a29d48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/test-cases/258a9c36506a3904.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/test-cases/df38dc1def64aa54.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-2.12.1/bin/report.html/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/zjc/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/case/zjc/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/zjc/test_2_public_bid.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/zjc/test_2_public_bid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908191349.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221310.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221312.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221314.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221345.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221347.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221351.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221355.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221416.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221417.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221419.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221420.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221423.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221528.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221529.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221530.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221533.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221544.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221548.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221550.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221552.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221558.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221559.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221619.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221627.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221629.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221630.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221631.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221635.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221637.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221638.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221641.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221644.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221645.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221652.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221706.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221708.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908221709.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908231628.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908231631.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908231632.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908231634.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201908231646.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObject/zjc/bidPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/zjc/bidPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/339e36b9-6149-494b-b9fc-10d56a499577-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/797c7dc9-feb0-4744-a10d-7951c6f1b4b7-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/a79deb59-212a-4737-a92a-396b9b7614f2-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/b37a6d96-8b3f-45ec-bb82-257554be42ee-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/f0d3de54-e2e2-41f6-b9f2-0247041c0159-attachment.txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,15 +192,19 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_assert_center_py.coverage" NAME="pytest in test_asset_center.py Coverage Results" MODIFIED="1566550029445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/jinfu" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_1_login_py.coverage" NAME="pytest in test_1_login.py Coverage Results" MODIFIED="1566974768548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_4_check_invoice_py.coverage" NAME="pytest in test_4_check_invoice.py Coverage Results" MODIFIED="1566463946021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_login_py.coverage" NAME="pytest in test_login.py Coverage Results" MODIFIED="1566272167849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_testLogin_py.coverage" NAME="pytest in test_login.py Coverage Results" MODIFIED="1566199867617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_3_Instock_py.coverage" NAME="pytest in test_3_Instock.py Coverage Results" MODIFIED="1566982834505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_cus_check_instock_py.coverage" NAME="pytest in test_4_check_instock.py Coverage Results" MODIFIED="1566455005776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_add_instock_py.coverage" NAME="pytest in test_addInstock.py Coverage Results" MODIFIED="1566202029948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_for_test_cus_check_instock_TestCheckInstock_test_check_instock.coverage" NAME="pytest for test_cus_check_instock.TestCheckInstock.test_check_instock Coverage Results" MODIFIED="1566440163912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_Instock_py.coverage" NAME="pytest in test_3_Instock.py Coverage Results" MODIFIED="1566462643852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_public_bid_py.coverage" NAME="pytest in test_2_public_bid.py Coverage Results" MODIFIED="1566982518708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_bid_public_py.coverage" NAME="pytest in test_bid_public.py Coverage Results" MODIFIED="1566294589301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_invoice_py.coverage" NAME="pytest in test_3_invoice.py Coverage Results" MODIFIED="1566463520030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1566982670663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_5_ensure_invoice_py.coverage" NAME="pytest in test_5_ensure_invoice.py Coverage Results" MODIFIED="1566464970718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_addInstock_py.coverage" NAME="pytest in test_addInstock.py Coverage Results" MODIFIED="1566204533544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$orc.coverage" NAME="orc Coverage Results" MODIFIED="1566788054814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/jinfu" />
@@ -97,63 +283,93 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="425186817">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="htmlpytest" value="1" />
+          <entry key="log" value="1" />
+          <entry key="py" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="49" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="49" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/jinfu/test_asset_center.py">
+        <entry file="file://$PROJECT_DIR$/case/jinfu/re_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="496">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/jinfu/orc.py">
+        <entry file="file://$PROJECT_DIR$/run_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="186">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/zjc/test_1_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1085">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/zjc/test_2_public_bid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/case/jinfu/re_test.py">
+        <entry file="file://$PROJECT_DIR$/pageObject/zjc/bidPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="16" column="52" lean-forward="true" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pageObject/jinfu/assetCenter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="500">
+              <caret line="167" column="8" selection-start-line="167" selection-start-column="8" selection-end-line="167" selection-end-column="8" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geckodriver.log">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#16#52#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,37 +378,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageObject/zjc/purBackStage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding>
-                <element signature="e#14#50#0" expanded="true" />
-                <marker date="1566460132913" expanded="true" signature="1960:2091" ph="..." />
-              </folding>
+            <state relative-caret-position="899">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/zjc/conftest.py">
+        <entry file="file://$PROJECT_DIR$/case/zjc/test_3_Instock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1566440369489" expanded="true" signature="125:130" ph="..." />
-              </folding>
+            <state relative-caret-position="186">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pageObject/zjc/purInvoice.py">
+        <entry file="file://$PROJECT_DIR$/case/zjc/test_3_invoice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2542">
-              <caret line="84" column="4" selection-start-line="84" selection-start-column="5" selection-end-line="89" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1798">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/201908231647.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -227,6 +441,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -266,6 +483,9 @@
         <option value="$PROJECT_DIR$/case/jinfu/test_asset_center.py" />
         <option value="$PROJECT_DIR$/case/jinfu/orc.py" />
         <option value="$PROJECT_DIR$/case/jinfu/re_test.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/bidPage.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_public_bid.py" />
+        <option value="$PROJECT_DIR$/run_all.py" />
       </list>
     </option>
   </component>
@@ -275,18 +495,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -303,18 +523,12 @@
               <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
               <item name="case" type="462c0819:PsiDirectoryNode" />
-              <item name="jinfu" type="462c0819:PsiDirectoryNode" />
+              <item name="zjc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
-              <item name="pageObject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
-              <item name="pageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="jinfu" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
@@ -324,12 +538,19 @@
             <path>
               <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,7 +558,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -361,7 +582,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.re_test">
+  <component name="RunManager" selected="Python tests.pytest in test_3_Instock.py">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -448,28 +669,6 @@
       <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
-    <configuration name="orc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test_zjc_pytest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/jinfu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/jinfu/orc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="re_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_zjc_pytest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -492,7 +691,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_4_check_invoice.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="run_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_zjc_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_1_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_zjc_pytest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -504,11 +725,11 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_4_check_invoice.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_1_login.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_5_ensure_invoice.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_2_public_bid.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_zjc_pytest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -520,40 +741,40 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_5_ensure_invoice.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_2_public_bid.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_asset_center.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_3_Instock.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_zjc_pytest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/jinfu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/zjc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/jinfu/test_asset_center.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_3_Instock.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest in test_4_check_invoice.py" />
-      <item itemvalue="Python tests.pytest in test_5_ensure_invoice.py" />
-      <item itemvalue="Python tests.pytest in test_asset_center.py" />
-      <item itemvalue="Python.orc" />
       <item itemvalue="Python.re_test" />
+      <item itemvalue="Python.run_all" />
+      <item itemvalue="Python tests.pytest in test_1_login.py" />
+      <item itemvalue="Python tests.pytest in test_2_public_bid.py" />
+      <item itemvalue="Python tests.pytest in test_3_Instock.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_3_Instock.py" />
+        <item itemvalue="Python.run_all" />
+        <item itemvalue="Python tests.pytest in test_2_public_bid.py" />
+        <item itemvalue="Python tests.pytest in test_1_login.py" />
         <item itemvalue="Python.re_test" />
-        <item itemvalue="Python.orc" />
-        <item itemvalue="Python tests.pytest in test_asset_center.py" />
-        <item itemvalue="Python tests.pytest in test_5_ensure_invoice.py" />
-        <item itemvalue="Python tests.pytest in test_4_check_invoice.py" />
       </list>
     </recent_temporary>
   </component>
@@ -571,27 +792,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_4_check_invoice_py - 2019.08.22 at 16h 54m 07s.xml">
-      <configuration name="pytest in test_4_check_invoice.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_5_ensure_invoice_py - 2019.08.22 at 17h 07m 29s.xml">
-      <configuration name="pytest in test_5_ensure_invoice.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_5_ensure_invoice_py - 2019.08.22 at 17h 09m 14s.xml">
-      <configuration name="pytest in test_5_ensure_invoice.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_5_ensure_invoice_py - 2019.08.22 at 17h 11m 49s.xml">
-      <configuration name="pytest in test_5_ensure_invoice.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_assert_center_py - 2019.08.23 at 16h 28m 52s.xml">
-      <configuration name="pytest in test_assert_center.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_asset_center_py - 2019.08.23 at 16h 31m 54s.xml">
-      <configuration name="pytest in test_asset_center.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_asset_center_py - 2019.08.23 at 16h 32m 34s.xml">
-      <configuration name="pytest in test_asset_center.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_asset_center_py - 2019.08.23 at 16h 34m 39s.xml">
       <configuration name="pytest in test_asset_center.py" configurationId="tests" />
     </history-entry>
@@ -601,23 +801,44 @@
     <history-entry file="pytest_in_test_asset_center_py - 2019.08.23 at 16h 47m 57s.xml">
       <configuration name="pytest in test_asset_center.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_test_1_login_py - 2019.08.28 at 14h 23m 54s.xml">
+      <configuration name="pytest in test_1_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_login_py - 2019.08.28 at 14h 44m 21s.xml">
+      <configuration name="pytest in test_1_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_1_login_py - 2019.08.28 at 14h 46m 10s.xml">
+      <configuration name="pytest in test_1_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_2_public_bid_py - 2019.08.28 at 15h 46m 23s.xml">
+      <configuration name="pytest in test_2_public_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_2_public_bid_py - 2019.08.28 at 15h 49m 39s.xml">
+      <configuration name="pytest in test_2_public_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_2_public_bid_py - 2019.08.28 at 16h 56m 41s.xml">
+      <configuration name="pytest in test_2_public_bid.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_3_Instock_py - 2019.08.28 at 17h 01m 48s.xml">
+      <configuration name="pytest in test_3_Instock.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27345845" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29758713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32765958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -662,9 +883,6 @@
     <entry file="file://$PROJECT_DIR$/case/zjc/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/case/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -678,23 +896,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_2_public_bid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="80" column="26" lean-forward="true" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/201908221312.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/201908221314.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/201908221312.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201908221314.log" />
     <entry file="file://$PROJECT_DIR$/public/log.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -709,64 +912,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_4_check_instock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageObject/zjc/bidPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/201908221423.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2928" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_1_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_3_invoice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1798">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_4_check_invoice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_3_Instock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/201908221423.log" />
     <entry file="file://$PROJECT_DIR$/public/basePage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2511">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_5_ensure_invoice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -781,9 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,9 +938,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -810,25 +954,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pageObject/zjc/purBackStage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="e#14#50#0" expanded="true" />
-            <marker date="1566460132913" expanded="true" signature="1960:2091" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/case/zjc/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1566440369489" expanded="true" signature="125:130" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -836,9 +965,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2542">
           <caret line="84" column="4" selection-start-line="84" selection-start-column="5" selection-end-line="89" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/report.htmlpytest">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_4_check_instock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_4_check_invoice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_5_ensure_invoice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/jinfu/re_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_1_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/purBackStage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_3_invoice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1798">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/201908231647.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -854,10 +1049,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/case/jinfu/re_test.py">
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_3_Instock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="16" column="52" lean-forward="true" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        <state relative-caret-position="186">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_2_public_bid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/bidPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="167" column="8" selection-start-line="167" selection-start-column="8" selection-end-line="167" selection-end-column="8" />
+          <folding>
+            <element signature="e#16#52#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

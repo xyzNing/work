@@ -1,0 +1,200 @@
+{
+  "67da9484ed5db365ef3e3c72ec4dc62f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "863e6a34e397c1b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566978146157,
+        "stop" : 1566978153051,
+        "duration" : 6894
+      }
+    } ]
+  },
+  "f31c39c86c42c62da1d9c3df1c4fc204" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c42c585c2c4e1a9",
+      "status" : "broken",
+      "statusDetails" : "Exception: 元素未找到",
+      "time" : {
+        "start" : 1566978180853,
+        "stop" : 1566978180853,
+        "duration" : 0
+      }
+    } ]
+  },
+  "13c8714dc2c4ec79bff59ec8ad1c4525" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24b6e4cde87cb05",
+      "status" : "broken",
+      "statusDetails" : "Exception: 元素未找到",
+      "time" : {
+        "start" : 1566978215520,
+        "stop" : 1566978236421,
+        "duration" : 20901
+      }
+    } ]
+  },
+  "ccd791bbf555c0049c36c16c25f72674" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5322cfd150815d2a",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'TestAssertCenter' object has no attribute 'driver'",
+      "time" : {
+        "start" : 1566978122901,
+        "stop" : 1566978122901,
+        "duration" : 0
+      }
+    } ]
+  },
+  "42a91070b23ff8eae5589477eab1ae30" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8d2020f378450f13",
+      "status" : "broken",
+      "statusDetails" : "Exception: 元素未找到",
+      "time" : {
+        "start" : 1566978240495,
+        "stop" : 1566978257524,
+        "duration" : 17029
+      }
+    } ]
+  },
+  "2d4ac25737a7222fb923788e144f2bca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d29e451d918141fc",
+      "status" : "broken",
+      "statusDetails" : "Exception: 元素未找到",
+      "time" : {
+        "start" : 1566978192670,
+        "stop" : 1566978192670,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6d80c61ceae82666f7f9ce0b5fc804eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bc138871deb15bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566978156762,
+        "stop" : 1566978163498,
+        "duration" : 6736
+      }
+    } ]
+  },
+  "88d25a6a298a3a1fba1f155d6c530073" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29e0f197cef0f249",
+      "status" : "broken",
+      "statusDetails" : "Exception: 元素未找到",
+      "time" : {
+        "start" : 1566978170231,
+        "stop" : 1566978180755,
+        "duration" : 10524
+      }
+    } ]
+  },
+  "71caa22d2a7fd14a806e902fa50d4f57" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d637e907ec47c45",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: Element <a class=\"c59b3f1\"> is not clickable at point (1130,716) because another element <div class=\"full-cover-modal\"> obscures it",
+      "time" : {
+        "start" : 1566978136140,
+        "stop" : 1566978140351,
+        "duration" : 4211
+      }
+    } ]
+  },
+  "94231c8879e77c8c0b7c8f3012378e33" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f937108a4c7e7b91",
+      "status" : "broken",
+      "statusDetails" : "Exception: 元素未找到",
+      "time" : {
+        "start" : 1566978257596,
+        "stop" : 1566978257596,
+        "duration" : 0
+      }
+    } ]
+  }
+}

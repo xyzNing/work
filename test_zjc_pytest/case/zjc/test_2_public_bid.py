@@ -3,7 +3,6 @@ import datetime
 from pageObject.zjc.purBackStage import *
 from pageObject.zjc.bidPage import *
 class  TestPubBid():
-
     def setup(self):
         self.username = 'a100073'  # a100048  a100073
         self.password = 'zjc123456'
@@ -25,23 +24,24 @@ class  TestPubBid():
         self.money = 3000
         self.day = 120
 
-    @pytest.fixture(scope='function')
-    def start(self,driver):
-        self.backStage = BackStage(driver)
-        self.backStage.bidSelf()
+    # @pytest.fixture(scope='function')
+    # def start(self,driver):
+
 
 
     # 测试发布普通标书
     @pytest.mark.usefixtures('login_pur')
     def test_ordinary_bid(self,driver):
         u'''发布普通标书'''
+        self.backStage = BackStage(driver)
+        self.backStage.bidSelf()
         self.bidname = self.bidname1 + datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
         # self.bidname = self.bidname1 + time.strftime("%Y-%m-%d-%H-%M-%S")
 
         self.publicBid = PublicBid(driver)
         self.publicBid.base_info(self.bidname, self.link_name, self.linkphone, self.name, self.model, self.unit,
                                  self.amount, self.price, self.content)
-        self.publicBid.bid_request(self.date1, self.date2, self.address, self.text)
+        self.publicBid.bid_require(self.date1, self.date2, self.date2,self.text)
         self.publicBid.click_submit()
 
 
@@ -80,4 +80,3 @@ class  TestPubBid():
 
 if __name__ == "__main__":
     pytest.main(['-v','test_2_public_bid.py'])
-

@@ -1,6 +1,0 @@
-2019-08-22 14:16:43,821 - conf - INFO - 打开火狐浏览器
-2019-08-22 14:16:44,548 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/custom.php/Login/login
-2019-08-22 14:16:45,576 - BasePage - INFO - 定位元素成功——username
-2019-08-22 14:16:46,659 - BasePage - INFO - 定位元素成功——password
-2019-08-22 14:16:47,733 - BasePage - INFO - 定位元素成功——submit_button
-2019-08-22 14:16:48,782 - BasePage - INFO - 点击元素成功——submit_button

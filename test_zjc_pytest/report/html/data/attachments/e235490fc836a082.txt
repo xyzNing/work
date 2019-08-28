@@ -1,0 +1,4 @@
+INFO     conf:conftest.py:13 打开火狐浏览器
+INFO     BasePage:basePage.py:45 打开网址 http://paybytest.zhutx.net/index/my_asset/asset
+INFO     BasePage:basePage.py:63 定位元素成功——//div[@class='mt15 fr w40p']//a[contains(text(),'上传')]
+ERROR    BasePage:basePage.py:97 点击元素失败——//div[@class='mt15 fr w40p']//a[contains(text(),'上传')]

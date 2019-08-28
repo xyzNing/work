@@ -1,4 +1,0 @@
-2019-08-23 16:32:26,489 - conf - INFO - 打开火狐浏览器
-2019-08-23 16:32:30,523 - BasePage - INFO - 打开网址 http://zlzrtest.zhutx.net/index/my_asset/asset
-2019-08-23 16:32:31,550 - BasePage - INFO - 定位元素成功——//div[@class='mt15 fr w40p']//a[contains(text(),'上传')]
-2019-08-23 16:32:31,570 - BasePage - ERROR - 点击元素失败——//div[@class='mt15 fr w40p']//a[contains(text(),'上传')]

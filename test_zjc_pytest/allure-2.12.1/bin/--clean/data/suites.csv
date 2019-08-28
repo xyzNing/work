@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Aug 20 15:54:38 CST 2019","Tue Aug 20 15:54:48 CST 2019","10420","","case","","case","C:\Work\test_zjc_pytest\case\zjc.test_login.TestLogin.test_login1","C:\Work\test_zjc_pytest\case\zjc.test_login.TestLogin.test_login1",""
-"passed","Tue Aug 20 15:54:27 CST 2019","Tue Aug 20 15:54:38 CST 2019","10647","","case","","case","C:\Work\test_zjc_pytest\case\zjc.test_login.TestLogin.test_login","C:\Work\test_zjc_pytest\case\zjc.test_login.TestLogin.test_login",""
-"passed","Tue Aug 20 15:53:10 CST 2019","Tue Aug 20 15:54:27 CST 2019","76941","","case","","case","C:\Work\test_zjc_pytest\case\zjc.test_Instock.TestInstock.test_add_instock","C:\Work\test_zjc_pytest\case\zjc.test_Instock.TestInstock.test_add_instock","新增入库单"
