@@ -58,6 +58,7 @@ class PublicInstock(BasePage):
 
     def getInstockNumber(self):
         self.click(self.loc_audit)
+        time.sleep(2)
         text=self.element_texts(self.loc_instock_num)
         return text
 

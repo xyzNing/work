@@ -9,7 +9,7 @@ class Logger():
         self.logger=logging.getLogger(logger)
         self.logger.setLevel(logging.DEBUG)
         rp=time.strftime("%Y%m%d%H%M",time.localtime(time.time()))
-        log_path=r'C:\Work\test_zjc_pytest\logs\\'
+        log_path=r'C:\gitStore\test_zjc_pytest\logs\\'
         log_name=log_path+rp+".log"
         dd=logging.handlers.TimedRotatingFileHandler(log_name,when='D',interval=1, backupCount=3,encoding='utf-8')
         # fh=logging.FileHandler(log_name,encoding='utf-8')

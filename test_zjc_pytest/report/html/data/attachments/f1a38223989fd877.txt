@@ -1,5 +1,0 @@
-INFO     BasePage:basePage.py:45 打开网址 http://zjcbytest.zhutx.net/
-INFO     BasePage:basePage.py:63 定位元素成功——username
-INFO     BasePage:basePage.py:63 定位元素成功——password
-INFO     BasePage:basePage.py:63 定位元素成功——login
-INFO     BasePage:basePage.py:95 点击元素成功——login

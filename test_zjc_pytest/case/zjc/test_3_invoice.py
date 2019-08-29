@@ -4,6 +4,11 @@ from pageObject.zjc.purBackStage import BackStage
 import time
 
 class TestInvoice():
+    @pytest.fixture(scope='function', autouse=True)
+    def is_login(self, driver):
+        driver.get("http://zjcbytest.zhutx.net/")
+        driver.delete_all_cookies()
+        driver.refresh()
 
     def setup(self):
         self.login_url = "http://zjcbytest.zhutx.net/"

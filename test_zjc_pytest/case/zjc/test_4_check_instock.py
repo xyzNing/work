@@ -1,6 +1,11 @@
 import pytest
 from pageObject.zjc.cusBackStage import CusBackStage
 class TestCheckInstock():
+    @pytest.fixture(scope='function', autouse=True)
+    def is_login(self, driver):
+        driver.get("http://zjcbytest.zhutx.net/")
+        driver.delete_all_cookies()
+        driver.refresh()
 
     @pytest.mark.usefixtures('login_cus')
     def test_check_instock(self,driver):

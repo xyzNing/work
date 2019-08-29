@@ -2,6 +2,11 @@ import pytest
 from pageObject.zjc.purBackStage import BackStage
 from pageObject.zjc.purInvoice import Invoice
 class TestEnsureInvoice():
+    @pytest.fixture(scope='function', autouse=True)
+    def is_login(self, driver):
+        driver.get("http://zjcbytest.zhutx.net/")
+        driver.delete_all_cookies()
+        driver.refresh()
 
     @pytest.mark.usefixtures('login_pur')
     def test_ensure_Invoice(self,driver):

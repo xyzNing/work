@@ -269,14 +269,17 @@ class BasePage(object):
             if type1 == "instock":
                 mylog.info("开始写入入库单编号")
                 for i in range(len(List)):
-                    print(len(List))
-                    print(List[i])
+                    # print(len(List))
+                    # print(List[i])
                     sheet1.write(row1 + 1, i, List[i])
                     mylog.info("正在写入"+List[i])
                 mylog.info("入库单写入完成")
             elif type1 == "invoice":
                 mylog.info("开始写入发票编号")
                 for i in range(len(List)):
+                    # print(len(List))
+                    # print(List[i])
+                    mylog.info("正在写入" + List[i])
                     sheet2.write(row2 + 1, i, List[i])
                 mylog.info("写入发票编号完成")
             new_book.save(file)
