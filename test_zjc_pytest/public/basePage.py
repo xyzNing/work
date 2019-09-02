@@ -111,6 +111,10 @@ class BasePage(object):
             element.send_keys(text)
         print('111')
 
+    def upload_pictures(self,selector):
+        self.click(selector)
+        os.system(r"C:\Users\ning\Desktop\SendPhoto.exe")
+
     #类似选择发票。选择合同的处理
     def choose(self,selector1,selector2,text,selector3,selector4,selector5):
         self.click(selector1)
@@ -119,7 +123,6 @@ class BasePage(object):
         sleep(1)
         self.click(selector4)
         self.click(selector5)
-
 
     def send_pictures(self):
         mylog.info("开始上传图片")
@@ -154,6 +157,10 @@ class BasePage(object):
     def select_by_index(self,selector,index):    #通过索引选择下拉框
         s=self.find_element(selector)
         Select(s).select_by_index(index)
+
+    def select_by_text(self,selector,text):     #通过下拉框的内容
+        s=self.find_element(selector)
+        Select(s).select_by_visible_text(text)
 #模拟鼠标操作
     def move_to_element(self,selector):     #移动到元素中
         try:
@@ -260,28 +267,37 @@ class BasePage(object):
             book = xlrd.open_workbook(file)
             row1 = book.sheet_by_name("instock").nrows
             row2 = book.sheet_by_name("invoice").nrows
+            row = book.sheet_by_name(type1).nrows
             sheets = book.sheet_names()
             print(sheets)
             print(row1, row2)
             new_book = copy(book)
-            sheet1 = new_book.get_sheet(0)
-            sheet2 = new_book.get_sheet(1)
-            if type1 == "instock":
-                mylog.info("开始写入入库单编号")
-                for i in range(len(List)):
-                    # print(len(List))
-                    # print(List[i])
-                    sheet1.write(row1 + 1, i, List[i])
-                    mylog.info("正在写入"+List[i])
-                mylog.info("入库单写入完成")
-            elif type1 == "invoice":
-                mylog.info("开始写入发票编号")
-                for i in range(len(List)):
-                    # print(len(List))
-                    # print(List[i])
-                    mylog.info("正在写入" + List[i])
-                    sheet2.write(row2 + 1, i, List[i])
-                mylog.info("写入发票编号完成")
+            sheet=new_book.get_sheet(type1)
+            mylog.info('开始写入%s编号'%type1)
+            for i in range(len(List)):
+                print(len(List))
+                print(List[i])
+                sheet.write(row1 + 1, i, List[i])
+                mylog.info("正在写入%s编号"%type1+List[i])
+            mylog.info("%s写入完成"%type1)
+            # sheet1 = new_book.get_sheet(0)
+            # sheet2 = new_book.get_sheet(1)
+            # if type1 == "instock":
+            #     mylog.info("开始写入入库单编号")
+            #     for i in range(len(List)):
+            #         # print(len(List))
+            #         # print(List[i])
+            #         sheet1.write(row1 + 1, i, List[i])
+            #         mylog.info("正在写入"+List[i])
+            #     mylog.info("入库单写入完成")
+            # elif type1 == "invoice":
+            #     mylog.info("开始写入发票编号")
+            #     for i in range(len(List)):
+            #         # print(len(List))
+            #         # print(List[i])
+            #         mylog.info("正在写入" + List[i])
+            #         sheet2.write(row2 + 1, i, List[i])
+            #     mylog.info("写入发票编号完成")
             new_book.save(file)
         else:
             book = xlwt.Workbook(encoding="utf-8")
@@ -297,29 +313,11 @@ class BasePage(object):
         print(file)
         book = xlrd.open_workbook(file)
         sheet1 = book.sheet_by_name(type)
-        # sheet2 = book.sheet_by_name("invoice")
         row1 = book.sheet_by_name(type).nrows
-        # row2 = book.sheet_by_name("invoice").nrows
         mylog.info("开始读"+type+"信息")
         data1 = sheet1.row_values(row1 - 1)
         mylog.info("读取"+type+"完成")
         return data1
-
-    def read_data(self, type):
-        # file = os.path.dirname(os.getcwd()) + r"\Date\casedate.xls"
-        file = r'C:\Work\test_zjc_pytest\Data\date.xls'
-        print(file)
-        book = xlrd.open_workbook(file)
-        sheet1 = book.sheet_by_name(type)
-        # sheet2 = book.sheet_by_name("invoice")
-        row1 = book.sheet_by_name(type).nrows
-        col1=book.sheet_by_name(type).ncols
-        print(row1,col1)
-        # row2 = book.sheet_by_name("invoice").nrows
-        # mylog.info("开始读" + type + "信息")
-        # data1 = sheet1.row_values(row1 )
-        # mylog.info("读取" + type + "完成")
-        # return data1
 
 
 

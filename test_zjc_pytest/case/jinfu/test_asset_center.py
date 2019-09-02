@@ -21,7 +21,7 @@ class TestAssertCenter():
     def teardown(self):
         pass
 
-    @pytest.mark.jinfu
+    @pytest.mark.skip('not zjc')
     def test_addInstokc(self):
         n=0
         self.pur = AssetCenter(self.driver)
@@ -30,7 +30,7 @@ class TestAssertCenter():
             self.pur.add_instock(self.htnumber,self.date1,self.date1,self.opetaror)
             n+=1
 
-    @pytest.mark.jinfu
+    @pytest.mark.jinfu('not zjc')
     def test_addInvoice(self,driver):
         self.assert_center_page=AssetCenter(driver)
         n = 0

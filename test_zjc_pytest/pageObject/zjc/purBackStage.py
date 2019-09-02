@@ -7,7 +7,7 @@ import time
 class BackStage(BasePage):
     selector_enter=(By.XPATH,"//a[@class='index-login__link mt16 goAdminPage']")#进入管理首页
     selector_pur_manage=(By.CSS_SELECTOR,"#n2>h3>span")#采购管理
-    selector_pro=(By.CSS_SELECTOR,"#n2-1>span")#项目管理
+    selector_project=(By.CSS_SELECTOR,"#n2-1>span")#项目管理
     selector_bid=(By.CSS_SELECTOR,"#n2-2>span")#招标管理
     selector_bid_self_build=(By.CSS_SELECTOR,"#n2-2-1>a")#自建项目
     selector_contract=(By.CSS_SELECTOR,"#n2-3>span") #合同管理
@@ -28,6 +28,10 @@ class BackStage(BasePage):
     invoice_ensure=(By.XPATH,"//input[@value='确认发票']")
     invoice_dialog_comfirm=(By.XPATH,"//div[@class='dialog__footer']/a")
 
+    def enter_project_manage(self):   #进入项目管理
+        self.click(self.selector_enter)
+        self.click(self.selector_pur_manage)
+        self.click(self.selector_project)
 
     def bidSelf(self):
         self.click(self.selector_enter)

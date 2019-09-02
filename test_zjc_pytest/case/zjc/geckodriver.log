@@ -3952,3 +3952,579 @@ JavaScript warning: http://zjcbytest.zhutx.net/index.php/Custom/Login/login, lin
 JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4bc500005d6642e9ea47006735aa%26s%3d250x250%26d%3d0%26t%3d1566982889&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4bc500005d6642e9ea47006735aa&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
 JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4bc500005d6642e9ea47006735aa%26s%3d250x250%26d%3d0%26t%3d1566982889&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4bc500005d6642e9ea47006735aa&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
 JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4bc500005d6642e9ea47006735aa%26s%3d250x250%26d%3d0%26t%3d1566982889&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4bc500005d6642e9ea47006735aa&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1567156499276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.BwCp8Aoj3qjb"
+1567156501580	Marionette	INFO	Listening on port 61365
+1567156501643	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156501667	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156501709	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 200: uncaught exception: undefined
+1567156501961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567156502034	Marionette	INFO	Stopped listening on port 61365
+[Child 6732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 67[Child 1352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567156549851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.N35F1tZTNf3g"
+1567156552057	Marionette	INFO	Listening on port 61416
+1567156552236	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156552263	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156552307	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156552534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567156572700	Marionette	INFO	Stopped listening on port 61416
+[Parent 7140, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Child 2852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567156607145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.jE1jheX25JSB"
+1567156609417	Marionette	INFO	Listening on port 61565
+1567156609600	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156609622	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156609661	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156609795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567156629420	Marionette	INFO	Stopped listening on port 61565
+[Parent 8444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 8084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 8444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567156901217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.F6kscBjx5X0I"
+1567156903302	Marionette	INFO	Listening on port 61839
+1567156903361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567156903374	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156903407	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156903453	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567156903604	Marionette	INFO	Stopped listening on port 61839
+[Parent 12932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 12932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567157035250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.5NltdF3NmgIu"
+1567157037507	Marionette	INFO	Listening on port 61929
+1567157037707	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157037728	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157037764	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157037929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567157038147	Marionette	INFO	Stopped listening on port 61929
+[Parent 1960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 1960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567157114207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.AW6O5DsvdhXF"
+1567157116390	Marionette	INFO	Listening on port 61990
+1567157116554	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157116576	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157116617	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157116862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567157137619	Marionette	INFO	Stopped listening on port 61990
+[Parent 14192, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14192, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/sr[cParent 14192, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567157207279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.28lhR8nRIcHH"
+1567157209440	Marionette	INFO	Listening on port 62075
+1567157209451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567157209534	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157209570	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157209647	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 200: uncaught exception: undefined
+1567157245742	Marionette	INFO	Stopped listening on port 62075
+[Parent 1672, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 1672, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1672, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567157316884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.uPUlqaUGXkAQ"
+1567157319059	Marionette	INFO	Listening on port 62330
+1567157319288	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157319319	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157319361	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567157319564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567157344670	Marionette	INFO	Stopped listening on port 62330
+[Child 6776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 15964, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[GPU 5
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567158216510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.jeb9Wk8CIVZd"
+1567158218734	Marionette	INFO	Listening on port 63373
+1567158218970	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158218994	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158219035	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158219162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567158249806	Marionette	INFO	Stopped listening on port 63373
+[Parent 1948, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1948, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567158413813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.UjBGoyzAbtea"
+1567158416014	Marionette	INFO	Listening on port 63725
+1567158416216	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158416250	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158416282	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158416485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567158462843	Marionette	INFO	Stopped listening on port 63725
+[Parent 2872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Parent 2872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567158572365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.aNZ0zHYhoYJu"
+1567158574700	Marionette	INFO	Listening on port 64050
+1567158574894	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158574934	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158574974	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158575045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567158625562	Marionette	INFO	Stopped listening on port 64050
+[Parent 11708, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 11708, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 11708, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567158746343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.iw2CWDHCC73R"
+1567158748443	Marionette	INFO	Listening on port 64393
+1567158748499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567158748511	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158748548	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158748645	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 200: uncaught exception: undefined
+1567158788994	Marionette	INFO	Stopped listening on port 64393
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 12640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 556[Parent 12640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567158822435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ZorAaMlevotn"
+1567158824605	Marionette	INFO	Listening on port 64634
+1567158824791	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158824822	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158824863	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567158825075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567158860411	Marionette	INFO	Stopped listening on port 64634
+[Child 12616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 15460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 15460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 152
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567159252298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.S5RRflOb8pyz"
+1567159254507	Marionette	INFO	Listening on port 65044
+1567159254670	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567159254710	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567159254770	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567159254983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567159313270	Marionette	INFO	Stopped listening on port 65044
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15580, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/sr[Parent 15580, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706c/chrome/common/ipc_channel_win.cc, line 341
+7[50/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15580, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567389810124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.Cv1V6zhb4Ysk"
+1567389812932	Marionette	INFO	Listening on port 50499
+1567389813005	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567389813026	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567389813063	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567389813301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/index.php/Custom/Login/login, line 185: unreachable code after return statement
+1567389874369	Marionette	INFO	Stopped listening on port 50499
+[Parent 9164, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 9164, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9164, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 9164, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+[Child 15504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567390787101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.4PBeVKf0eWEN"
+1567390789385	Marionette	INFO	Listening on port 51520
+1567390789569	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567390789594	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567390789632	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567390789754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/index.php/Custom/Login/login, line 185: unreachable code after return statement
+1567390853592	Marionette	INFO	Stopped listening on port 51520
+[Child 14376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[Parent 10772, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10772, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+[Child 15712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 15712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 614
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567391010189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.HwmY8erteGrh"
+1567391012732	Marionette	INFO	Listening on port 51949
+1567391012867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567391012880	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567391012918	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567391012961	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/index.php/Custom/Login/login, line 185: unreachable code after return statement
+[Parent 11664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15556, Chrome1567391115586	Marionette	INFO	Stopped listening on port 51949
+[Parent 11664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15824,[Parent 11664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 163
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
