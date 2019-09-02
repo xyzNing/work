@@ -45,7 +45,6 @@ class PublicInstock(BasePage):
 #新增入库单
     def publicInstock(self,htnumber,name,model,amount,unit,price,time1,time2,paytime,operator):
         self.selectContract(htnumber)
-
         self.inputMaterials(name,model,amount,unit,price)
         self.send_date(self.loc_instock_time1,time1)
         self.send_date(self.loc_instock_time2,time2)

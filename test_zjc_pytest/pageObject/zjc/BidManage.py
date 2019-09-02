@@ -24,21 +24,21 @@ class PublicBid(BasePage):
     location_is_category_Ⅱ=(By.XPATH,".//*[@id='material-box']/div[2]/ul[2]/li[1]/label/i")
     location_material_confirm = (By.XPATH,".//*[@id='material-box']/div[4]/button")
     # 输入物资第1行
-    location_material_name=(By.CSS_SELECTOR,".w100.textleft")
-    location_model=(By.XPATH,".//*[@id='bidProductTbody']/tr/td[2]/input")
-    location_uint=(By.XPATH,".//*[@id='bidProductTbody']/tr/td[6]/input")
-    location_amount=(By.XPATH,".//*[@id='bidProductTbody']/tr/td[7]/input")
-    location_price=(By.XPATH,".//*[@id='bidProductTbody']/tr/td[8]/input")
+    location_material_name=(By.XPATH,"//tbody[@id='bidProductTbody']/tr/td[1]/input")
+    location_model=(By.XPATH,"//tbody[@id='bidProductTbody']/tr/td[2]/input")
+    location_uint=(By.XPATH,"//tbody[@id='bidProductTbody']/tr/td[6]/input")
+    location_amount=(By.XPATH,"//tbody[@id='bidProductTbody']/tr/td[7]/input")
+    location_price=(By.XPATH,"//tbody[@id='bidProductTbody']/tr/td[8]/input")
     # 输入物资第2行
     material_name2 = (By.XPATH,".//*[@id='bidProductTbody']/tr[2]/td[1]/input")
     model2 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[2]/td[2]/input")
-    uint2 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[2]/td[6]/input")
-    amount2= (By.XPATH, ".//*[@id='productTbody']/tr[2]/td[7]/input")
+    unit2 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[2]/td[6]/input")
+    amount2= (By.XPATH, ".//*[@id='bidProductTbody']/tr[2]/td[7]/input")
     price2= (By.XPATH, ".//*[@id='bidProductTbody']/tr[2]/td[8]/input")
     # 输入物资第3行
     material_name3 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[3]/td[1]/input")
     model3 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[3]/td[2]/input")
-    uint3 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[3]/td[6]/input")
+    unit3 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[3]/td[6]/input")
     amount3 = (By.XPATH, ".//*[@id='productTbody']/tr[3]/td[7]/input")
     price3 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[3]/td[8]/input")
 
@@ -76,7 +76,10 @@ class PublicBid(BasePage):
     confirm3=(By.XPATH,"//div[@class='btns-div']/input[4]")  #金融标书确认按钮，不管是否时金融标书
 
     #处理发布标书成功后的弹框
-    bid_success=(By.XPATH,".//div[@class='dialog__footer']/a")
+    loc_comfirm = (By.ID, 'noNeedCreateBid')  # 不需要并发布标书
+    bid_success=(By.XPATH,"//div[@class='dialog__footer']/a")
+    loc_state = (By.XPATH, "//li[@state='3']/a")
+    loc_number = (By.XPATH, "//div[@class='textleft pl15']")
 
     # def public_bid(self):
     #     self.click(self.selector_public_bid)
@@ -108,24 +111,16 @@ class PublicBid(BasePage):
         self.move_to_element(self.location_category_Ⅱ)
         self.click(self.location_is_category_Ⅱ)
         self.click(self.location_material_confirm)
-
-#         self.send_keys(self.materialName,name2)
-#         self.send_keys(self.material1Model,model)
-#         self.send_keys(self.uint,unit)
-#         self.send_keys(self.amount,amount)
-#         self.send_keys(self.price,price)
-#
-#         self.send_keys(self.materialName2, name3)
-#         self.send_keys(self.material1Model2, model)
-#         self.send_keys(self.uint2, unit)
-#         self.send_keys(self.amount2, amount)
-#         self.send_keys(self.price, price)
-
         self.send_keys(self.location_material_name,materialname)
         self.send_keys(self.location_model, model)
         self.send_keys(self.location_uint, unit)
         self.send_keys(self.location_amount, amount)
         self.send_keys(self.location_price, price)
+        # self.send_keys(self.material_name2,materialname)
+        # self.send_keys(self.model2,model)
+        # self.send_keys(self.unit2,unit)
+        # self.send_keys(self.amount2,amount)
+        # self.send_keys(self.price2,price)
 
     def input_bid_content(self,content):
         self.send_keys(self.location_bid_content,content)
@@ -160,16 +155,11 @@ class PublicBid(BasePage):
         self.click(self.location_is_deposit2)
         self.send_keys(self.location_money,money)
 
-
     def invoice_type(self):
         self.click(self.location_invoice_type)
         self.click(self.location_is_deposit)
 
-    def click_submit(self):
-        self.click(self.location_public_button)
-
     def base_info(self,bidname, linkname, linkphone, name, model, unit, amount, price, content):
-
         self.bid_project()
         self.bid_name(bidname)
         self.select_billing_info()
@@ -181,7 +171,6 @@ class PublicBid(BasePage):
         self.input_date(date1,date2,date3)
         self.click(self.sent_sample)
         self.click(self.sent_product)
-        # self.input_address(address)
         self.click(self.quote_type)
         self.pay_way(text)
         self.invoice_type()
@@ -208,6 +197,20 @@ class PublicBid(BasePage):
 
     # def alert_accept(self):
     #     self.accept(self.bid_success)
+
+    def get_bid_number(self):
+        # self.click(self.loc_state)
+        # time.sleep(1)
+        number = self.element_texts(self.loc_number)
+        return number
+
+    def click_submit(self):
+        self.click(self.location_public_button)
+        time.sleep(5)
+        self.click(self.loc_comfirm)
+        time.sleep(1)
+        self.click(self.bid_success)
+
 
 
 

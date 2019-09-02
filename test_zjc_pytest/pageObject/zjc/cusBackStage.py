@@ -11,6 +11,7 @@ class CusBackStage(BasePage):
     bid_search_input=(By.XPATH,"//input[@id='txtname']")  #搜索框
     bid_search=(By.ID,'search_button')  #搜索按钮
     bid_check_button=( By.XPATH,"//div[@class='piaofu']//a[2]")  #审核按钮
+    bid_delete=(By.XPATH,"//tbody[@id='product']/tr[3]/td[11]/a") #物资删除，发布的标书因数据问题第2行没有物资数量和单价
     bid_modify_reason=(By.ID,'draft_remark')  #标书修改原因
     bid_select_check=(By.ID,'author_0')   #审核操作  0 待审核 1审核通过 2审核未通过
     bid_save=(By.XPATH,"//div[@class='out_right']/a[2]")  #保存
@@ -38,17 +39,19 @@ class CusBackStage(BasePage):
     #value=1 审核通过  value=7 审核未通过
     invoice_submit=(By.ID,"submit_button")
 
-    def checkBid(self,bid_number,bid_reason):
+    def check_bid(self,bid_number,bid_reason='审核通过'):
         self.click(self.bid_tend_manage)
         self.click(self.bid_public_check)
-        print('111')
         self.send_keys(self.bid_search_input,bid_number)
         self.click(self.bid_search)
         time.sleep(1)
         self.click(self.bid_check_button)
+        self.click(self.bid_delete)
         self.send_keys(self.bid_modify_reason,bid_reason)
         self.select_by_value(self.bid_select_check,'1')
         self.click(self.bid_save)
+        time.sleep(1)
+        self.accept()
 
     def enter_instock(self):
         self.click(self.instock_manage_content)

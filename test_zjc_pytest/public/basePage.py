@@ -261,43 +261,23 @@ class BasePage(object):
 
     def write_excel(self,List,type1):
         # file = os.path.dirname(os.getcwd()) + r"\Date\date.xls"
-        file=r'C:\Work\test_zjc_pytest\Data\date.xls'
+        file=r'C:\gitStore\test_zjc_pytest\Data\date.xls'
         # file=os.path.join(file_path,"date.xls")
         if os.path.exists(file):
             book = xlrd.open_workbook(file)
-            row1 = book.sheet_by_name("instock").nrows
-            row2 = book.sheet_by_name("invoice").nrows
             row = book.sheet_by_name(type1).nrows
             sheets = book.sheet_names()
             print(sheets)
-            print(row1, row2)
+            print(row)
             new_book = copy(book)
             sheet=new_book.get_sheet(type1)
             mylog.info('开始写入%s编号'%type1)
             for i in range(len(List)):
                 print(len(List))
                 print(List[i])
-                sheet.write(row1 + 1, i, List[i])
+                sheet.write(row + 1, i, List[i])
                 mylog.info("正在写入%s编号"%type1+List[i])
             mylog.info("%s写入完成"%type1)
-            # sheet1 = new_book.get_sheet(0)
-            # sheet2 = new_book.get_sheet(1)
-            # if type1 == "instock":
-            #     mylog.info("开始写入入库单编号")
-            #     for i in range(len(List)):
-            #         # print(len(List))
-            #         # print(List[i])
-            #         sheet1.write(row1 + 1, i, List[i])
-            #         mylog.info("正在写入"+List[i])
-            #     mylog.info("入库单写入完成")
-            # elif type1 == "invoice":
-            #     mylog.info("开始写入发票编号")
-            #     for i in range(len(List)):
-            #         # print(len(List))
-            #         # print(List[i])
-            #         mylog.info("正在写入" + List[i])
-            #         sheet2.write(row2 + 1, i, List[i])
-            #     mylog.info("写入发票编号完成")
             new_book.save(file)
         else:
             book = xlwt.Workbook(encoding="utf-8")
@@ -308,16 +288,14 @@ class BasePage(object):
             book.save(file)
 
     def read_excel(self,type):
-        # file = os.path.dirname(os.getcwd()) + r"\Date\date.xls"
-        file = r'C:\Work\test_zjc_pytest\Data\date.xls'
-        print(file)
+        file = r'C:\gitStore\test_zjc_pytest\Data\date.xls'
         book = xlrd.open_workbook(file)
-        sheet1 = book.sheet_by_name(type)
-        row1 = book.sheet_by_name(type).nrows
+        sheet = book.sheet_by_name(type)
+        row = book.sheet_by_name(type).nrows
         mylog.info("开始读"+type+"信息")
-        data1 = sheet1.row_values(row1 - 1)
+        data = sheet.row_values(row - 1)
         mylog.info("读取"+type+"完成")
-        return data1
+        return data
 
 
 

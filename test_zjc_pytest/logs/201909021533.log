@@ -1,0 +1,63 @@
+2019-09-02 15:33:30,290 - conf - INFO - 打开火狐浏览器
+2019-09-02 15:33:34,060 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-02 15:33:35,095 - BasePage - INFO - 定位元素成功——username
+2019-09-02 15:33:36,192 - BasePage - INFO - 定位元素成功——password
+2019-09-02 15:33:37,293 - BasePage - INFO - 定位元素成功——login
+2019-09-02 15:33:37,631 - BasePage - INFO - 点击元素成功——login
+2019-09-02 15:33:40,749 - BasePage - INFO - 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-02 15:33:54,092 - BasePage - INFO - 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-02 15:33:55,119 - BasePage - INFO - 定位元素成功——#n2>h3>span
+2019-09-02 15:33:55,366 - BasePage - INFO - 点击元素成功——#n2>h3>span
+2019-09-02 15:33:56,388 - BasePage - INFO - 定位元素成功——#n2-2>span
+2019-09-02 15:33:56,624 - BasePage - INFO - 点击元素成功——#n2-2>span
+2019-09-02 15:33:57,645 - BasePage - INFO - 定位元素成功——#n2-2-1>a
+2019-09-02 15:33:59,581 - BasePage - INFO - 点击元素成功——#n2-2-1>a
+2019-09-02 15:34:00,612 - BasePage - INFO - 定位元素成功——//input[@value='发布标书']
+2019-09-02 15:34:00,841 - BasePage - INFO - 点击元素成功——//input[@value='发布标书']
+2019-09-02 15:34:02,874 - BasePage - INFO - 定位元素成功——bidProject
+2019-09-02 15:34:03,115 - BasePage - INFO - 点击元素成功——bidProject
+2019-09-02 15:34:04,135 - BasePage - INFO - 定位元素成功——//ul[@id='bidProjectList']/li[1]
+2019-09-02 15:34:04,377 - BasePage - INFO - 点击元素成功——//ul[@id='bidProjectList']/li[1]
+2019-09-02 15:34:05,394 - BasePage - INFO - 定位元素成功——bidName
+2019-09-02 15:34:06,493 - BasePage - INFO - 定位元素成功——.//*[@id='bidWay']/i[1]
+2019-09-02 15:34:06,730 - BasePage - INFO - 点击元素成功——.//*[@id='bidWay']/i[1]
+2019-09-02 15:34:07,749 - BasePage - INFO - 定位元素成功——//input[@class='selectBtn w6 fl']
+2019-09-02 15:34:07,991 - BasePage - INFO - 点击元素成功——//input[@class='selectBtn w6 fl']
+2019-09-02 15:34:09,010 - BasePage - INFO - 定位元素成功——.//*[@id='billingItem']/tr[1]/td[1]/i
+2019-09-02 15:34:09,236 - BasePage - INFO - 点击元素成功——.//*[@id='billingItem']/tr[1]/td[1]/i
+2019-09-02 15:34:10,258 - BasePage - INFO - 定位元素成功——.//*[@id='choseBilling']/div[2]/div/input
+2019-09-02 15:34:10,489 - BasePage - INFO - 点击元素成功——.//*[@id='choseBilling']/div[2]/div/input
+2019-09-02 15:34:11,507 - BasePage - INFO - 定位元素成功——linkman
+2019-09-02 15:34:12,602 - BasePage - INFO - 定位元素成功——linkmanmob
+2019-09-02 15:34:13,711 - BasePage - INFO - 定位元素成功——selectMaterialBtn
+2019-09-02 15:34:13,957 - BasePage - INFO - 点击元素成功——selectMaterialBtn
+2019-09-02 15:34:16,977 - BasePage - INFO - 定位元素成功——.on>span
+2019-09-02 15:34:17,272 - BasePage - INFO - 移动到元素成功——.on>span
+2019-09-02 15:34:20,289 - BasePage - INFO - 定位元素成功——.//*[@id='material-box']/div[2]/ul[2]/li[1]
+2019-09-02 15:34:20,554 - BasePage - INFO - 移动到元素成功——.//*[@id='material-box']/div[2]/ul[2]/li[1]
+2019-09-02 15:34:21,574 - BasePage - INFO - 定位元素成功——.//*[@id='material-box']/div[2]/ul[2]/li[1]/label/i
+2019-09-02 15:34:21,811 - BasePage - INFO - 点击元素成功——.//*[@id='material-box']/div[2]/ul[2]/li[1]/label/i
+2019-09-02 15:34:22,830 - BasePage - INFO - 定位元素成功——.//*[@id='material-box']/div[4]/button
+2019-09-02 15:34:23,057 - BasePage - INFO - 点击元素成功——.//*[@id='material-box']/div[4]/button
+2019-09-02 15:34:24,075 - BasePage - INFO - 定位元素成功——//tbody[@id='bidProductTbody']/tr/td[1]/input
+2019-09-02 15:34:25,163 - BasePage - INFO - 定位元素成功——//tbody[@id='bidProductTbody']/tr/td[2]/input
+2019-09-02 15:34:26,266 - BasePage - INFO - 定位元素成功——//tbody[@id='bidProductTbody']/tr/td[6]/input
+2019-09-02 15:34:27,358 - BasePage - INFO - 定位元素成功——//tbody[@id='bidProductTbody']/tr/td[7]/input
+2019-09-02 15:34:28,449 - BasePage - INFO - 定位元素成功——//tbody[@id='bidProductTbody']/tr/td[8]/input
+2019-09-02 15:34:29,556 - BasePage - INFO - 定位元素成功——bidContent
+2019-09-02 15:34:30,643 - BasePage - INFO - 定位元素成功——.next-btn
+2019-09-02 15:34:30,890 - BasePage - INFO - 点击元素成功——.next-btn
+2019-09-02 15:34:31,935 - BasePage - INFO - 定位元素成功——endTime
+2019-09-02 15:34:33,018 - BasePage - INFO - 定位元素成功——confirmTime
+2019-09-02 15:34:34,114 - BasePage - INFO - 定位元素成功——forecastTime
+2019-09-02 15:34:35,209 - BasePage - INFO - 定位元素成功——.//*[@id='sentSampleLi']/div/i[1]
+2019-09-02 15:34:35,441 - BasePage - INFO - 点击元素成功——.//*[@id='sentSampleLi']/div/i[1]
+2019-09-02 15:34:36,462 - BasePage - INFO - 定位元素成功——.//*[@id='sentProductLi']/div/i[1]
+2019-09-02 15:34:36,686 - BasePage - INFO - 点击元素成功——.//*[@id='sentProductLi']/div/i[1]
+2019-09-02 15:34:37,703 - BasePage - INFO - 定位元素成功——.//*[@id='quoteTypeLi']/div/i[1]
+2019-09-02 15:34:37,926 - BasePage - INFO - 点击元素成功——.//*[@id='quoteTypeLi']/div/i[1]
+2019-09-02 15:34:38,944 - BasePage - INFO - 定位元素成功——payway
+2019-09-02 15:34:40,022 - BasePage - INFO - 定位元素成功——.//*[@id='invoice_type']/i[2]
+2019-09-02 15:34:40,246 - BasePage - INFO - 点击元素成功——.//*[@id='invoice_type']/i[2]
+2019-09-02 15:34:41,267 - BasePage - INFO - 定位元素成功——//li[@id='depositLi']/div/i[1]
+2019-09-02 15:34:41,511 - BasePage - INFO - 点击元素成功——//li[@id='depositLi']/div/i[1]

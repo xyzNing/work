@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="460eda7a-35dc-43a2-8b61-e03ca8bb9087" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/case/zjc/test_0_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObject/zjc/projectManagePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/zjc/test_2_2_bid_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/zjc/test_2_3_bid_tender.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/jinfu/test_asset_center.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/jinfu/test_asset_center.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/date.xls" beforeDir="false" afterPath="$PROJECT_DIR$/Data/date.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case/zjc/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/case/zjc/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageObject/zjc/purBackStage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/zjc/purBackStage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/zjc/test_2_public_bid.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/zjc/test_2_1_public_bid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObject/zjc/InstockPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/zjc/InstockPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObject/zjc/bidPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/zjc/BidManage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObject/zjc/bidTenderPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/zjc/supTenderBid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObject/zjc/cusBackStage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/zjc/cusBackStage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/basePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/basePage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,10 +36,13 @@
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_public_bid_py.coverage" NAME="pytest in test_2_public_bid.py Coverage Results" MODIFIED="1566982518708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_bid_public_py.coverage" NAME="pytest in test_bid_public.py Coverage Results" MODIFIED="1566294589301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_invoice_py.coverage" NAME="pytest in test_3_invoice.py Coverage Results" MODIFIED="1566463520030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_3_bid_tender_py.coverage" NAME="pytest in test_2_3_bid_tender.py Coverage Results" MODIFIED="1567414923177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1566982670663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_5_ensure_invoice_py.coverage" NAME="pytest in test_5_ensure_invoice.py Coverage Results" MODIFIED="1566464970718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_2_bid_check_py.coverage" NAME="pytest in test_2_2_bid_check.py Coverage Results" MODIFIED="1567411916246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_addInstock_py.coverage" NAME="pytest in test_addInstock.py Coverage Results" MODIFIED="1566204533544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$orc.coverage" NAME="orc Coverage Results" MODIFIED="1566788054814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/jinfu" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_1_public_bid_py.coverage" NAME="pytest in test_2_1_public_bid.py Coverage Results" MODIFIED="1567411348818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
     <SUITE FILE_PATH="coverage/test_zjc_pytest$re_test.coverage" NAME="re_test Coverage Results" MODIFIED="1566813156747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/jinfu" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -127,80 +134,41 @@
         <counts>
           <entry key="html" value="1" />
           <entry key="htmlpytest" value="1" />
-          <entry key="log" value="1" />
+          <entry key="log" value="3" />
           <entry key="projectManagePage" value="1" />
-          <entry key="py" value="43" />
+          <entry key="py" value="60" />
           <entry key="pyi" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="44" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="61" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="24" />
-          <entry key="py" value="3451" />
+          <entry key="dummy" value="79" />
+          <entry key="py" value="4870" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="3451" />
+          <entry key="PLAIN_TEXT" value="79" />
+          <entry key="Python" value="4870" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/zjc/test_3_Instock.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pageObject/zjc/InstockPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/zjc/test_4_check_instock.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/jinfu/test_asset_center.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/case/zjc/test_2_public_bid.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1271">
-              <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pageObject/zjc/projectManagePage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+            <state relative-caret-position="155">
+              <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -211,22 +179,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageObject/zjc/cusBackStage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1984">
-              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+            <state relative-caret-position="-682">
+              <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
               <folding>
                 <element signature="e#22#58#0" expanded="true" />
-                <marker date="1566456077470" expanded="true" signature="2240:2334" ph="..." />
-                <marker date="1566456077470" expanded="true" signature="2720:2814" ph="..." />
+                <marker date="1567411905837" expanded="true" signature="2402:2496" ph="..." />
+                <marker date="1567411905837" expanded="true" signature="2882:2976" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageObject/zjc/BidManage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1598">
+              <caret line="115" column="48" lean-forward="true" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
+              <folding>
+                <element signature="e#16#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/case/zjc/test_0_project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="331">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#0#56#0" expanded="true" />
                 <marker date="1567157207888" expanded="true" signature="171:176" ph="..." />
@@ -236,23 +216,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/basePage.py">
+        <entry file="file://$PROJECT_DIR$/case/zjc/test_2_2_bid_check.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4371">
-              <caret line="152" column="8" selection-start-line="152" selection-start-column="8" selection-end-line="152" selection-end-column="8" />
+            <state relative-caret-position="558">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <marker date="1567156490787" expanded="true" signature="3935:3940" ph="..." />
-                <marker date="1567156490787" expanded="true" signature="3935:4028" ph="..." />
+                <element signature="e#0#41#0" expanded="true" />
+                <marker date="1567395196035" expanded="true" signature="77:82" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/select.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1147">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -292,7 +263,6 @@
         <option value="$PROJECT_DIR$/case/zjc.py" />
         <option value="$PROJECT_DIR$/case/zjc/test_add_instock.py" />
         <option value="$PROJECT_DIR$/case/zjc/test_addInstock.py" />
-        <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/pageObject/zjc/loginPage.py" />
         <option value="$PROJECT_DIR$/case/zjc/test_login.py" />
         <option value="$PROJECT_DIR$/case/zjc/test_Instock.py" />
@@ -301,15 +271,11 @@
         <option value="$PROJECT_DIR$/case/zjc/test_invoice.py" />
         <option value="$PROJECT_DIR$/case/zjc/conftest.py" />
         <option value="$PROJECT_DIR$/case/zjc/test_cus_check_instock.py" />
-        <option value="$PROJECT_DIR$/pageObject/zjc/cusBackStage.py" />
         <option value="$PROJECT_DIR$/pageObject/zjc/purInvoice.py" />
         <option value="$PROJECT_DIR$/case/jinfu/test_assert_center.py" />
         <option value="$PROJECT_DIR$/pageObject/jinfu/assetCenter.py" />
         <option value="$PROJECT_DIR$/case/jinfu/orc.py" />
         <option value="$PROJECT_DIR$/case/jinfu/re_test.py" />
-        <option value="$PROJECT_DIR$/pageObject/zjc/bidPage.py" />
-        <option value="$PROJECT_DIR$/case/zjc/test_2_public_bid.py" />
-        <option value="$PROJECT_DIR$/pageObject/zjc/InstockPage.py" />
         <option value="$PROJECT_DIR$/run_all.py" />
         <option value="$PROJECT_DIR$/case/zjc/test_3_Instock.py" />
         <option value="$PROJECT_DIR$/case/zjc/test_3_invoice.py" />
@@ -320,9 +286,22 @@
         <option value="$PROJECT_DIR$/case/jinfu/test_asset_center.py" />
         <option value="$PROJECT_DIR$/pageObject/zjc/project.py" />
         <option value="$PROJECT_DIR$/pageObject/zjc/purBackStage.py" />
-        <option value="$PROJECT_DIR$/public/basePage.py" />
         <option value="$PROJECT_DIR$/case/zjc/test_0_project.py" />
         <option value="$PROJECT_DIR$/pageObject/zjc/projectManagePage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/bidManagePage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/bidPage.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_public_bid.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2.1_bid_chech.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_2_bid_chech.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_2_bid_check.py" />
+        <option value="$PROJECT_DIR$/public/basePage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/InstockPage.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_1_public_bid.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/BidManage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/cusBackStage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/supTenderBid.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_3_bid_tender.py" />
       </list>
     </option>
   </component>
@@ -360,18 +339,7 @@
               <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
               <item name="case" type="462c0819:PsiDirectoryNode" />
-              <item name="jinfu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
               <item name="zjc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
@@ -383,11 +351,6 @@
               <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
               <item name="pageObject" type="462c0819:PsiDirectoryNode" />
               <item name="zjc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_zjc_pytest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_zjc_pytest" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -425,7 +388,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_0_project.py">
+  <component name="RunManager" selected="Python tests.pytest in test_2_3_bid_tender.py">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -512,28 +475,6 @@
       <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
-    <configuration name="run_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test_zjc_pytest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest for test_0_project.TestProject" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_zjc_pytest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -566,7 +507,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_2_public_bid.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_2_1_public_bid.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_zjc_pytest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -578,11 +519,11 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_2_public_bid.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_2_1_public_bid.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_3_Instock.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_2_2_bid_check.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_zjc_pytest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -594,24 +535,40 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_3_Instock.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_2_2_bid_check.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_2_3_bid_tender.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="test_zjc_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/zjc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_2_3_bid_tender.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.run_all" />
-      <item itemvalue="Python tests.pytest in test_2_public_bid.py" />
-      <item itemvalue="Python tests.pytest in test_3_Instock.py" />
+      <item itemvalue="Python tests.pytest in test_2_1_public_bid.py" />
       <item itemvalue="Python tests.pytest in test_0_project.py" />
       <item itemvalue="Python tests.pytest for test_0_project.TestProject" />
+      <item itemvalue="Python tests.pytest in test_2_2_bid_check.py" />
+      <item itemvalue="Python tests.pytest in test_2_3_bid_tender.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_2_3_bid_tender.py" />
+        <item itemvalue="Python tests.pytest in test_2_2_bid_check.py" />
+        <item itemvalue="Python tests.pytest in test_2_1_public_bid.py" />
         <item itemvalue="Python tests.pytest in test_0_project.py" />
         <item itemvalue="Python tests.pytest for test_0_project.TestProject" />
-        <item itemvalue="Python tests.pytest in test_3_Instock.py" />
-        <item itemvalue="Python.run_all" />
-        <item itemvalue="Python tests.pytest in test_2_public_bid.py" />
       </list>
     </recent_temporary>
   </component>
@@ -629,47 +586,48 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_0_project_py - 2019.08.30 at 17h 27m 27s.xml">
-      <configuration name="pytest in test_0_project.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_1_public_bid_py - 2019.09.02 at 15h 07m 14s.xml">
+      <configuration name="pytest in test_2_1_public_bid.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_0_project_py - 2019.08.30 at 17h 29m 06s.xml">
-      <configuration name="pytest in test_0_project.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_1_public_bid_py - 2019.09.02 at 15h 09m 19s.xml">
+      <configuration name="pytest in test_2_1_public_bid.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_0_project_py - 2019.08.30 at 17h 44m 11s.xml">
-      <configuration name="pytest in test_0_project.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_1_public_bid_py - 2019.09.02 at 15h 10m 20s.xml">
+      <configuration name="pytest in test_2_1_public_bid.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_0_project_py - 2019.08.30 at 17h 47m 44s.xml">
-      <configuration name="pytest in test_0_project.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_1_public_bid_py - 2019.09.02 at 15h 32m 09s.xml">
+      <configuration name="pytest in test_2_1_public_bid.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_0_project_py - 2019.08.30 at 17h 50m 27s.xml">
-      <configuration name="pytest in test_0_project.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_1_public_bid_py - 2019.09.02 at 15h 33m 09s.xml">
+      <configuration name="pytest in test_2_1_public_bid.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_0_project_py - 2019.08.30 at 17h 53m 11s.xml">
-      <configuration name="pytest in test_0_project.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_1_public_bid_py - 2019.09.02 at 16h 00m 44s.xml">
+      <configuration name="pytest in test_2_1_public_bid.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_0_project_py - 2019.08.30 at 17h 54m 22s.xml">
-      <configuration name="pytest in test_0_project.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_1_public_bid_py - 2019.09.02 at 16h 04m 22s.xml">
+      <configuration name="pytest in test_2_1_public_bid.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_0_project_py - 2019.08.30 at 18h 01m 55s.xml">
-      <configuration name="pytest in test_0_project.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_2_bid_check_py - 2019.09.02 at 16h 12m 32s.xml">
+      <configuration name="pytest in test_2_2_bid_check.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_in_test_0_project_py - 2019.09.02 at 10h 04m 37s.xml">
-      <configuration name="pytest in test_0_project.py" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_3_bid_tender_py - 2019.09.02 at 17h 01m 24s.xml">
+      <configuration name="pytest in test_2_3_bid_tender.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_0_project_TestProject - 2019.09.02 at 10h 20m 55s.xml">
-      <configuration name="pytest for test_0_project.TestProject" configurationId="tests" />
+    <history-entry file="pytest_in_test_2_3_bid_tender_py - 2019.09.02 at 17h 02m 30s.xml">
+      <configuration name="pytest in test_2_3_bid_tender.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30965146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32765958" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39858156" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32765958" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -692,35 +650,7 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/case/zjc/test_0_project.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pageObject/zjc/bidTenderPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageObject/jinfu/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageObject/jinfu/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/case/logs/201908191328.log" />
     <entry file="file://$PROJECT_DIR$/case/geckodriver.log">
       <provider selected="true" editor-type-id="text-editor" />
@@ -763,28 +693,11 @@
     <entry file="file://$PROJECT_DIR$/geckodriver.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/case/zjc/report.htmlpytest">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/case/zjc/report.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_1_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1085">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/201908231647.log">
       <provider selected="true" editor-type-id="text-editor">
@@ -797,13 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageObject/zjc/bidPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5115">
-          <caret line="167" column="8" selection-start-line="167" selection-start-column="8" selection-end-line="167" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -866,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pageObject/zjc/InstockPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pageObject/zjc/purInvoice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-247">
@@ -880,31 +779,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_4_check_invoice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Programs/Python/Python36/Lib/site-packages/xlrd/sheet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="491" selection-start-line="491" selection-end-line="491" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_3_Instock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -922,39 +800,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_2_public_bid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1271">
-          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageObject/zjc/cusBackStage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1984">
-          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-          <folding>
-            <element signature="e#22#58#0" expanded="true" />
-            <marker date="1566456077470" expanded="true" signature="2240:2334" ph="..." />
-            <marker date="1566456077470" expanded="true" signature="2720:2814" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/basePage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4371">
-          <caret line="152" column="8" selection-start-line="152" selection-start-column="8" selection-end-line="152" selection-end-column="8" />
-          <folding>
-            <marker date="1567156490787" expanded="true" signature="3935:3940" ph="..." />
-            <marker date="1567156490787" expanded="true" signature="3935:4028" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/select.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1147">
@@ -962,9 +807,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="870" column="8" selection-start-line="870" selection-start-column="8" selection-end-line="870" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_1_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pageObject/zjc/projectManagePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
+        <state relative-caret-position="-1064">
           <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
@@ -972,13 +831,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/case/zjc/test_0_project.py">
+    <entry file="file://$PROJECT_DIR$/logs/201909021403.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2232">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/201909021404.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/basePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="295" column="12" lean-forward="true" selection-start-line="295" selection-start-column="12" selection-end-line="295" selection-end-column="12" />
+          <folding>
+            <marker date="1567404846411" expanded="true" signature="3935:3940" ph="..." />
+            <marker date="1567404846411" expanded="true" signature="3935:4028" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_3_Instock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1566192745171" expanded="true" signature="789:816" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_4_check_invoice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/cusBackStage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+          <folding>
+            <element signature="e#22#58#0" expanded="true" />
+            <marker date="1567411905837" expanded="true" signature="2402:2496" ph="..." />
+            <marker date="1567411905837" expanded="true" signature="2882:2976" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_2_2_bid_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1567395196035" expanded="true" signature="77:82" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/supTenderBid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_2_3_bid_tender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1567414923155" expanded="true" signature="78:79" ph="..." />
+            <marker date="1567414923155" expanded="true" signature="249:434" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_0_project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#0#56#0" expanded="true" />
             <marker date="1567157207888" expanded="true" signature="171:176" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/BidManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="115" column="48" lean-forward="true" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
+          <folding>
+            <element signature="e#16#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_2_1_public_bid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/InstockPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="41" column="42" lean-forward="true" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
