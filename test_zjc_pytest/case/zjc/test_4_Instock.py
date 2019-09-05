@@ -1,5 +1,5 @@
 import pytest
-from pageObject.zjc.InstockPage import PublicInstock
+from pageObject.zjc.InstockPage import Instock
 from pageObject.zjc.purBackStage import BackStage
 import datetime
 class TestInstock():
@@ -23,8 +23,8 @@ class TestInstock():
         self.unit='t'
         self.price=11000
         # self.total=100000
-        self.time1=(datetime.datetime.now()+datetime.timedelta(days=-1)).strftime("%Y-%m-%d-%H-%M-%S")
-        self.time2=(datetime.datetime.now()+datetime.timedelta(days=-1)).strftime("%Y-%m-%d-%H-%M-%S")
+        self.time1=(datetime.datetime.now()+datetime.timedelta(days=-1)).strftime("%Y-%m-%d")
+        self.time2=(datetime.datetime.now()+datetime.timedelta(days=-1)).strftime("%Y-%m-%d")
         self.operator='sss'
 
     @pytest.mark.usefixtures('login_pur')
@@ -32,28 +32,23 @@ class TestInstock():
         u'''新增入库单'''
         self.backstage = BackStage(driver)
         self.backstage.instockSelf()
-        self.public_instock = PublicInstock(driver)
-        # self.driver.find_element_by_xpath("//a[@status='4']").click()
-        # elements=self.driver.find_elements_by_xpath("//div[@class='textleft pl15']")
-        # print(elements)
-        #
-        # for element in elements:
-        #     print(element.text)
+        self.bid_page = Instock(driver)
+        contract_number=self.bid_page.read_excel('contract')[0]
         n=1
         while n<5:
-            self.public_instock.publicInstock(self.htnumber3, self.materials, self.model, self.amount, self.unit,
+            self.bid_page.public_instock(contract_number, self.materials, self.model, self.amount, self.unit,
                                                   self.price, self.time1, self.time1,self.time2,self.operator)
             n+=1
-        List_num= self.public_instock.getInstockNumber()
+        List_num= self.bid_page.getInstockNumber()
         print(List_num)
-        self.public_instock.write_excel(List_num,"instock")
-        # num_list=self.public_instock.getInstockNumber()
+        self.bid_page.write_excel(List_num,"instock")
+        # num_list=self.bid_page.getInstockNumber()
         # for i in num_list[:1]:
         #     with open("D:/Work/test_zjc/logs/instokc.txt","a+") as f:
         #         f.write(i)+" "
 
 if __name__ == '__main__':
-  pytest.main(['-s','test_3_Instock.py'])
+  pytest.main(['-s','test_4_Instock.py'])
 
   # pytest - -html = report.html  生成测试报告
 

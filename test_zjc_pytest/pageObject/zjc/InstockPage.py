@@ -2,7 +2,7 @@ from public.basePage import BasePage
 from selenium.webdriver.common.by import  By
 import os
 import time
-class PublicInstock(BasePage):
+class Instock(BasePage):
     loc_add_instock=(By.XPATH,"//input[@value='新增入库单']")
     loc_select_contract=(By.XPATH,"//input[@value='选择合同']")
     loc_input_search=(By.XPATH,"//input[@id='searchInput1']")
@@ -43,7 +43,7 @@ class PublicInstock(BasePage):
         self.send_keys(self.loc_price,price)
         # self.send_keys(self.loc_sum_money)
 #新增入库单
-    def publicInstock(self,htnumber,name,model,amount,unit,price,time1,time2,paytime,operator):
+    def public_instock(self,htnumber,name,model,amount,unit,price,time1,time2,paytime,operator):
         self.selectContract(htnumber)
         self.inputMaterials(name,model,amount,unit,price)
         self.send_date(self.loc_instock_time1,time1)

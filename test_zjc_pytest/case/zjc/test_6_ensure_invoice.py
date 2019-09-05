@@ -1,6 +1,6 @@
 import pytest
 from pageObject.zjc.purBackStage import BackStage
-from pageObject.zjc.purInvoice import Invoice
+from pageObject.zjc.invoiceManage import Invoice
 class TestEnsureInvoice():
     @pytest.fixture(scope='function', autouse=True)
     def is_login(self, driver):

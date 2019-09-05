@@ -7,7 +7,7 @@ class Invoice(BasePage):
     invoice_manage=(By.XPATH,"//li[@id='n2-6']/span")   #发票管理
     invoice_self=(By.XPATH,"//li[@id='n2-6-1']/a[1]") #自建项目
 
-    add_invoice=(By.XPATH,"//input[@value='新增发票']")  #新增发票
+    loc_add_invoice=(By.XPATH,"//input[@value='新增发票']")  #新增发票
     #新增发票页面元素
     select_contract=(By.XPATH,"//input[@value='选择合同']")
     search_input=(By.XPATH,"//div[@class='modal-search-right fr']/input[1]")  #搜索框
@@ -43,16 +43,31 @@ class Invoice(BasePage):
     invoice_dialog_comfirm = (By.XPATH, "//div[@class='dialog__footer']/a")
 
     #新增发票
-    def addInvoice(self,text,code,number,date,rate,product,rule,unit,num,price,cmd):
+    def add_invoice(self,text,code,number,date,rate,product,rule,unit,num,price,):
+        '''
+        新增发票
+        :param text: 合同编号，通过合同编号搜索到该合同
+        :param code:发票代码
+        :param number:发票号码
+        :param date:开票日期
+        :param rate:税率
+        :param product:货物或应税劳务、服务名称
+        :param rule:规则型号
+        :param unit:单位
+        :param num:数量
+        :param price:单价
+        :param cmd:
+        :return:
+        '''
         # self.click(self.enter_manage)
         # self.click(self.pur_manage)
         # self.click(self.invoice_manage)
         # self.click(self.invoice_self)
-        self.click(self.add_invoice)
+        self.click(self.loc_add_invoice)
         self.click(self.select_contract)
         self.send_keys(self.search_input,text)
         self.click(self.search_button)
-        time.sleep(3)
+        time.sleep(2)
         self.click(self.select_e)
         time.sleep(2)
         self.move_to_element(self.invoice_type)
@@ -66,20 +81,18 @@ class Invoice(BasePage):
         self.send_keys(self.invoice_unit,unit)
         self.send_keys(self.invoice_num,num)
         self.send_keys(self.invoice_price,price)
-        self.click(self.invoice_attach)
-        # self.switch_to_frame(self.attach_form)
-        # self.click(self.attach_scan)
-        time.sleep(2)
-        os.system(cmd)
-        # js1 = 'document.getElementByName("localUrl").removeAttribute("readonly")'
-        # self.driver.execute_script(js1)
-        # self.send_keys(self.attach_url,attach_url)
+        self.upload_pictures(self.invoice_attach)
         self.click(self.attach_submit)
         self.click(self.alert_comfirm)
         self.click(self.success_confirm)
 
     def getInvoiceNumber(self):
+        '''
+        获取发票的编号，写入excel，后面用来客服审核
+        :return:
+        '''
         self.click(self.invoice_state)
+        time.sleep(1)
         text=self.element_texts_all()
         return text
     #
@@ -91,6 +104,11 @@ class Invoice(BasePage):
 
     #确认发票
     def ensure_invoice(self, text):
+        '''
+        确认发票，传入发票的编号
+        :param text: 发标编号
+        :return:
+        '''
         self.send_keys(self.invoice_search_input, text)
         self.click(self.invoice_search_button)
         time.sleep(1)

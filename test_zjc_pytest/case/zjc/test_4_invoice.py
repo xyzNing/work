@@ -1,5 +1,5 @@
 import pytest
-from pageObject.zjc.purInvoice import Invoice
+from pageObject.zjc.invoiceManage import Invoice
 from pageObject.zjc.purBackStage import BackStage
 import time
 
@@ -27,7 +27,6 @@ class TestInvoice():
         self.unit = "a"
         self.num = 1
         self.price = 10000
-        self.cmd = r"C:\Users\ning\Desktop\SendPhoto.exe"
         self.date = time.strftime("%Y-%m-%d")
         # self.file=r"‪C:\Users\Lee\Desktop\22.exe"
 
@@ -38,11 +37,12 @@ class TestInvoice():
         self.back_page = BackStage(driver)
         self.back_page.enter_invoice_self()
         self.pur = Invoice(driver)
-        for i in range(0,10): #从1开始，不包含1
+        contract_num=self.pur.read_excel('contract')[0]
+        for i in range(0,1): #从1开始，不包含1
             self.invoice_code=self.invoice_code1+str(i)+"a"
             self.invoice_num=self.invoice_num1+str(i)+"b"
-            self.pur.addInvoice(self.htnumber3,self.invoice_code,self.invoice_num,self.date,self.invoice_rate,self.product,self.rule,
-                               self.unit,self.num,self.price,self.cmd)
+            self.pur.add_invoice(contract_num,self.invoice_code,self.invoice_num,self.date,self.invoice_rate,self.product,self.rule,
+                               self.unit,self.num,self.price)
         time.sleep(1)
         self.list_num = self.pur.getInvoiceNumber()
         print(self.list_num)
@@ -62,6 +62,6 @@ class TestInvoice():
         #     print(self.list_num)
         #     self.pur.write_excel(self.list_num,"invoice")
 if __name__ == '__main__':
-    pytest.main(['-v','test_3_invoice.py'])
+    pytest.main(['-v','test_4_invoice.py'])
 
 

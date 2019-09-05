@@ -1,7 +1,7 @@
 import pytest
 import datetime
 from pageObject.zjc.purBackStage import *
-from pageObject.zjc.BidManage import *
+from pageObject.zjc.bidManage import *
 class  TestPubBid():
     def setup(self):
         self.username = 'a100073'  # a100048  a100073

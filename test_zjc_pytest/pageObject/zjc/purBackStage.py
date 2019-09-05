@@ -33,11 +33,15 @@ class BackStage(BasePage):
         self.click(self.selector_pur_manage)
         self.click(self.selector_project)
 
-    def bidSelf(self):
+    def enter_bid_manage(self):
         self.click(self.selector_enter)
         self.click(self.selector_pur_manage)
         self.click(self.selector_bid)
-        self.click(self.selector_bid_self_build)
+
+    def enter_contract_manage(self):
+        self.click(self.selector_enter)
+        self.click(self.selector_pur_manage)
+        self.click(self.selector_contract)
 
     def bid_name(self):
         self.element_text(self.selector_all_bidnames)

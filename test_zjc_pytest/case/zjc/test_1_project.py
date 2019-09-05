@@ -35,6 +35,6 @@ class TestProject():
         self.project_page.check_project(num)
 
 if __name__ == '__main__':
-    pytest.main(['-v','test_0_project.py'])
+    pytest.main(['-v','test_1_project.py'])
 
 

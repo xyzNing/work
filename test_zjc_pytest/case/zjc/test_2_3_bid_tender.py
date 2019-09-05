@@ -1,5 +1,6 @@
 from pageObject.zjc.supTenderBid import *
 import pytest
+import time
 class TestBidTender():
 
     def start(self,driver):
@@ -16,6 +17,7 @@ class TestBidTender():
 
     @pytest.mark.usefixtures('login_sup')
     def test_bid_tender(self,driver):
+        time.sleep(5)
         self.sup_page=BidTenderPage(driver)
         bid_num=self.sup_page.read_excel('bid')
         for i in range(len(bid_num)):

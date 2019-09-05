@@ -36,6 +36,7 @@ mylog=Logger(logger="BasePage").getlog()
 #         print('%s' %msg)
 
 #创建一个基础的页面对象，重写selenium的一些方法
+
 class BasePage(object):
     def __init__(self,driver):
         self.driver=driver
@@ -77,16 +78,14 @@ class BasePage(object):
             mylog.info(u"定位元素失败——%s" %selector[1])
             self.get_screen()
 
-    # def find_elements(self,selector,time=10):   #查找元素
-    #     try:
-    #         elements=WebDriverWait(self.driver,time).until(EC.presence_of_element_located(selector))
-    #         self.driver.execute_script("arguments[0].style.border='1px solid red'", elements)
-    #         sleep(1)
-    #         mylog.info(u"定位元素成功——%s" % selector[1])
-    #         return elements
-    #     except Exception as msg:
-    #         mylog.error(u"定位元素失败——%s" %selector[1])
-    #         self.get_screen()
+    def scroll(self,high='10000'):
+        '''
+        处理滚动条，滑动到底部，
+        :param high: 滑到顶部high=0
+        :return:
+        '''
+        js = "var q=document.documentElement.scrollTop=%s"%high
+        self.driver.execute_script(js)
 
     def click(self,selector):    #点击元素
         try:
@@ -262,7 +261,6 @@ class BasePage(object):
     def write_excel(self,List,type1):
         # file = os.path.dirname(os.getcwd()) + r"\Date\date.xls"
         file=r'C:\gitStore\test_zjc_pytest\Data\date.xls'
-        # file=os.path.join(file_path,"date.xls")
         if os.path.exists(file):
             book = xlrd.open_workbook(file)
             row = book.sheet_by_name(type1).nrows
@@ -297,6 +295,19 @@ class BasePage(object):
         mylog.info("读取"+type+"完成")
         return data
 
+    def arr_sort(self,arr,m=1):
+        '''
+        冒泡排序,先从小到大排序,最后按照从大到小返回
+        :param arr: 数组
+        :param m: 默认取最大的一个
+        :return: 数组，按照从大到小，方便取值
+        '''
+        n = len(arr)
+        for i in range(n):
+            for j in range(n - i - 1):
+                if arr[j] > arr[j + 1]:
+                    arr[j + 1], arr[j] = arr[j], arr[j + 1]
+        return arr[::-1][0:m]
 
 
 

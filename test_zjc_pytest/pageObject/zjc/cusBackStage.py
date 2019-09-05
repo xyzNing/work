@@ -17,7 +17,18 @@ class CusBackStage(BasePage):
     bid_save=(By.XPATH,"//div[@class='out_right']/a[2]")  #保存
 
     margin_manage=(By.XPATH,"//h3[@headerindex='3h']")     #保证金管理
+
+    #合同相关页面元素
     contract_manage=(By.XPATH,"//h3[@headerindex='4h']")   #合同管理
+    contract_view=(By.XPATH,"//a[text()='合同查看']")
+    contract_txt=(By.ID,"txtname")
+    contract_search_button=(By.ID,"search_button")
+    contract_check=(By.XPATH,"//a[@title='审核']")
+    #合同审核详情页
+    contract_select=(By.ID,"shstate")   #审核选项
+    #value=1 审核通过  value=2 审核不通过  默认审核通过，可不选
+    contract_confirm=(By.ID,"btn_submit")
+
     order_manage=(By.XPATH,"//h3[@headerindex='5h']")     #订单管理
 
     instock_manage_content=(By.XPATH,"//h3[@headerindex='6h']")   #入库管理
@@ -64,6 +75,18 @@ class CusBackStage(BasePage):
         self.click(self.instock_check)
         self.select_by_value(self.instock_check_select,"1")
         self.click(self.instock_save)
+        time.sleep(2)
+        self.accept()
+
+    def check_contract(self,number):
+        self.click(self.contract_manage)
+        self.click(self.contract_view)
+        self.send_keys(self.contract_txt,number)
+        self.click(self.contract_search_button)
+        self.click(self.contract_check)
+        self.scroll()
+        time.sleep(2)
+        self.click(self.contract_confirm)
         time.sleep(2)
         self.accept()
 

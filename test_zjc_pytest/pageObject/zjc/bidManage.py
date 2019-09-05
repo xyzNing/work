@@ -3,7 +3,9 @@ from public.basePage import BasePage
 from selenium.webdriver.common.by import By
 import time
 
-class PublicBid(BasePage):
+class BidManage(BasePage):
+    loc_bid_self=(By.XPATH,"//li[@id='n2-2-1']/a")  #自建项目
+    loc_bid_other=(By.XPATH,"//li[@id='n2-2-2']/a")  #挂入项目
     location_public_bid = (By.XPATH,"//input[@value='发布标书']")
     #标书基本信息
     location_bid_type = (By.ID, "//div[@id='bidType'/i[1]")
@@ -77,12 +79,23 @@ class PublicBid(BasePage):
 
     #处理发布标书成功后的弹框
     loc_comfirm = (By.ID, 'noNeedCreateBid')  # 不需要并发布标书
-    bid_success=(By.XPATH,"//div[@class='dialog__footer']/a")
-    loc_state = (By.XPATH, "//li[@state='3']/a")
-    loc_number = (By.XPATH, "//div[@class='textleft pl15']")
-
-    # def public_bid(self):
-    #     self.click(self.selector_public_bid)
+    bid_success=(By.XPATH,"//div[@class='dialog__footer']/a")  #确定
+    loc_state = (By.XPATH, "//li[@state='3']/a")   #
+    loc_number = (By.XPATH, "//div[@class='textleft pl15']")  #标书编号
+    #搜索相关
+    loc_search_text=(By.ID,"searchInput")
+    loc_search_button=(By.XPATH,"//p[@class='fr']/input[@value='搜索']")
+    #定标相关
+    loc_bid_confirm=(By.XPATH,"//a[text()='定标']")
+    loc_select_suppier=(By.XPATH,"//input[@value='+选择供应商']")
+    loc_suppier_name=(By.XPATH,"//td[@class='name']")  #选择中标的供应商
+    loc_ensure=(By.XPATH,"//div[@class='btns-div']/input[@value='确定']")
+    loc_next=(By.XPATH,"//input[@value='下一步']")
+    loc_start1=(By.XPATH,"//ul[@class='judge-ul']/li[1]/ul/li[5]")  #服务态度
+    loc_start2=(By.XPATH,"//ul[@class='judge-ul']/li[2]/ul/li[5]")   #价格合理度
+    loc_start3 = (By.XPATH,"//ul[@class='judge-ul']/li[3]/ul/li[5]")   #公司资质
+    loc_coment=(By.XPATH,"//ul[@class='judge-ul']/li[4]/textarea")   #总体评价
+    loc_complete=(By.XPATH,"//input[@value='完成']")
 
     def bid_project(self):
         self.click(self.location_public_bid)
@@ -199,8 +212,10 @@ class PublicBid(BasePage):
     #     self.accept(self.bid_success)
 
     def get_bid_number(self):
-        # self.click(self.loc_state)
-        # time.sleep(1)
+        '''
+       获取标书编号，目前返回的时当前页面所有的标书编号
+       :return: 标书编号
+        '''
         number = self.element_texts(self.loc_number)
         return number
 
@@ -211,6 +226,35 @@ class PublicBid(BasePage):
         time.sleep(1)
         self.click(self.bid_success)
 
+    def search_bid(self,number):
+        '''
+        根据输入的标书编号，名称等搜索标书
+        :param number:
+        :return:
+        '''
+        self.send_keys(self.loc_search_text,number)
+        self.click(self.loc_search_button)
+        time.sleep(1)
+
+    def bid_confirm(self,number,text):
+        '''
+        定标流程，单个供应商中标
+        :param text: 评价供应商的内容
+        :return:
+        '''
+        self.click(self.loc_bid_self)
+        self.search_bid(number)
+        self.click(self.loc_bid_confirm)
+        self.click(self.loc_select_suppier)
+        self.click(self.loc_suppier_name)
+        self.click(self.loc_ensure)
+        self.click(self.loc_next)
+        self.click(self.loc_start1)
+        self.click(self.loc_start2)
+        self.click(self.loc_start3)
+        self.send_keys(self.loc_coment,text)
+        self.click(self.loc_complete)
+        self.click(self.bid_success)
 
 
 
