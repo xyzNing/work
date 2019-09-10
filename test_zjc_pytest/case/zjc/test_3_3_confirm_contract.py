@@ -6,7 +6,7 @@ class TestContract():
         driver.delete_all_cookies()
         driver.refresh()
 
-    @pytest.mark.usefixtures('login_sup')
+    @pytest.mark.usefixtures("login_sup")
     def test_confirm_contract(self,driver):
         self.sup_page=SupContract(driver)
         number=self.sup_page.read_excel('contract')

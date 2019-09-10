@@ -1,0 +1,20 @@
+INFO     conf:conftest.py:13 打开火狐浏览器
+INFO     BasePage:basePage.py:49 打开网址 http://zjcbytest.zhutx.net/custom.php/Login/login
+INFO     BasePage:basePage.py:78 定位元素成功——username
+INFO     BasePage:basePage.py:78 定位元素成功——password
+INFO     BasePage:basePage.py:78 定位元素成功——submit_button
+INFO     BasePage:basePage.py:114 点击元素成功——submit_button
+INFO     BasePage:basePage.py:416 开始读contract信息
+INFO     BasePage:basePage.py:418 读取contract的值为['HT190909004', '', '']
+INFO     BasePage:basePage.py:78 定位元素成功——//h3[@headerindex='4h']
+INFO     BasePage:basePage.py:114 点击元素成功——//h3[@headerindex='4h']
+INFO     BasePage:basePage.py:78 定位元素成功——//a[text()='合同查看']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[text()='合同查看']
+INFO     BasePage:basePage.py:78 定位元素成功——txtname
+INFO     BasePage:basePage.py:78 定位元素成功——search_button
+INFO     BasePage:basePage.py:114 点击元素成功——search_button
+INFO     BasePage:basePage.py:78 定位元素成功——//a[@title='审核']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[@title='审核']
+INFO     BasePage:basePage.py:78 定位元素成功——btn_submit
+INFO     BasePage:basePage.py:114 点击元素成功——btn_submit
+INFO     BasePage:basePage.py:325 aletr点击确定成功

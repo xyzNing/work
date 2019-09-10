@@ -1,0 +1,40 @@
+2019-09-09 17:48:17,557 - conf - INFO - 打开火狐浏览器
+2019-09-09 17:48:21,745 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-09 17:48:22,778 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:48:23,844 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:48:24,913 - BasePage - INFO - 定位元素成功——login
+2019-09-09 17:48:27,190 - BasePage - INFO - 点击元素成功——login
+2019-09-09 17:48:28,219 - BasePage - INFO - 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-09 17:48:34,663 - BasePage - INFO - 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-09 17:48:35,716 - BasePage - INFO - 定位元素成功——#n2>h3>span
+2019-09-09 17:48:35,954 - BasePage - INFO - 点击元素成功——#n2>h3>span
+2019-09-09 17:48:36,969 - BasePage - INFO - 定位元素成功——#n2-3>span
+2019-09-09 17:48:37,196 - BasePage - INFO - 点击元素成功——#n2-3>span
+2019-09-09 17:48:37,213 - BasePage - INFO - 开始读bid信息
+2019-09-09 17:48:37,213 - BasePage - INFO - 读取bid的值为['ZB190909009']
+2019-09-09 17:48:38,242 - BasePage - INFO - 定位元素成功——//li[@id='n2-3-1']/a
+2019-09-09 17:48:38,823 - BasePage - INFO - 点击元素成功——//li[@id='n2-3-1']/a
+2019-09-09 17:48:39,843 - BasePage - INFO - 定位元素成功——searchInput
+2019-09-09 17:48:40,896 - BasePage - INFO - 定位元素成功——//p[@class='fr']/input[2]
+2019-09-09 17:48:41,133 - BasePage - INFO - 点击元素成功——//p[@class='fr']/input[2]
+2019-09-09 17:48:42,154 - BasePage - INFO - 定位元素成功——//a[@class='cff8d08']
+2019-09-09 17:48:42,375 - BasePage - INFO - 点击元素成功——//a[@class='cff8d08']
+2019-09-09 17:48:43,397 - BasePage - INFO - 定位元素成功——traditionContract
+2019-09-09 17:48:43,966 - BasePage - INFO - 点击元素成功——traditionContract
+2019-09-09 17:48:44,987 - BasePage - INFO - 定位元素成功——signTime
+2019-09-09 17:48:46,048 - BasePage - INFO - 定位元素成功——//input[@id='replenishText']
+2019-09-09 17:48:47,100 - BasePage - INFO - 定位元素成功——selectfiles1
+2019-09-09 17:48:48,655 - BasePage - INFO - 点击元素成功——selectfiles1
+2019-09-09 17:48:48,655 - BasePage - INFO - 开始上传图片
+2019-09-09 17:48:51,477 - BasePage - INFO - 上传图片成功
+2019-09-09 17:48:53,516 - BasePage - INFO - 定位元素成功——//div[@class='btns-div']/input[2]
+2019-09-09 17:48:53,766 - BasePage - INFO - 点击元素成功——//div[@class='btns-div']/input[2]
+2019-09-09 17:48:55,298 - BasePage - INFO - 定位元素成功——//div[@class='dialog__footer']/a
+2019-09-09 17:48:55,759 - BasePage - INFO - 点击元素成功——//div[@class='dialog__footer']/a
+2019-09-09 17:48:58,773 - BasePage - INFO - 定位元素成功——//li[@type='1']
+2019-09-09 17:48:59,012 - BasePage - INFO - 点击元素成功——//li[@type='1']
+2019-09-09 17:49:00,025 - BasePage - INFO - 定位元素成功——//ul[@id='traditionTab']//a[@state='4']
+2019-09-09 17:49:00,312 - BasePage - INFO - 点击元素成功——//ul[@id='traditionTab']//a[@state='4']
+2019-09-09 17:49:02,426 - BasePage - INFO - 开始写入contract编号
+2019-09-09 17:49:02,426 - BasePage - INFO - 正在写入contract编号HT190909004
+2019-09-09 17:49:02,426 - BasePage - INFO - contract写入完成

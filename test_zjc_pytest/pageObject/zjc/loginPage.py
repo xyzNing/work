@@ -4,8 +4,6 @@ import time
 zjc_login_url = "http://zjcbytest.zhutx.net/"
 custom_login_url="http://zjcbytest.zhutx.net/custom.php/Login/login"
 
-
-
 class LoginPage(BasePage):
     selector_user = (By.ID,"username")
     selector_pw = (By.ID,"password")

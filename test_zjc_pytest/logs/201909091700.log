@@ -1,0 +1,25 @@
+2019-09-09 17:00:28,144 - conf - INFO - 打开火狐浏览器
+2019-09-09 17:00:32,657 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-09 17:00:33,695 - BasePage - INFO - 定位元素成功——//li[@id='2']
+2019-09-09 17:00:33,933 - BasePage - INFO - 点击元素成功——//li[@id='2']
+2019-09-09 17:00:34,965 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:00:36,079 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:00:37,159 - BasePage - INFO - 定位元素成功——login
+2019-09-09 17:00:37,424 - BasePage - INFO - 点击元素成功——login
+2019-09-09 17:00:39,449 - BasePage - INFO - 开始读contract信息
+2019-09-09 17:00:39,449 - BasePage - INFO - 读取contract的值为['HT190909002', '', '']
+2019-09-09 17:00:42,538 - BasePage - INFO - 定位元素成功——//div[@class='index-login__content']/a
+2019-09-09 17:00:43,350 - BasePage - INFO - 点击元素成功——//div[@class='index-login__content']/a
+2019-09-09 17:00:46,373 - BasePage - INFO - 定位元素成功——//div[@id='n2']/h3/span
+2019-09-09 17:00:46,611 - BasePage - INFO - 点击元素成功——//div[@id='n2']/h3/span
+2019-09-09 17:00:47,630 - BasePage - INFO - 定位元素成功——//li[@id='n2-2']/a
+2019-09-09 17:00:48,364 - BasePage - INFO - 点击元素成功——//li[@id='n2-2']/a
+2019-09-09 17:00:49,399 - BasePage - INFO - 定位元素成功——searchInput
+2019-09-09 17:00:50,457 - BasePage - INFO - 定位元素成功——searchBtn
+2019-09-09 17:00:51,217 - BasePage - INFO - 点击元素成功——searchBtn
+2019-09-09 17:00:53,230 - BasePage - INFO - 定位元素成功——//a[text()='确认']
+2019-09-09 17:00:53,529 - BasePage - INFO - 点击元素成功——//a[text()='确认']
+2019-09-09 17:00:55,560 - BasePage - INFO - 定位元素成功——confirm
+2019-09-09 17:00:56,649 - BasePage - INFO - 点击元素成功——confirm
+2019-09-09 17:00:58,194 - BasePage - INFO - 定位元素成功——//div[@class='dialog__footer']/a
+2019-09-09 17:00:58,437 - BasePage - INFO - 点击元素成功——//div[@class='dialog__footer']/a

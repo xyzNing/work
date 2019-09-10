@@ -55,11 +55,12 @@ class Instock(BasePage):
         self.click(self.loc_submit)
         self.click(self.loc_dialog_enter)
 
-    def getInstockNumber(self):
+    def get_instock_number(self):
         self.click(self.loc_audit)
         time.sleep(2)
-        text=self.element_texts(self.loc_instock_num)
-        return text
+        number_list=self.element_texts(self.loc_instock_num)
+        new_list=self.arr_sort(number_list)
+        return new_list
 
 
 

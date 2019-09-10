@@ -1,0 +1,53 @@
+INFO     conf:conftest.py:13 打开火狐浏览器
+INFO     BasePage:basePage.py:49 打开网址 http://zjcbytest.zhutx.net/
+INFO     BasePage:basePage.py:78 定位元素成功——username
+INFO     BasePage:basePage.py:78 定位元素成功——password
+INFO     BasePage:basePage.py:78 定位元素成功——login
+INFO     BasePage:basePage.py:114 点击元素成功——login
+INFO     BasePage:basePage.py:78 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+INFO     BasePage:basePage.py:78 定位元素成功——#n2>h3>span
+INFO     BasePage:basePage.py:114 点击元素成功——#n2>h3>span
+INFO     BasePage:basePage.py:78 定位元素成功——//li[@id='n2-6']/span
+INFO     BasePage:basePage.py:114 点击元素成功——//li[@id='n2-6']/span
+INFO     BasePage:basePage.py:78 定位元素成功——//li[@id='n2-6-1']/a
+INFO     BasePage:basePage.py:114 点击元素成功——//li[@id='n2-6-1']/a
+INFO     BasePage:basePage.py:416 开始读contract信息
+INFO     BasePage:basePage.py:418 读取contract的值为['HT190909004', '', '']
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@value='新增发票']
+INFO     BasePage:basePage.py:114 点击元素成功——//input[@value='新增发票']
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@value='选择合同']
+INFO     BasePage:basePage.py:114 点击元素成功——//input[@value='选择合同']
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@class='modal-search-right fr']/input[1]
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@value='搜索']
+INFO     BasePage:basePage.py:114 点击元素成功——//input[@value='搜索']
+INFO     BasePage:basePage.py:78 定位元素成功——//a[@class='ml10 c48cead']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[@class='ml10 c48cead']
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@id='transportation1']/i[2]
+INFO     BasePage:basePage.py:236 移动到元素成功——//div[@id='transportation1']/i[2]
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@id='transportation1']/i[2]
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@id='transportation1']/i[2]
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@id='code0']
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@id='code1']
+INFO     BasePage:basePage.py:78 定位元素成功——invoiceDate
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@id='taxRate3']
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='invoiceTbody3']/tr/td[1]/input
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='invoiceTbody3']/tr/td[2]/input
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='invoiceTbody3']/tr/td[3]/input
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='invoiceTbody3']/tr/td[4]/input
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='invoiceTbody3']/tr/td[5]/input
+INFO     BasePage:basePage.py:78 定位元素成功——//button[@id='selectfiles1']
+INFO     BasePage:basePage.py:114 点击元素成功——//button[@id='selectfiles1']
+INFO     BasePage:basePage.py:146 开始上传图片
+INFO     BasePage:basePage.py:148 上传图片成功
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@value='确定']
+INFO     BasePage:basePage.py:114 点击元素成功——//input[@value='确定']
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@class='dialog__footer']/a[2]
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@class='dialog__footer']/a[2]
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@class='dialog__footer']/a
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@class='dialog__footer']/a
+INFO     BasePage:basePage.py:78 定位元素成功——//a[@status='6']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[@status='6']
+INFO     BasePage:basePage.py:390 开始写入invoice编号
+INFO     BasePage:basePage.py:395 正在写入invoice编号IV190909004
+INFO     BasePage:basePage.py:396 invoice写入完成

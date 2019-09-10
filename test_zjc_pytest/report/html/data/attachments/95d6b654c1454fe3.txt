@@ -1,0 +1,24 @@
+INFO     conf:conftest.py:13 打开火狐浏览器
+INFO     BasePage:basePage.py:49 打开网址 http://zjcbytest.zhutx.net/custom.php/Login/login
+INFO     BasePage:basePage.py:78 定位元素成功——username
+INFO     BasePage:basePage.py:78 定位元素成功——password
+INFO     BasePage:basePage.py:78 定位元素成功——submit_button
+INFO     BasePage:basePage.py:114 点击元素成功——submit_button
+INFO     BasePage:basePage.py:416 开始读bid信息
+INFO     BasePage:basePage.py:418 读取bid的值为['ZB190909009']
+INFO     BasePage:basePage.py:78 定位元素成功——//h3[@headerindex='2h']
+INFO     BasePage:basePage.py:114 点击元素成功——//h3[@headerindex='2h']
+INFO     BasePage:basePage.py:78 定位元素成功——//a[@title='招标发布一次审核']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[@title='招标发布一次审核']
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@id='txtname']
+INFO     BasePage:basePage.py:78 定位元素成功——search_button
+INFO     BasePage:basePage.py:114 点击元素成功——search_button
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@class='piaofu']//a[2]
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@class='piaofu']//a[2]
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='product']/tr[3]/td[11]/a
+INFO     BasePage:basePage.py:114 点击元素成功——//tbody[@id='product']/tr[3]/td[11]/a
+INFO     BasePage:basePage.py:78 定位元素成功——draft_remark
+INFO     BasePage:basePage.py:78 定位元素成功——author_0
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@class='out_right']/a[2]
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@class='out_right']/a[2]
+INFO     BasePage:basePage.py:325 aletr点击确定成功

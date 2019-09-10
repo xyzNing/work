@@ -1,5 +1,6 @@
 # conding=utf-8
 from public.basePage import BasePage
+from public.mysqlDb import Db
 from selenium.webdriver.common.by import By
 import time
 
@@ -98,6 +99,7 @@ class BidManage(BasePage):
     loc_complete=(By.XPATH,"//input[@value='完成']")
 
     def bid_project(self):
+        self.click(self.loc_bid_self)
         self.click(self.location_public_bid)
         self.click(self.location_bid_project)
         self.click(self.location_project)
@@ -236,12 +238,23 @@ class BidManage(BasePage):
         self.click(self.loc_search_button)
         time.sleep(1)
 
+    def modify_bid_state(self):
+        '''
+        修改标书状态，由正在招标变为开标议标
+        :return:
+        '''
+        bid_number=self.read_excel('bid')[0]
+        db=Db()
+        db.modify_db(bid_number)
+        print('%s标书状态修改成功'%bid_number)
+
     def bid_confirm(self,number,text):
         '''
         定标流程，单个供应商中标
         :param text: 评价供应商的内容
         :return:
         '''
+        self.modify_bid_state()
         self.click(self.loc_bid_self)
         self.search_bid(number)
         self.click(self.loc_bid_confirm)
@@ -255,6 +268,7 @@ class BidManage(BasePage):
         self.send_keys(self.loc_coment,text)
         self.click(self.loc_complete)
         self.click(self.bid_success)
+        time.sleep(1)
 
 
 

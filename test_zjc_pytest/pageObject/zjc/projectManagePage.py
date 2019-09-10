@@ -1,5 +1,6 @@
 from public.basePage import BasePage
 from selenium.webdriver.common.by import By
+import time
 class ProjectPage( BasePage):
 
     loc_project_self=(By.XPATH,"//li[@id='n2-1-1']/a")
@@ -75,6 +76,7 @@ class ProjectPage( BasePage):
         self.click(self.loc_check)
         self.click(self.loc_confirm)
         self.click(self.loc_success)
+        time.sleep(1)
 
 
 

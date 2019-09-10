@@ -1,0 +1,21 @@
+INFO     conf:conftest.py:13 打开火狐浏览器
+INFO     BasePage:basePage.py:49 打开网址 http://zjcbytest.zhutx.net/custom.php/Login/login
+INFO     BasePage:basePage.py:78 定位元素成功——username
+INFO     BasePage:basePage.py:78 定位元素成功——password
+INFO     BasePage:basePage.py:78 定位元素成功——submit_button
+INFO     BasePage:basePage.py:114 点击元素成功——submit_button
+INFO     BasePage:basePage.py:416 开始读billingInfo信息
+INFO     BasePage:basePage.py:418 读取billingInfo的值为['1909091742shortname']
+INFO     BasePage:basePage.py:78 定位元素成功——//h3[@headerindex='1h']
+INFO     BasePage:basePage.py:114 点击元素成功——//h3[@headerindex='1h']
+INFO     BasePage:basePage.py:78 定位元素成功——//a[text()='采购商开票信息']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[text()='采购商开票信息']
+INFO     BasePage:basePage.py:78 定位元素成功——txtname
+INFO     BasePage:basePage.py:78 定位元素成功——search_button
+INFO     BasePage:basePage.py:114 点击元素成功——search_button
+INFO     BasePage:basePage.py:78 定位元素成功——//a[text()='审核']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[text()='审核']
+INFO     BasePage:basePage.py:78 定位元素成功——checkopt
+INFO     BasePage:basePage.py:78 定位元素成功——submit_button
+INFO     BasePage:basePage.py:114 点击元素成功——submit_button
+INFO     BasePage:basePage.py:325 aletr点击确定成功

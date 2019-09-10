@@ -8286,3 +8286,1904 @@ _create_dc_and_bitmap: 操作成功完成。
 [GPU 2776, Chrome_Child
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1567751892314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.vb4sLBIvD6yR"
+1567751895303	Marionette	INFO	Listening on port 57068
+1567751895430	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567751895474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567751895480	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567751895630	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567751895665	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567751895719	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+JavaScript error: resource://gre/modules/PushServiceWebSocket.jsm, line 310: NS_ERROR_NOT_CONNECTED: Component returned failure code: 0x804b000c (NS_ERROR_NOT_CONNECTED) [nsIWebSocketChannel.sendMsg]
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1567751921478	Marionette	INFO	Stopped listening on port 57068
+[Parent 1268, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1268, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[GPU 3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567751930351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.T5cckOR9oWqv"
+1567751933223	Marionette	INFO	Listening on port 57177
+1567751933472	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567751933499	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567751933536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567751933560	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567751933614	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567751933662	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/purchaser/accountChild/choseAuth.js, line 175: ReferenceError: scrollWidth is not defined
+1567751982614	Marionette	INFO	Stopped listening on port 57177
+[Parent 7392, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 7392, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567752126909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.WIVsUzrhd0wu"
+1567752129790	Marionette	INFO	Listening on port 57557
+1567752129912	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752129972	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752130091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567752130107	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752130148	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752130210	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/purchaser/accountChild/choseAuth.js, line 175: ReferenceError: scrollWidth is not defined
+1567752181297	Marionette	INFO	Stopped listening on port 57557
+[Child 5548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 18528, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567752212190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.t7eVaDQssZIo"
+1567752214932	Marionette	INFO	Listening on port 57825
+1567752215038	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752215059	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752215117	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752215229	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752215294	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752215419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/purchaser/accountChild/choseAuth.js, line 175: ReferenceError: scrollWidth is not defined
+1567752276977	Marionette	INFO	Stopped listening on port 57825
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 12912, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567752528857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.mkPdkmGm4tTJ"
+1567752531679	Marionette	INFO	Listening on port 58250
+1567752532053	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752532071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567752532132	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752532217	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752532254	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567752532287	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/purchaser/accountChild/choseAuth.js, line 175: ReferenceError: scrollWidth is not defined
+1567752586262	Marionette	INFO	Stopped listening on port 58250
+[Parent 4784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 4784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 4784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567755505970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ZbVzqwqXtS7V"
+1567755509448	Marionette	INFO	Listening on port 60482
+1567755509548	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567755509578	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567755509622	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567755509651	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567755509668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567755509700	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: resource://gre/modules/ExtensionCommon.jsm, line 1762: TypeError: data is null
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b8400005d720d0c710400b3f1a4%26s%3d250x250%26d%3d0%26t%3d1567755532&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b8400005d720d0c710400b3f1a4&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b8400005d720d0c710400b3f1a4%26s%3d250x250%26d%3d0%26t%3d1567755532&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b8400005d720d0c710400b3f1a4&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1567755558676	Marionette	INFO	Stopped listening on port 60482
+[Parent 10060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 18376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/amWebAPI.jsm, line 86: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 101: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530024,name=PHttpChannel::Msg_SetPriority) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567755640078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.518LOrjJ8Db1"
+1567755643558	Marionette	INFO	Listening on port 60953
+1567755643662	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567755643695	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567755643757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567755643773	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567755643803	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567755643840	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/heilongjiang"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4e5a00015d720d9ee68300b8afcf%26s%3d250x250%26d%3d0%26t%3d1567755678&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4e5a00015d720d9ee68300b8afcf&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4e5a00015d720d9ee68300b8afcf%26s%3d250x250%26d%3d0%26t%3d1567755678&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4e5a00015d720d9ee68300b8afcf&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/purchaser/accountChild/choseAuth.js, line 175: ReferenceError: scrollWidth is not defined
+[Parent 8468, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1567755708164	Marionette	INFO	Stopped listening on port 60953
+[Parent 8468, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chro[mium/src/chromParent 8468, Gecko_IOThread] WARNING: pipe erre/common/ipc_channel_win.cc, line 341
+o[Chr: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8468, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 8468, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+ild 17412, Chrome_ChildThread] WARNING: pipe error: 109
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+
+JavaScript error: resource://gre/modules/amWebAPI.jsm, line 86: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU 13668
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567761135041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.9X5gaideZrii"
+1567761138215	Marionette	INFO	Listening on port 64295
+1567761138416	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761138448	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761138494	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761138531	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761138555	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761138701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567761163321	Marionette	INFO	Stopped listening on port 64295
+[Parent 17908, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17908, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567761616039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ZNg8tVZeyFtP"
+1567761619291	Marionette	INFO	Listening on port 64919
+1567761619368	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761619403	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761619458	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761619500	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761619536	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567761619686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567761629562	Marionette	INFO	Stopped listening on port 64919
+[Child 4680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[Parent 10292, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+[Child[Parent 10292, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 10292, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc,
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+ line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567762098278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.CFdWOyLcLYqX"
+1567762102158	Marionette	INFO	Listening on port 65509
+1567762102229	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762102259	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762102305	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762102348	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762102384	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762102516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4e9200005d7226cd95bd0045f6a7%26s%3d250x250%26d%3d0%26t%3d1567762125&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4e9200005d7226cd95bd0045f6a7&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4e9200005d7226cd95bd0045f6a7%26s%3d250x250%26d%3d0%26t%3d1567762125&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4e9200005d7226cd95bd0045f6a7&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/purchaser/accountChild/choseAuth.js, line 175: ReferenceError: scrollWidth is not defined
+_create_dc_and_bitmap: 操作成功完成。
+1567762164647	Marionette	INFO	Stopped listening on port 65509
+[Parent 6444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chr[Child 10276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+o[Chilme/common/ipc_channel_win.cc, line 341
+[C[Parent 6444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU 194
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567762331195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.p8fPIsUO8ZsG"
+1567762334421	Marionette	INFO	Listening on port 49813
+1567762334511	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762334540	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762334592	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762334629	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762334660	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567762334875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b0200015d7227b5a731001f4736%26s%3d250x250%26d%3d0%26t%3d1567762357&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b0200015d7227b5a731001f4736&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b0200015d7227b5a731001f4736%26s%3d250x250%26d%3d0%26t%3d1567762357&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b0200015d7227b5a731001f4736&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/purchaser/accountChild/choseAuth.js, line 175: ReferenceError: scrollWidth is not defined
+_create_dc_and_bitmap: 操作成功完成。
+1567762397655	Marionette	INFO	Stopped listening on port 49813
+[Parent 14816, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16552, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 16552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16[Parent 14816, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14816, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+[Child 88, Chrome_ChildThread
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 88, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567994949710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.dSgi5iRF105e"
+1567994953398	Marionette	INFO	Listening on port 57337
+1567994953520	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567994953549	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567994953603	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567994953634	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567994953679	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567994953893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567995051420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.JJl8OLkdypkE"
+1567995054711	Marionette	INFO	Listening on port 57668
+1567995054895	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995054930	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995054975	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995055004	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995055040	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995055116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b0200015d75b4c5a84400074031%26s%3d250x250%26d%3d0%26t%3d1567995077&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b0200015d75b4c5a84400074031&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b0200015d75b4c5a84400074031%26s%3d250x250%26d%3d0%26t%3d1567995077&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b0200015d75b4c5a84400074031&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1567995196995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.9qVMiKvhoXnC"
+1567995200349	Marionette	INFO	Listening on port 58194
+1567995200441	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995200462	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995200520	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995200551	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995200577	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource.(resource://gre/modules/addons/XPIProvider.jsm:200:15) JS Stack trace: awaitPromise@XPIProvider.jsm:200:15
+syncLoadManifest@XPIInstall.jsm:685:22
+updateMetadata@XPIDatabase.jsm:2537:32
+updateExistingAddon@XPIDatabase.jsm:2713:23
+processFileChanges@XPIDatabase.jsm:2789:31
+getNewSideloads@XPIProvider.jsm:2762:28
+1567995200678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d75b556a419003d612e%26s%3d250x250%26d%3d0%26t%3d1567995222&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d75b556a419003d612e&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d75b556a419003d612e%26s%3d250x250%26d%3d0%26t%3d1567995222&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d75b556a419003d612e&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1567995249626	Marionette	INFO	Stopped listening on port 58194
+[Parent 7460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 7460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 7460, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 7824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 101: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/amWebAPI.jsm, line 86: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530024,name=PHttpChannel::Msg_SetPriority) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567997258924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.IsyqhnJ3Kk5H"
+1567997262313	Marionette	INFO	Listening on port 60082
+1567997262589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1567997285211	Marionette	INFO	Stopped listening on port 60082
+[Parent 14444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ip[Parent 14444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_156686433c6/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+_channel_win.cc, line 341
+[Child [Child 996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 99[Parent 14444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14444, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568000186346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.IWynTvk8QIlU"
+1568000189690	Marionette	INFO	Listening on port 63958
+1568000190017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0dc15c00005d75c8d4988a00adda1b%26s%3d250x250%26d%3d0%26t%3d1568000212&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0dc15c00005d75c8d4988a00adda1b&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0dc15c00005d75c8d4988a00adda1b%26s%3d250x250%26d%3d0%26t%3d1568000212&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0dc15c00005d75c8d4988a00adda1b&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+[Parent 17804, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+_create_dc_and_bitmap: 操作成功完成。
+1568000260252	Marionette	INFO	Stopped listening on port 63958
+[Parent 17804, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17804, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Parent 17804, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17804, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU 17220, Chrome_ChildThread] WARN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568002743005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.bgjwlubIXoQv"
+1568002746371	Marionette	INFO	Listening on port 50929
+1568002746668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568002761217	Marionette	INFO	Stopped listening on port 50929
+[Child 6180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/ch[Parent 17016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+romium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Ch[Child 12680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[
+Parent 17016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/com
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+mon/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568002977535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.q1eduy6bHAp2"
+1568002981253	Marionette	INFO	Listening on port 51326
+1568002981726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4e9200005d75d3c49133003081e6%26s%3d250x250%26d%3d0%26t%3d1568003012&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4e9200005d75d3c49133003081e6&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4e9200005d75d3c49133003081e6%26s%3d250x250%26d%3d0%26t%3d1568003012&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4e9200005d75d3c49133003081e6&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568003017877	Marionette	INFO	Stopped listening on port 51326
+[Parent 11476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/comm[Parento n/ip1c_channel_win.cc, line 341
+1476, Gecko_IOThread] WARN[ING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12160[Parent 11476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18736, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 18736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540024,name=PHttpChannel::Msg_SetPriority) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568003456153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.eUQf21yjhp5D"
+1568003459638	Marionette	INFO	Listening on port 52037
+1568003459853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/zhejiang"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/yunnan"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/xinjiang"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/xizang"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "province/hunan"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: http://zjcbytest.zhutx.net/Public/js/js50/plugins/indexMap/require.js, line 168: Error: Script error for "echarts", needed by: china, province/anhui, province/aomen, province/beijing, province/chongqing, province/fujian, province/gansu, province/guangdong, province/guangxi, province/guizhou, province/hainan, province/hebei, province/heilongjiang, province/henan, province/hubei, province/jiangsu, province/jiangxi, province/jilin, province/liaoning, province/neimenggu, province/ningxia, province/qinghai, province/shandong, province/shanghai, province/shanxi, province/shanxi1, province/sichuan, province/taiwan, province/tianjin, province/xianggang
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4adb00015d75d59b31ec00168253%26s%3d250x250%26d%3d0%26t%3d1568003483&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4adb00015d75d59b31ec00168253&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4adb00015d75d59b31ec00168253%26s%3d250x250%26d%3d0%26t%3d1568003483&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4adb00015d75d59b31ec00168253&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568003499198	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1568003502502	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 924, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+_create_dc_and_bitmap: 操作成功完成。
+1568003535666	Marionette	INFO	Stopped listening on port 52037
+[Parent 924, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[Parent 924, Gecko_IOTtask_1566864336/build/src/ipch/chrromium/src/chrome/common/ipc_channel_win.cc, line 341
+ead] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 924, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10448
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568003553895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.dC0zpzkAKuuK"
+1568003557559	Marionette	INFO	Listening on port 52661
+1568003558062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d75d5fca574004ce00f%26s%3d250x250%26d%3d0%26t%3d1568003580&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d75d5fca574004ce00f&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d75d5fca574004ce00f%26s%3d250x250%26d%3d0%26t%3d1568003580&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d75d5fca574004ce00f&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568003585018	Marionette	INFO	Stopped listening on port 52661
+[Parent 11252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11252, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU 11
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568005481550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.e0iULNo7BAqS"
+1568005485263	Marionette	INFO	Listening on port 54083
+1568005485760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b0100015d75dd83a9350092e827%26s%3d250x250%26d%3d0%26t%3d1568005507&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b0100015d75dd83a9350092e827&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b0100015d75dd83a9350092e827%26s%3d250x250%26d%3d0%26t%3d1568005507&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b0100015d75dd83a9350092e827&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b0100015d75dd83a9350092e827%26s%3d250x250%26d%3d0%26t%3d1568005507&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b0100015d75dd83a9350092e827&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568005515227	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1568005521541	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:86124
+ajax@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:83562
+toolAjax@http://zjcbytest.zhutx.net/Supplier/js/common.js:244:7
+queryAllInvoiceList@http://zjcbytest.zhutx.net/Supplier/js/bid/bidPassDetail.js?0.7606296188750559:619:5
+@http://zjcbytest.zhutx.net/Supplier/js/bid/bidPassDetail.js?0.7606296188750559:84:9
+dispatch@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:38053
+u@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:33916
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+1568005529462	Marionette	INFO	Stopped listening on port 54083
+[Parent 14492, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 14492, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14492, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568005627506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.oGwHGShZDlDx"
+1568005631200	Marionette	INFO	Listening on port 54584
+1568005631226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0dc15c00005d75de14977c006e1781%26s%3d250x250%26d%3d0%26t%3d1568005652&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0dc15c00005d75de14977c006e1781&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0dc15c00005d75de14977c006e1781%26s%3d250x250%26d%3d0%26t%3d1568005652&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0dc15c00005d75de14977c006e1781&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0dc15c00005d75de14977c006e1781%26s%3d250x250%26d%3d0%26t%3d1568005652&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0dc15c00005d75de14977c006e1781&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568005660590	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1568005681393	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:86124
+ajax@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:83562
+toolAjax@http://zjcbytest.zhutx.net/Supplier/js/common.js:244:7
+queryBondState@http://zjcbytest.zhutx.net/Supplier/js/guarantee/bond.js?v=100033:15:5
+confirmTenderBid@http://zjcbytest.zhutx.net/Supplier/js/bid/bidPassDetail.js?0.5596005062950119:697:9
+onclick@http://zjcbytest.zhutx.net/Supplier/html/bid/bidPassDetail.html?bidId=11976&bidType=1&bondState=0&intrec=2:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+1568005684890	Marionette	INFO	Stopped listening on port 54584
+[Parent 16780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 16780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16780, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 148, Chrome_Chil[Parent 16780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChiJavaScript error: resource://gre/modules/amWebAPI.jsm, line 97: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1568005796084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.uupwqfkYiUjT"
+1568005799663	Marionette	INFO	Listening on port 55108
+1568005799759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d75dec0a5fe009f26ac%26s%3d250x250%26d%3d0%26t%3d1568005824&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d75dec0a5fe009f26ac&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d75dec0a5fe009f26ac%26s%3d250x250%26d%3d0%26t%3d1568005824&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d75dec0a5fe009f26ac&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568005847293	Marionette	INFO	Stopped listening on port 55108
+[Parent 1208, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 1208, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568007772066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.oQKgFtQrGetO"
+1568007776207	Marionette	INFO	Listening on port 57607
+1568007776231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4e5a00015d75e676e7c000e13c00%26s%3d250x250%26d%3d0%26t%3d1568007798&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4e5a00015d75e676e7c000e13c00&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568007801872	Marionette	INFO	Stopped listening on port 57607
+[Parent 13036, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13036, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/comm[on/ipc_channel_win.cc, line 341
+Parent 13036, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13036, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568009303958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.5mcxsWE79P6Q"
+1568009307412	Marionette	INFO	Listening on port 64355
+1568009307610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568009325233	Marionette	INFO	Stopped listening on port 64355
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Parent 3760, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8896, Chrome_ChildThread] WARNING: [pipeChild 1184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium /src/chrome/common/ipc_channel_win.cc, line 341e
+rror[: 109: file z:/task_1566864336/build/src/ipc/
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568009440570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.TQkLzFJm4RBt"
+1568009444079	Marionette	INFO	Listening on port 64680
+1568009444295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568009465620	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:86124
+ajax@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:83562
+toolAjax@http://zjcbytest.zhutx.net/Supplier/js/common.js:244:7
+getList@http://zjcbytest.zhutx.net/Supplier/js/contract/contractList.js?0.8889683666838465:72:9
+onclick@http://zjcbytest.zhutx.net/Supplier/html/Contract/contractList.html:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b8300015d75ecf9411200562fa3%26s%3d250x250%26d%3d0%26t%3d1568009465&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b8300015d75ecf9411200562fa3&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568009468808	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:86124
+ajax@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:83562
+toolAjax@http://zjcbytest.zhutx.net/Supplier/js/common.js:244:7
+contractConfirm@http://zjcbytest.zhutx.net/Supplier/js/contract/contractDetail.js:318:5
+onclick@http://zjcbytest.zhutx.net/Supplier/html/Contract/contractDetail.html?contractId=1596&flag=1:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b8300015d75ecf9411200562fa3%26s%3d250x250%26d%3d0%26t%3d1568009465&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b8300015d75ecf9411200562fa3&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b8300015d75ecf9411200562fa3%26s%3d250x250%26d%3d0%26t%3d1568009465&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b8300015d75ecf9411200562fa3&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568009471227	Marionette	INFO	Stopped listening on port 64680
+[Child 9132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Child 12872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12872,[Parent 12540, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568011113085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.rJ0olW3c4NNV"
+1568011116284	Marionette	INFO	Listening on port 49659
+1568011116782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568011139995	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:86124
+ajax@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:83562
+toolAjax@http://zjcbytest.zhutx.net/Supplier/js/common.js:244:7
+getList@http://zjcbytest.zhutx.net/Supplier/js/contract/contractList.js?0.6263411179112114:72:9
+onclick@http://zjcbytest.zhutx.net/Supplier/html/Contract/contractList.html:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b0200015d75f382a6b500184013%26s%3d250x250%26d%3d0%26t%3d1568011138&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b0200015d75f382a6b500184013&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568011141709	Marionette	INFO	Stopped listening on port 49659
+[Child 428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 18944, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5380, Chrome_ChildT[Parent 18944, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8232,[Parent 18944, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568011240226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.Cl7epi4qrp00"
+1568011243981	Marionette	INFO	Listening on port 50071
+1568011244470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4c1500015d75f402f68f004a32e5%26s%3d250x250%26d%3d0%26t%3d1568011266&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4c1500015d75f402f68f004a32e5&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4c1500015d75f402f68f004a32e5%26s%3d250x250%26d%3d0%26t%3d1568011266&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4c1500015d75f402f68f004a32e5&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+[Parent 11132, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1568011299140	Marionette	INFO	Stopped listening on port 50071
+[Parent 11132, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4212[Parent 11132, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11132, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11132, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11132, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568012945220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ma8f7vA9UUbo"
+1568012949006	Marionette	INFO	Listening on port 51555
+1568012949435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4adb00015d75faab34f900517890%26s%3d250x250%26d%3d0%26t%3d1568012971&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4adb00015d75faab34f900517890&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4adb00015d75faab34f900517890%26s%3d250x250%26d%3d0%26t%3d1568012971&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4adb00015d75faab34f900517890&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568012983122	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 15760, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1568013010439	Marionette	INFO	Stopped listening on port 51555
+[Child 19308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Parent 15760, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 15760, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_chann
+###!!! [Child][MessageChannel] Error: (msgtype=0x540005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+el_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540024,name=PHttpChannel::Msg_SetPriority) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU 4820, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568013202906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.gWpjMN7FVO6U"
+1568013206156	Marionette	INFO	Listening on port 52152
+1568013206633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4bc500015d75fbab9467008b4a8a%26s%3d250x250%26d%3d0%26t%3d1568013227&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4bc500015d75fbab9467008b4a8a&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4bc500015d75fbab9467008b4a8a%26s%3d250x250%26d%3d0%26t%3d1568013227&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4bc500015d75fbab9467008b4a8a&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568013235734	Marionette	INFO	Stopped listening on port 52152
+[Child 18680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Child 12056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568014328288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.sYM4H1IRP7Hb"
+1568014332177	Marionette	INFO	Listening on port 53231
+1568014332492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568014387277	Marionette	INFO	Stopped listening on port 53231
+[Parent 488, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 488, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 488, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568014410018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.D6LuBWeqCrOA"
+1568014413632	Marionette	INFO	Listening on port 53697
+1568014413719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1568014431994	Marionette	INFO	Stopped listening on port 53697
+[Parent 15784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14008, Chrome_ChildThread] WARNING: pipe error: 1[Chi0ld 18724, 9: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+Ch[rome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 15784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build[/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+P[Chiarent 15784, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13528,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568014469424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.7webjIDjlaR1"
+1568014473023	Marionette	INFO	Listening on port 53895
+1568014473129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d76009ea4f100b2512e%26s%3d250x250%26d%3d0%26t%3d1568014494&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d76009ea4f100b2512e&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d76009ea4f100b2512e%26s%3d250x250%26d%3d0%26t%3d1568014494&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d76009ea4f100b2512e&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568014508035	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 2900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1568014535407	Marionette	INFO	Stopped listening on port 53895
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 14888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 2900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2900, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568014667246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.sh52HRcWoAVk"
+1568014670801	Marionette	INFO	Listening on port 54508
+1568014670981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1568014686160	Marionette	INFO	Stopped listening on port 54508
+[Parent 1960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chr[oParent 1960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+me/commo[Child 19136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341n
+/ipc[Ch_channel_win.cc, line 341
+[Child 17[P0arent 1960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568014771306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.7l2uMosio4Bo"
+1568014774837	Marionette	INFO	Listening on port 54724
+1568014775026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4bcb00005d7601cbf7990091acce%26s%3d250x250%26d%3d0%26t%3d1568014795&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4bcb00005d7601cbf7990091acce&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4bcb00005d7601cbf7990091acce%26s%3d250x250%26d%3d0%26t%3d1568014795&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4bcb00005d7601cbf7990091acce&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4bcb00005d7601cbf7990091acce%26s%3d250x250%26d%3d0%26t%3d1568014795&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4bcb00005d7601cbf7990091acce&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568014806559	Marionette	INFO	Stopped listening on port 54724
+[Child 18120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 15960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 15960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568015747535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.1FZ2QgLl9Nk5"
+1568015751369	Marionette	INFO	Listening on port 55928
+1568015751799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d76059da41900d9a791%26s%3d250x250%26d%3d0%26t%3d1568015773&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d76059da41900d9a791&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568015776601	Marionette	INFO	Stopped listening on port 55928
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da0[9Pearent 3940, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d76059da41900d9a791%26s%3d250x250%26d%3d0%26t%3d1568015773&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d7[Parent 3940, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3416
+059da41900d9a791&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568017462510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.e5Hjqrflmesl"
+1568017465803	Marionette	INFO	Listening on port 61700
+1568017466250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1568017484364	Marionette	INFO	Stopped listening on port 61700
+[Parent 11144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568018425647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.RPjKERDl8QqI"
+1568018429400	Marionette	INFO	Listening on port 62462
+1568018429903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1568018445759	Marionette	INFO	Stopped listening on port 62462
+[Parent 19088, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19088, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrom[Parente/common/ipc_channel_win.cc, line 341
+ 1908[Child 88, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 19088, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU 1796, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568018902802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ONyWVw38fQ5Y"
+1568018906451	Marionette	INFO	Listening on port 63004
+1568018906537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://zjcbytest.zhutx.net/Public/js/common_front.js?v=1.0015, line 23: unreachable code after return statement
+JavaScript warning: http://zjcbytest.zhutx.net/custom.php/Login/login, line 185: unreachable code after return statement
+1568018922104	Marionette	INFO	Stopped listening on port 63004
+[Parent 14936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/bui[lChild 744, Chrome_ChildThread] WARNIdNG: pipe /src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341e
+rro[Chir: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 14936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 14936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568019172695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.ahPUY7Cb3zEl"
+1568019176335	Marionette	INFO	Listening on port 63377
+1568019176451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568019199009	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:86124
+ajax@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:83562
+toolAjax@http://zjcbytest.zhutx.net/Supplier/js/common.js:244:7
+getList@http://zjcbytest.zhutx.net/Supplier/js/contract/contractList.js?0.08058759122471637:72:9
+onclick@http://zjcbytest.zhutx.net/Supplier/html/Contract/contractList.html:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+JavaScript error: https://strip.alicdn.com/tfscom/TB1PWTTPVXXXXbOXpXXXXXXXXXX.html?tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313994%26pvid%3d0b0c4b9700005d7612ffa4f10045a4ec%26s%3d250x250%26d%3d0%26t%3d1568019199&pid=mm_28347190_2425761_9313994&tp=5&tsid=0b0c4b9700005d7612ffa4f10045a4ec&pid=mm_28347190_2425761_9313994, line 1: TypeError: (e + ((t - e) * n)).toFixed is not a function
+1568019202003	Marionette	INFO	Stopped listening on port 63377
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[hiCld 11448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 6192, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 6192, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568019624409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ning\\AppData\\Local\\Temp\\rust_mozprofile.lTzjzE1t1nab"
+1568019627962	Marionette	INFO	Listening on port 63926
+1568019628083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568019650968	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:86124
+ajax@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:83562
+toolAjax@http://zjcbytest.zhutx.net/Supplier/js/common.js:244:7
+getList@http://zjcbytest.zhutx.net/Supplier/js/contract/contractList.js?0.02519250721097721:72:9
+onclick@http://zjcbytest.zhutx.net/Supplier/html/Contract/contractList.html:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+1568019656072	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:86124
+ajax@http://zjcbytest.zhutx.net/Supplier/js/jquery.1.8.3.min.js:2:83562
+toolAjax@http://zjcbytest.zhutx.net/Supplier/js/common.js:244:7
+contractConfirm@http://zjcbytest.zhutx.net/Supplier/js/contract/contractDetail.js:318:5
+onclick@http://zjcbytest.zhutx.net/Supplier/html/Contract/contractDetail.html?contractId=1597&flag=1:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+1568019658443	Marionette	INFO	Stopped listening on port 63926
+[Parent 14612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 14612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 14612, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+864336/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010D,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36011E,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[GPU 1925
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

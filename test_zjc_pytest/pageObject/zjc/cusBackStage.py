@@ -4,7 +4,14 @@ from selenium.webdriver.common.by import By
 import time
 class CusBackStage(BasePage):
     user_manage=(By.XPATH,"//h3[@headerindex='0h']")   #用户管理
-    tick_manage=(By.XPATH,"//h3[@headerindex='1h']")   #开票管理
+    billing_manage=(By.XPATH,"//h3[@headerindex='1h']")   #开票管理
+    billing_pur=(By.XPATH,"//a[text()='采购商开票信息']")
+    billing_search_text=(By.ID,"txtname")
+    billing_search_button=(By.ID,"search_button")
+    billing_check=(By.XPATH,"//a[text()='审核']")
+    billing_check_select=(By.ID,"checkopt")
+    #value=1 审核通过 value=2  审核不通过
+    billing_save=(By.ID,"submit_button")
 
     bid_tend_manage=(By.XPATH,"//h3[@headerindex='2h']")   #招投标管理
     bid_public_check=(By.XPATH,"//a[@title='招标发布一次审核']")
@@ -17,7 +24,6 @@ class CusBackStage(BasePage):
     bid_save=(By.XPATH,"//div[@class='out_right']/a[2]")  #保存
 
     margin_manage=(By.XPATH,"//h3[@headerindex='3h']")     #保证金管理
-
     #合同相关页面元素
     contract_manage=(By.XPATH,"//h3[@headerindex='4h']")   #合同管理
     contract_view=(By.XPATH,"//a[text()='合同查看']")
@@ -50,6 +56,17 @@ class CusBackStage(BasePage):
     #value=1 审核通过  value=7 审核未通过
     invoice_submit=(By.ID,"submit_button")
 
+    def check_billing(self,number):
+        self.click(self.billing_manage)
+        self.click(self.billing_pur)
+        self.send_keys(self.billing_search_text,number)
+        self.click(self.billing_search_button)
+        self.click(self.billing_check)
+        self.select_by_value(self.billing_check_select,"1")
+        self.click(self.billing_save)
+        time.sleep(2)
+        self.accept()
+
     def check_bid(self,bid_number,bid_reason='审核通过'):
         self.click(self.bid_tend_manage)
         self.click(self.bid_public_check)
@@ -61,14 +78,14 @@ class CusBackStage(BasePage):
         self.send_keys(self.bid_modify_reason,bid_reason)
         self.select_by_value(self.bid_select_check,'1')
         self.click(self.bid_save)
-        time.sleep(1)
+        time.sleep(2)
         self.accept()
 
     def enter_instock(self):
         self.click(self.instock_manage_content)
         self.click(self.instock_manage)
 
-    def checkInstock(self,instock_number):    #审核入库单
+    def check_instock(self,instock_number):    #审核入库单
         self.send_keys(self.instokc_search_input,instock_number)
         self.click(self.instock_search)
         time.sleep(2)
@@ -79,6 +96,7 @@ class CusBackStage(BasePage):
         self.accept()
 
     def check_contract(self,number):
+
         self.click(self.contract_manage)
         self.click(self.contract_view)
         self.send_keys(self.contract_txt,number)
@@ -94,7 +112,7 @@ class CusBackStage(BasePage):
         self.click(self.invoice_manage_content)
         self.click(self.invoice_manage)
 
-    def checkInvoice(self,invoice_code):    #审核发票
+    def check_invoice(self,invoice_code):    #审核发票
         self.send_keys(self.invoice_search_input,invoice_code)
         self.click(self.invoice_search)
         self.click(self.invoice_check)

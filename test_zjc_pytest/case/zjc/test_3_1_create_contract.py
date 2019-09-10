@@ -3,16 +3,12 @@ from pageObject.zjc.purBackStage import BackStage
 import pytest
 from datetime import datetime
 class TestContract():
-    def start(self,driver):
-        driver.get("http://zjcbytest.zhutx.net")
-        driver.delete_all_cookies()
-        driver.refresh()
 
     def setup(self):
         self.date=datetime.now().strftime("%Y-%m-%d")
         self.text=str(datetime.now().strftime("%Y%m%d%H%M"))
 
-    @pytest.mark.usefixtures('login_pur')
+    @pytest.mark.usefixtures("login_pur")
     def test_create_contract(self,driver):
         self.back_page=BackStage(driver)
         self.back_page.enter_contract_manage()
@@ -20,7 +16,7 @@ class TestContract():
         bid_number=self.contract_page.read_excel('bid')
         self.contract_page.search_contract(bid_number)
         self.contract_page.create_contract(self.date,self.text)
-        contract_number=self.contract_page.get_number()
+        contract_number=self.contract_page.get_number()[0:1]
         self.contract_page.write_excel(contract_number,'contract')
 
 

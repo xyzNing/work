@@ -1,0 +1,24 @@
+2019-09-09 17:45:42,787 - conf - INFO - 打开火狐浏览器
+2019-09-09 17:45:45,323 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/custom.php/Login/login
+2019-09-09 17:45:46,347 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:45:47,404 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:45:48,449 - BasePage - INFO - 定位元素成功——submit_button
+2019-09-09 17:45:49,447 - BasePage - INFO - 点击元素成功——submit_button
+2019-09-09 17:45:49,466 - BasePage - INFO - 开始读bid信息
+2019-09-09 17:45:49,468 - BasePage - INFO - 读取bid的值为['ZB190909009']
+2019-09-09 17:45:50,489 - BasePage - INFO - 定位元素成功——//h3[@headerindex='2h']
+2019-09-09 17:45:50,720 - BasePage - INFO - 点击元素成功——//h3[@headerindex='2h']
+2019-09-09 17:45:51,737 - BasePage - INFO - 定位元素成功——//a[@title='招标发布一次审核']
+2019-09-09 17:45:52,347 - BasePage - INFO - 点击元素成功——//a[@title='招标发布一次审核']
+2019-09-09 17:45:53,366 - BasePage - INFO - 定位元素成功——//input[@id='txtname']
+2019-09-09 17:45:54,411 - BasePage - INFO - 定位元素成功——search_button
+2019-09-09 17:45:54,656 - BasePage - INFO - 点击元素成功——search_button
+2019-09-09 17:45:56,682 - BasePage - INFO - 定位元素成功——//div[@class='piaofu']//a[2]
+2019-09-09 17:45:57,299 - BasePage - INFO - 点击元素成功——//div[@class='piaofu']//a[2]
+2019-09-09 17:45:58,826 - BasePage - INFO - 定位元素成功——//tbody[@id='product']/tr[3]/td[11]/a
+2019-09-09 17:45:59,086 - BasePage - INFO - 点击元素成功——//tbody[@id='product']/tr[3]/td[11]/a
+2019-09-09 17:46:00,104 - BasePage - INFO - 定位元素成功——draft_remark
+2019-09-09 17:46:01,156 - BasePage - INFO - 定位元素成功——author_0
+2019-09-09 17:46:02,432 - BasePage - INFO - 定位元素成功——//div[@class='out_right']/a[2]
+2019-09-09 17:46:02,704 - BasePage - INFO - 点击元素成功——//div[@class='out_right']/a[2]
+2019-09-09 17:46:04,738 - BasePage - INFO - aletr点击确定成功

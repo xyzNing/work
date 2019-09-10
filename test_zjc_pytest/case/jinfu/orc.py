@@ -35,4 +35,6 @@ print(bubbleSort(b))
 print(bubbleSort(a))
 print(bubbleSort(a)[::-1])
 print(bubbleSort(a)[::-1][0:1])
+aaa=[1]
+print(aaa[0:1])
 

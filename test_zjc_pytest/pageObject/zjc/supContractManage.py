@@ -1,5 +1,6 @@
 from public.basePage import BasePage
 from selenium.webdriver.common.by import By
+import time
 class SupContract(BasePage):
     loc_enter_home=(By.XPATH,"//div[@class='index-login__content']/a")
     loc_sup_manage=(By.XPATH,"//div[@id='n2']/h3/span")
@@ -23,12 +24,15 @@ class SupContract(BasePage):
         :return:
         '''
         self.click(self.loc_enter_home)
+        time.sleep(2)
         self.click(self.loc_sup_manage)
         self.click(self.loc_contract_manage)
         self.send_keys(self.loc_search,number)
         self.click(self.loc_search_button)
+        time.sleep(1)
         self.click(self.loc_confirm)
         self.scroll()
+        time.sleep(1)
         self.click(self.loc_agree)
         self.click(self.loc_success)
 

@@ -1,0 +1,5 @@
+2019-09-09 17:40:06,010 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-09 17:40:07,046 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:40:08,104 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:40:09,156 - BasePage - INFO - 定位元素成功——login
+2019-09-09 17:40:09,387 - BasePage - INFO - 点击元素成功——login

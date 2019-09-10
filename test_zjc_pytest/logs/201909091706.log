@@ -1,0 +1,113 @@
+2019-09-09 17:06:36,702 - conf - INFO - 打开火狐浏览器
+2019-09-09 17:06:45,670 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-09 17:06:46,706 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:06:47,770 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:06:48,862 - BasePage - INFO - 定位元素成功——login
+2019-09-09 17:06:51,005 - BasePage - INFO - 点击元素成功——login
+2019-09-09 17:06:55,775 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-09 17:06:56,814 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:06:57,881 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:06:58,965 - BasePage - INFO - 定位元素成功——login
+2019-09-09 17:06:59,193 - BasePage - INFO - 点击元素成功——login
+2019-09-09 17:07:14,542 - conf - INFO - 打开火狐浏览器
+2019-09-09 17:07:18,711 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-09 17:07:19,742 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:07:20,812 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:07:21,883 - BasePage - INFO - 定位元素成功——login
+2019-09-09 17:07:24,196 - BasePage - INFO - 点击元素成功——login
+2019-09-09 17:07:25,216 - BasePage - INFO - 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-09 17:07:33,127 - BasePage - INFO - 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-09 17:07:34,173 - BasePage - INFO - 定位元素成功——#n2>h3>span
+2019-09-09 17:07:34,402 - BasePage - INFO - 点击元素成功——#n2>h3>span
+2019-09-09 17:07:35,423 - BasePage - INFO - 定位元素成功——#n2-1>span
+2019-09-09 17:07:35,663 - BasePage - INFO - 点击元素成功——#n2-1>span
+2019-09-09 17:07:36,683 - BasePage - INFO - 定位元素成功——//li[@id='n2-1-1']/a
+2019-09-09 17:07:37,742 - BasePage - INFO - 点击元素成功——//li[@id='n2-1-1']/a
+2019-09-09 17:07:38,773 - BasePage - INFO - 定位元素成功——//input[@value='发布项目']
+2019-09-09 17:07:39,518 - BasePage - INFO - 点击元素成功——//input[@value='发布项目']
+2019-09-09 17:07:40,545 - BasePage - INFO - 定位元素成功——projectName
+2019-09-09 17:07:41,613 - BasePage - INFO - 定位元素成功——projectDescription
+2019-09-09 17:07:42,675 - BasePage - INFO - 定位元素成功——projectProvince
+2019-09-09 17:07:42,890 - BasePage - INFO - 点击元素成功——projectProvince
+2019-09-09 17:07:43,902 - BasePage - INFO - 定位元素成功——//li[@code='11']
+2019-09-09 17:07:44,121 - BasePage - INFO - 点击元素成功——//li[@code='11']
+2019-09-09 17:07:45,132 - BasePage - INFO - 定位元素成功——projectCity
+2019-09-09 17:07:45,375 - BasePage - INFO - 点击元素成功——projectCity
+2019-09-09 17:07:46,411 - BasePage - INFO - 定位元素成功——//li[@code='1101']
+2019-09-09 17:07:46,642 - BasePage - INFO - 点击元素成功——//li[@code='1101']
+2019-09-09 17:07:47,658 - BasePage - INFO - 定位元素成功——projectArea
+2019-09-09 17:07:47,877 - BasePage - INFO - 点击元素成功——projectArea
+2019-09-09 17:07:48,891 - BasePage - INFO - 定位元素成功——//li[@code='110101']
+2019-09-09 17:07:49,111 - BasePage - INFO - 点击元素成功——//li[@code='110101']
+2019-09-09 17:07:50,133 - BasePage - INFO - 定位元素成功——projectAddress
+2019-09-09 17:07:51,199 - BasePage - INFO - 定位元素成功——projectManager
+2019-09-09 17:07:52,250 - BasePage - INFO - 定位元素成功——projectContact
+2019-09-09 17:07:53,311 - BasePage - INFO - 定位元素成功——administration
+2019-09-09 17:07:53,549 - BasePage - INFO - 点击元素成功——administration
+2019-09-09 17:07:54,559 - BasePage - INFO - 定位元素成功——//ul[@id='administrationList']/li[1]
+2019-09-09 17:07:54,781 - BasePage - INFO - 点击元素成功——//ul[@id='administrationList']/li[1]
+2019-09-09 17:07:55,803 - BasePage - INFO - 定位元素成功——projectType
+2019-09-09 17:07:56,863 - BasePage - INFO - 定位元素成功——useSpace
+2019-09-09 17:07:57,933 - BasePage - INFO - 定位元素成功——selectfiles
+2019-09-09 17:07:59,639 - BasePage - INFO - 点击元素成功——selectfiles
+2019-09-09 17:07:59,641 - BasePage - INFO - 开始上传图片
+2019-09-09 17:08:02,453 - BasePage - INFO - 上传图片成功
+2019-09-09 17:08:04,483 - BasePage - INFO - 定位元素成功——projectState
+2019-09-09 17:08:04,719 - BasePage - INFO - 点击元素成功——projectState
+2019-09-09 17:08:05,743 - BasePage - INFO - 定位元素成功——//ul[@id='statusList']/li[1]
+2019-09-09 17:08:05,963 - BasePage - INFO - 点击元素成功——//ul[@id='statusList']/li[1]
+2019-09-09 17:08:06,983 - BasePage - INFO - 定位元素成功——projectMoney
+2019-09-09 17:08:08,033 - BasePage - INFO - 定位元素成功——//input[@value='提交']
+2019-09-09 17:08:08,295 - BasePage - INFO - 点击元素成功——//input[@value='提交']
+2019-09-09 17:08:09,833 - BasePage - INFO - 定位元素成功——//div[@class='dialog__footer']/a
+2019-09-09 17:08:10,343 - BasePage - INFO - 点击元素成功——//div[@class='dialog__footer']/a
+2019-09-09 17:08:11,383 - BasePage - INFO - 定位元素成功——//a[@value='2']
+2019-09-09 17:08:11,618 - BasePage - INFO - 点击元素成功——//a[@value='2']
+2019-09-09 17:08:12,737 - BasePage - INFO - 开始写入project编号
+2019-09-09 17:08:12,737 - BasePage - INFO - 正在写入project编号P
+2019-09-09 17:08:12,738 - BasePage - INFO - 正在写入project编号0
+2019-09-09 17:08:12,738 - BasePage - INFO - 正在写入project编号0
+2019-09-09 17:08:12,739 - BasePage - INFO - 正在写入project编号0
+2019-09-09 17:08:12,740 - BasePage - INFO - 正在写入project编号1
+2019-09-09 17:08:12,740 - BasePage - INFO - 正在写入project编号9
+2019-09-09 17:08:12,741 - BasePage - INFO - project写入完成
+2019-09-09 17:08:12,788 - BasePage - INFO - 开始读project信息
+2019-09-09 17:08:12,789 - BasePage - INFO - 读取project的值为['P', '0', '0', '0', '1', '9']
+2019-09-09 17:08:13,803 - BasePage - INFO - 定位元素成功——//li[@id='n2-1-2']/a
+2019-09-09 17:08:14,303 - BasePage - INFO - 点击元素成功——//li[@id='n2-1-2']/a
+2019-09-09 17:08:15,336 - BasePage - INFO - 定位元素成功——searchInput
+2019-09-09 17:08:16,394 - BasePage - INFO - 定位元素成功——searchBtn
+2019-09-09 17:08:16,638 - BasePage - INFO - 点击元素成功——searchBtn
+2019-09-09 17:08:17,659 - BasePage - INFO - 定位元素成功——//a[text()='审核']
+2019-09-09 17:08:18,268 - BasePage - INFO - 点击元素成功——//a[text()='审核']
+2019-09-09 17:08:19,303 - BasePage - INFO - 定位元素成功——//input[@value='确认']
+2019-09-09 17:08:19,553 - BasePage - INFO - 点击元素成功——//input[@value='确认']
+2019-09-09 17:08:21,603 - BasePage - INFO - 定位元素成功——//div[@class='dialog__footer']/a
+2019-09-09 17:08:22,073 - BasePage - INFO - 点击元素成功——//div[@class='dialog__footer']/a
+2019-09-09 17:08:37,583 - conf - INFO - 打开火狐浏览器
+2019-09-09 17:08:41,905 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-09 17:08:42,958 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:08:44,043 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:08:45,129 - BasePage - INFO - 定位元素成功——login
+2019-09-09 17:08:47,436 - BasePage - INFO - 点击元素成功——login
+2019-09-09 17:08:48,467 - BasePage - INFO - 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-09 17:08:55,210 - BasePage - INFO - 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-09 17:08:56,280 - BasePage - INFO - 定位元素成功——//div[@id='n5']/h3/span
+2019-09-09 17:08:56,514 - BasePage - INFO - 点击元素成功——//div[@id='n5']/h3/span
+2019-09-09 17:08:57,528 - BasePage - INFO - 定位元素成功——//li[@id='n5-3']/a
+2019-09-09 17:08:58,477 - BasePage - INFO - 点击元素成功——//li[@id='n5-3']/a
+2019-09-09 17:08:59,504 - BasePage - INFO - 定位元素成功——//input[@value='新增子账号']
+2019-09-09 17:08:59,748 - BasePage - INFO - 点击元素成功——//input[@value='新增子账号']
+2019-09-09 17:09:00,777 - BasePage - INFO - 定位元素成功——//div[@class='modal-input-div']/input
+2019-09-09 17:09:01,262 - BasePage - INFO - 点击元素成功——//div[@class='modal-input-div']/input
+2019-09-09 17:09:02,280 - BasePage - INFO - 定位元素成功——name
+2019-09-09 17:09:03,332 - BasePage - INFO - 定位元素成功——phone
+2019-09-09 17:09:04,402 - BasePage - INFO - 定位元素成功——phoneErr
+2019-09-09 17:09:06,021 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-09 17:09:16,254 - BasePage - ERROR - 定位元素失败——username
+2019-09-09 17:09:27,034 - BasePage - ERROR - 定位元素失败——//li[@id='n5-3']/a
+2019-09-09 17:09:27,443 - BasePage - ERROR - 点击元素失败——//li[@id='n5-3']/a
+2019-09-09 17:09:40,874 - conf - INFO - 打开火狐浏览器
+2019-09-09 17:09:51,113 - BasePage - ERROR - 定位元素失败——//li[@id='n5-3']/a
+2019-09-09 17:09:51,225 - BasePage - ERROR - 点击元素失败——//li[@id='n5-3']/a
+2019-09-09 17:10:04,469 - conf - INFO - 打开火狐浏览器

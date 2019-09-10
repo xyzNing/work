@@ -1,0 +1,13 @@
+INFO     BasePage:basePage.py:416 开始读project信息
+INFO     BasePage:basePage.py:418 读取project的值为['P', '0', '0', '0', '2', '1']
+INFO     BasePage:basePage.py:78 定位元素成功——//li[@id='n2-1-2']/a
+INFO     BasePage:basePage.py:114 点击元素成功——//li[@id='n2-1-2']/a
+INFO     BasePage:basePage.py:78 定位元素成功——searchInput
+INFO     BasePage:basePage.py:78 定位元素成功——searchBtn
+INFO     BasePage:basePage.py:114 点击元素成功——searchBtn
+INFO     BasePage:basePage.py:78 定位元素成功——//a[text()='审核']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[text()='审核']
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@value='确认']
+INFO     BasePage:basePage.py:114 点击元素成功——//input[@value='确认']
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@class='dialog__footer']/a
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@class='dialog__footer']/a

@@ -31,7 +31,7 @@ class BidTenderPage(BasePage):
     loc_state=(By.XPATH,"//a[text()='待审核']")
     loc_number=(By.XPATH,"//div[@class='textleft pl15']")
 
-    def bidTender(self,bid_number,rate,price1,price3,linkname,linkphone):
+    def bid_tender(self,bid_number,rate,price1,price3,linkname,linkphone):
         # self.click(self.bid_announcement)
         self.send_keys(self.bid_search_input,bid_number)
         self.click(self.bid_search_button)
@@ -44,21 +44,21 @@ class BidTenderPage(BasePage):
         self.click(self.quote_confirm)
         sleep(1)
         self.click(self.billing_information)
-        print("222")
         sleep(1)
         self.click(self.billing_information_select)
         self.click(self.billing_information_confirm)
         self.send_keys(self.tax_rate,rate)
         self.click(self.transportation1)
         self.click(self.transportation2)
-        self.send_keys_all(self.unit_price,price1)
-        print('222')
+        self.send_keys(self.unit_price,price1)
         self.send_keys(self.actual_price,price3)
         self.send_keys(self.business_man,linkname)
         self.send_keys(self.business_tel,linkphone)
         self.click(self.trading_rules)
         self.click(self.submit_button)
         self.click(self.alert_confirm)
+        sleep(1)
+
 
 
 

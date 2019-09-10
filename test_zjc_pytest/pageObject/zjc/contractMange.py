@@ -61,5 +61,6 @@ class ContractPage(BasePage):
         self.upload_pictures(self.loc_upload_button)
         self.click(self.loc_confirm)
         self.click(self.loc_success)
+        time.sleep(1)
 
 

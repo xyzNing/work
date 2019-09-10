@@ -1,0 +1,42 @@
+2019-09-09 17:47:20,605 - conf - INFO - 打开火狐浏览器
+2019-09-09 17:47:24,876 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/
+2019-09-09 17:47:25,907 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:47:26,972 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:47:28,039 - BasePage - INFO - 定位元素成功——login
+2019-09-09 17:47:30,335 - BasePage - INFO - 点击元素成功——login
+2019-09-09 17:47:31,356 - BasePage - INFO - 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-09 17:47:38,470 - BasePage - INFO - 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+2019-09-09 17:47:39,582 - BasePage - INFO - 定位元素成功——#n2>h3>span
+2019-09-09 17:47:39,815 - BasePage - INFO - 点击元素成功——#n2>h3>span
+2019-09-09 17:47:40,828 - BasePage - INFO - 定位元素成功——#n2-2>span
+2019-09-09 17:47:41,052 - BasePage - INFO - 点击元素成功——#n2-2>span
+2019-09-09 17:47:41,068 - BasePage - INFO - 开始读bid信息
+2019-09-09 17:47:41,068 - BasePage - INFO - 读取bid的值为['ZB190909009']
+2019-09-09 17:47:41,080 - BasePage - INFO - 开始读bid信息
+2019-09-09 17:47:41,080 - BasePage - INFO - 读取bid的值为['ZB190909009']
+2019-09-09 17:47:42,345 - BasePage - INFO - 定位元素成功——//li[@id='n2-2-1']/a
+2019-09-09 17:47:43,462 - BasePage - INFO - 点击元素成功——//li[@id='n2-2-1']/a
+2019-09-09 17:47:44,504 - BasePage - INFO - 定位元素成功——searchInput
+2019-09-09 17:47:45,567 - BasePage - INFO - 定位元素成功——//p[@class='fr']/input[@value='搜索']
+2019-09-09 17:47:45,811 - BasePage - INFO - 点击元素成功——//p[@class='fr']/input[@value='搜索']
+2019-09-09 17:47:47,827 - BasePage - INFO - 定位元素成功——//a[text()='定标']
+2019-09-09 17:47:48,429 - BasePage - INFO - 点击元素成功——//a[text()='定标']
+2019-09-09 17:47:49,449 - BasePage - INFO - 定位元素成功——//input[@value='+选择供应商']
+2019-09-09 17:47:49,702 - BasePage - INFO - 点击元素成功——//input[@value='+选择供应商']
+2019-09-09 17:47:51,230 - BasePage - INFO - 定位元素成功——//td[@class='name']
+2019-09-09 17:47:51,464 - BasePage - INFO - 点击元素成功——//td[@class='name']
+2019-09-09 17:47:52,497 - BasePage - INFO - 定位元素成功——//div[@class='btns-div']/input[@value='确定']
+2019-09-09 17:47:52,733 - BasePage - INFO - 点击元素成功——//div[@class='btns-div']/input[@value='确定']
+2019-09-09 17:47:53,739 - BasePage - INFO - 定位元素成功——//input[@value='下一步']
+2019-09-09 17:47:54,224 - BasePage - INFO - 点击元素成功——//input[@value='下一步']
+2019-09-09 17:47:55,766 - BasePage - INFO - 定位元素成功——//ul[@class='judge-ul']/li[1]/ul/li[5]
+2019-09-09 17:47:56,001 - BasePage - INFO - 点击元素成功——//ul[@class='judge-ul']/li[1]/ul/li[5]
+2019-09-09 17:47:57,006 - BasePage - INFO - 定位元素成功——//ul[@class='judge-ul']/li[2]/ul/li[5]
+2019-09-09 17:47:57,224 - BasePage - INFO - 点击元素成功——//ul[@class='judge-ul']/li[2]/ul/li[5]
+2019-09-09 17:47:58,232 - BasePage - INFO - 定位元素成功——//ul[@class='judge-ul']/li[3]/ul/li[5]
+2019-09-09 17:47:58,451 - BasePage - INFO - 点击元素成功——//ul[@class='judge-ul']/li[3]/ul/li[5]
+2019-09-09 17:47:59,460 - BasePage - INFO - 定位元素成功——//ul[@class='judge-ul']/li[4]/textarea
+2019-09-09 17:48:00,521 - BasePage - INFO - 定位元素成功——//input[@value='完成']
+2019-09-09 17:48:00,764 - BasePage - INFO - 点击元素成功——//input[@value='完成']
+2019-09-09 17:48:02,768 - BasePage - INFO - 定位元素成功——//div[@class='dialog__footer']/a
+2019-09-09 17:48:03,270 - BasePage - INFO - 点击元素成功——//div[@class='dialog__footer']/a

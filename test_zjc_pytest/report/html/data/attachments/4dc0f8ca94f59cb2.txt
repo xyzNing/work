@@ -1,0 +1,20 @@
+2019-09-09 17:49:15,873 - conf - INFO - 打开火狐浏览器
+2019-09-09 17:49:16,529 - BasePage - INFO - 打开网址 http://zjcbytest.zhutx.net/custom.php/Login/login
+2019-09-09 17:49:17,545 - BasePage - INFO - 定位元素成功——username
+2019-09-09 17:49:18,612 - BasePage - INFO - 定位元素成功——password
+2019-09-09 17:49:19,669 - BasePage - INFO - 定位元素成功——submit_button
+2019-09-09 17:49:20,639 - BasePage - INFO - 点击元素成功——submit_button
+2019-09-09 17:49:20,654 - BasePage - INFO - 开始读contract信息
+2019-09-09 17:49:20,654 - BasePage - INFO - 读取contract的值为['HT190909004', '', '']
+2019-09-09 17:49:21,686 - BasePage - INFO - 定位元素成功——//h3[@headerindex='4h']
+2019-09-09 17:49:21,921 - BasePage - INFO - 点击元素成功——//h3[@headerindex='4h']
+2019-09-09 17:49:22,936 - BasePage - INFO - 定位元素成功——//a[text()='合同查看']
+2019-09-09 17:49:23,502 - BasePage - INFO - 点击元素成功——//a[text()='合同查看']
+2019-09-09 17:49:24,524 - BasePage - INFO - 定位元素成功——txtname
+2019-09-09 17:49:25,588 - BasePage - INFO - 定位元素成功——search_button
+2019-09-09 17:49:25,830 - BasePage - INFO - 点击元素成功——search_button
+2019-09-09 17:49:26,842 - BasePage - INFO - 定位元素成功——//a[@title='审核']
+2019-09-09 17:49:27,595 - BasePage - INFO - 点击元素成功——//a[@title='审核']
+2019-09-09 17:49:30,630 - BasePage - INFO - 定位元素成功——btn_submit
+2019-09-09 17:49:30,901 - BasePage - INFO - 点击元素成功——btn_submit
+2019-09-09 17:49:32,997 - BasePage - INFO - aletr点击确定成功

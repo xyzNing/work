@@ -33,7 +33,7 @@ class Invoice(BasePage):
     success_confirm=(By.XPATH,"//div[@class='dialog__footer']/a")
 
     invoice_state=(By.XPATH,"//a[@status='6']")
-    loc_invoice_num=(By.XPATH,"//table[@class='list-table list-table-cover']/tbody/tr[%s]/td/div[@class='textleft pl15']")
+    loc_invoice_num=(By.XPATH,"//div[@class='textleft pl15']")  #发票编号
 
     invoice_hang = (By.XPATH, "//li[@id='n2-6-2']/a")  # 挂入项目
     invoice_search_input = (By.XPATH, "//input[@id='searchInput']")  # 输入需要搜索的内容
@@ -85,16 +85,18 @@ class Invoice(BasePage):
         self.click(self.attach_submit)
         self.click(self.alert_comfirm)
         self.click(self.success_confirm)
+        time.sleep(1)
 
-    def getInvoiceNumber(self):
+    def get_invoice_number(self):
         '''
         获取发票的编号，写入excel，后面用来客服审核
         :return:
         '''
         self.click(self.invoice_state)
         time.sleep(1)
-        text=self.element_texts_all()
-        return text
+        text_list=self.element_texts(self.loc_invoice_num)
+        new_text=self.arr_sort(text_list)
+        return new_text
     #
     # def enter_invoice(self):
     #     self.click(self.enter_manage)

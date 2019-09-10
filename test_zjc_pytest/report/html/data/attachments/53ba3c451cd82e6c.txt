@@ -1,0 +1,47 @@
+INFO     conf:conftest.py:13 打开火狐浏览器
+INFO     BasePage:basePage.py:49 打开网址 http://zjcbytest.zhutx.net/
+INFO     BasePage:basePage.py:78 定位元素成功——username
+INFO     BasePage:basePage.py:78 定位元素成功——password
+INFO     BasePage:basePage.py:78 定位元素成功——login
+INFO     BasePage:basePage.py:114 点击元素成功——login
+INFO     BasePage:basePage.py:78 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+INFO     BasePage:basePage.py:78 定位元素成功——#n2>h3>span
+INFO     BasePage:basePage.py:114 点击元素成功——#n2>h3>span
+INFO     BasePage:basePage.py:78 定位元素成功——#n2-5>span
+INFO     BasePage:basePage.py:114 点击元素成功——#n2-5>span
+INFO     BasePage:basePage.py:78 定位元素成功——//li[@id='n2-5-1']/a
+INFO     BasePage:basePage.py:114 点击元素成功——//li[@id='n2-5-1']/a
+INFO     BasePage:basePage.py:416 开始读contract信息
+INFO     BasePage:basePage.py:418 读取contract的值为['HT190909004', '', '']
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@value='新增入库单']
+INFO     BasePage:basePage.py:114 点击元素成功——//input[@value='新增入库单']
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@value='选择合同']
+INFO     BasePage:basePage.py:114 点击元素成功——//input[@value='选择合同']
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@id='searchInput1']
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@id='choseContract']//div[@class='modal-search-right fr']//input[@value='搜索']
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@id='choseContract']//div[@class='modal-search-right fr']//input[@value='搜索']
+INFO     BasePage:basePage.py:78 定位元素成功——//i[@class='icon radio radio-no']
+INFO     BasePage:basePage.py:114 点击元素成功——//i[@class='icon radio radio-no']
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@id='choseContract']//div[@class='btns-div']//input[@value='确定']
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@id='choseContract']//div[@class='btns-div']//input[@value='确定']
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='productTbody2']/tr/td[1]/input
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='productTbody2']/tr/td[2]/input
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='productTbody2']/tr/td[6]/input
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='productTbody2']/tr/td[7]/input
+INFO     BasePage:basePage.py:78 定位元素成功——//tbody[@id='productTbody2']/tr/td[8]/input
+INFO     BasePage:basePage.py:78 定位元素成功——from
+INFO     BasePage:basePage.py:78 定位元素成功——to
+INFO     BasePage:basePage.py:78 定位元素成功——prePayDate
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@id='operator']
+INFO     BasePage:basePage.py:78 定位元素成功——//button[@id='selectfiles1']
+INFO     BasePage:basePage.py:114 点击元素成功——//button[@id='selectfiles1']
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@value='提交']
+INFO     BasePage:basePage.py:114 点击元素成功——//input[@value='提交']
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@class='dialog__footer']/a
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@class='dialog__footer']/a
+INFO     BasePage:basePage.py:78 定位元素成功——//a[@status='4']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[@status='4']
+INFO     BasePage:basePage.py:390 开始写入instock编号
+INFO     BasePage:basePage.py:395 正在写入instock编号RK190909004
+INFO     BasePage:basePage.py:396 instock写入完成

@@ -3,7 +3,7 @@ from selenium import webdriver
 from public.log import Logger
 
 mylog=Logger(logger="conf").getlog()
-@pytest.fixture(scope='session')
+@pytest.fixture(scope='module')
 def driver(request,browser='Firefox'):
     try:
         if browser=='Firefox':

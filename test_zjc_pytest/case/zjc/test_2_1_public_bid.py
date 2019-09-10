@@ -25,14 +25,13 @@ class  TestPubBid():
         self.day = '120'
 
     # 测试发布普通标书
-    @pytest.mark.usefixtures('login_pur')
+    @pytest.mark.usefixtures("login_pur")
     def test_ordinary_bid(self,driver):
         u'''发布普通标书'''
         self.backStage = BackStage(driver)
-        self.backStage.bidSelf()
+        self.backStage.enter_bid_manage()
         self.bidname = self.bidname1 + datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
-        # self.bidname = self.bidname1 + time.strftime("%Y-%m-%d-%H-%M-%S")
-        self.publicBid = PublicBid(driver)
+        self.publicBid = BidManage(driver)
         self.publicBid.base_info(self.bidname, self.link_name, self.linkphone, self.name, self.model, self.unit,
                                  self.amount, self.price, self.content)
         self.publicBid.bid_require(self.date1, self.date2, self.date2,self.text)

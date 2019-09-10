@@ -1,0 +1,40 @@
+INFO     conf:conftest.py:13 打开火狐浏览器
+INFO     BasePage:basePage.py:49 打开网址 http://zjcbytest.zhutx.net/
+INFO     BasePage:basePage.py:78 定位元素成功——username
+INFO     BasePage:basePage.py:78 定位元素成功——password
+INFO     BasePage:basePage.py:78 定位元素成功——login
+INFO     BasePage:basePage.py:114 点击元素成功——login
+INFO     BasePage:basePage.py:78 定位元素成功——//a[@class='index-login__link mt16 goAdminPage']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[@class='index-login__link mt16 goAdminPage']
+INFO     BasePage:basePage.py:78 定位元素成功——#n2>h3>span
+INFO     BasePage:basePage.py:114 点击元素成功——#n2>h3>span
+INFO     BasePage:basePage.py:78 定位元素成功——#n2-3>span
+INFO     BasePage:basePage.py:114 点击元素成功——#n2-3>span
+INFO     BasePage:basePage.py:416 开始读bid信息
+INFO     BasePage:basePage.py:418 读取bid的值为['ZB190909009']
+INFO     BasePage:basePage.py:78 定位元素成功——//li[@id='n2-3-1']/a
+INFO     BasePage:basePage.py:114 点击元素成功——//li[@id='n2-3-1']/a
+INFO     BasePage:basePage.py:78 定位元素成功——searchInput
+INFO     BasePage:basePage.py:78 定位元素成功——//p[@class='fr']/input[2]
+INFO     BasePage:basePage.py:114 点击元素成功——//p[@class='fr']/input[2]
+INFO     BasePage:basePage.py:78 定位元素成功——//a[@class='cff8d08']
+INFO     BasePage:basePage.py:114 点击元素成功——//a[@class='cff8d08']
+INFO     BasePage:basePage.py:78 定位元素成功——traditionContract
+INFO     BasePage:basePage.py:114 点击元素成功——traditionContract
+INFO     BasePage:basePage.py:78 定位元素成功——signTime
+INFO     BasePage:basePage.py:78 定位元素成功——//input[@id='replenishText']
+INFO     BasePage:basePage.py:78 定位元素成功——selectfiles1
+INFO     BasePage:basePage.py:114 点击元素成功——selectfiles1
+INFO     BasePage:basePage.py:146 开始上传图片
+INFO     BasePage:basePage.py:148 上传图片成功
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@class='btns-div']/input[2]
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@class='btns-div']/input[2]
+INFO     BasePage:basePage.py:78 定位元素成功——//div[@class='dialog__footer']/a
+INFO     BasePage:basePage.py:114 点击元素成功——//div[@class='dialog__footer']/a
+INFO     BasePage:basePage.py:78 定位元素成功——//li[@type='1']
+INFO     BasePage:basePage.py:114 点击元素成功——//li[@type='1']
+INFO     BasePage:basePage.py:78 定位元素成功——//ul[@id='traditionTab']//a[@state='4']
+INFO     BasePage:basePage.py:114 点击元素成功——//ul[@id='traditionTab']//a[@state='4']
+INFO     BasePage:basePage.py:390 开始写入contract编号
+INFO     BasePage:basePage.py:395 正在写入contract编号HT190909004
+INFO     BasePage:basePage.py:396 contract写入完成

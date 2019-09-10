@@ -1,12 +1,8 @@
 from pageObject.zjc.cusBackStage import *
 import pytest
 class TestCheckBid():
-    def start(self,driver):
-        driver.get("http://zjcbytest.zhutx.net/index.php/Custom/Login/login")
-        driver.delete_all_cookies()
-        driver.refresh()
 
-    @pytest.mark.usefixtures('login_cus')
+    @pytest.mark.usefixtures("login_cus")
     def test_check_bid(self,driver):
         self.cus_page=CusBackStage(driver)
         num=self.cus_page.read_excel('bid')
