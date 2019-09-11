@@ -1,0 +1,301 @@
+2019-04-17 16:06:12,445-name-INFO-获取driver成功
+2019-04-17 16:16:07,624-name-INFO-获取driver成功
+2019-04-17 16:19:55,838-name-INFO-获取driver成功
+2019-04-17 16:21:26,000-name-INFO-获取driver成功
+2019-04-17 16:21:33,266-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-17 16:21:35,340-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-17 16:21:37,085-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-17 16:21:45,984-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-17 16:22:00,649-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit']
+2019-04-17 16:56:42,444-name-INFO-获取driver成功
+2019-04-17 16:56:43,089-name-INFO-向左滑动成功
+2019-04-17 16:56:48,600-name-INFO-向左滑动成功
+2019-04-17 16:56:50,010-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-17 16:56:51,282-name-INFO-点击['id', 'com.zhujc.purchasedev:id/iv_next']成功
+2019-04-17 16:56:51,878-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-17 16:56:52,997-name-INFO-点击['id', 'com.zhujc.purchasedev:id/riv_my_icon']成功
+2019-04-17 16:56:53,577-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-17 16:57:01,416-name-INFO-输入a00247成功
+2019-04-17 16:57:02,093-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-17 16:57:16,126-name-INFO-输入123456成功
+2019-04-17 16:57:16,825-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit']
+2019-04-17 16:57:17,031-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_login_submit']成功
+2019-04-17 17:10:01,778-name-INFO-获取driver成功
+2019-04-17 17:10:02,314-name-INFO-向左滑动成功
+2019-04-17 17:10:07,857-name-INFO-向左滑动成功
+2019-04-17 17:10:09,023-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-17 17:10:10,131-name-INFO-点击['id', 'com.zhujc.purchasedev:id/iv_next']成功
+2019-04-17 17:10:10,983-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-17 17:10:11,867-name-INFO-点击['id', 'com.zhujc.purchasedev:id/riv_my_icon']成功
+2019-04-17 17:10:12,461-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-17 17:10:19,805-name-INFO-输入a00247成功
+2019-04-17 17:10:20,335-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-17 17:10:33,165-name-INFO-输入123456成功
+2019-04-17 17:10:33,940-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit']
+2019-04-17 17:10:34,115-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_login_submit']成功
+2019-04-17 17:10:35,850-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/ll_main_info']
+2019-04-17 17:10:36,922-name-INFO-点击['id', 'com.zhujc.purchasedev:id/ll_main_info']成功
+2019-04-17 17:10:37,904-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_cg_fbbs']
+2019-04-17 17:10:39,376-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_cg_fbbs']成功
+2019-04-17 17:10:41,358-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_type']
+2019-04-17 17:10:43,822-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_type']成功
+2019-04-17 17:10:43,953-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:10:44,759-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']
+2019-04-17 17:10:47,905-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']成功
+2019-04-17 17:10:47,936-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_invoice']
+2019-04-17 17:10:49,807-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:10:50,611-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_right']
+2019-04-17 17:10:54,153-name-INFO-选择['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']成功
+2019-04-17 17:10:54,184-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_publish_name']
+2019-04-17 17:11:00,606-name-INFO-输入BID成功
+2019-04-17 17:11:01,129-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_project']
+2019-04-17 17:11:02,777-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:11:03,974-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']
+2019-04-17 17:11:04,540-name-INFO-选择['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']成功
+2019-04-17 17:11:05,039-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_write_content']
+2019-04-17 17:11:06,093-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_write_content']
+2019-04-17 17:11:17,136-name-INFO-输入ASD成功
+2019-04-17 17:11:17,697-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_ok']
+2019-04-17 17:11:21,373-name-INFO-输入ASD成功
+2019-04-17 17:11:21,398-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product_type']
+2019-04-17 17:11:21,921-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product_type']成功
+2019-04-17 17:11:22,683-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_dialog_title']
+2019-04-17 17:11:23,443-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_invite_type_group_title']
+2019-04-17 17:11:24,689-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_invite_type_child_title']
+2019-04-17 17:11:25,616-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']
+2019-04-17 17:11:26,717-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']成功
+2019-04-17 17:11:27,207-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product']
+2019-04-17 17:11:27,944-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product']成功
+2019-04-17 17:11:28,685-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_name']
+2019-04-17 17:11:35,979-name-INFO-输入computer成功
+2019-04-17 17:11:36,592-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_model']
+2019-04-17 17:11:43,387-name-INFO-输入15成功
+2019-04-17 17:11:43,965-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_brand']
+2019-04-17 17:11:51,355-name-INFO-输入lenevo成功
+2019-04-17 17:11:51,949-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_place']
+2019-04-17 17:11:58,782-name-INFO-输入china成功
+2019-04-17 17:11:59,337-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_expect']
+2019-04-17 17:12:07,046-name-INFO-输入10000成功
+2019-04-17 17:12:07,607-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_unit']
+2019-04-17 17:12:15,164-name-INFO-输入tai成功
+2019-04-17 17:12:15,737-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_count']
+2019-04-17 17:12:21,225-name-INFO-输入3成功
+2019-04-17 17:12:21,797-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_product_save']
+2019-04-17 17:12:22,180-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_product_save']成功
+2019-04-17 17:12:22,746-name-INFO-向上滑动成功
+2019-04-17 17:12:27,792-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_publish_payway']
+2019-04-17 17:12:38,473-name-INFO-输入xianjin成功
+2019-04-17 17:12:39,026-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/rb_no']
+2019-04-17 17:12:39,257-name-INFO-点击['id', 'com.zhujc.purchasedev:id/rb_no']成功
+2019-04-17 17:12:39,789-name-INFO-向上滑动成功
+2019-04-17 17:12:40,730-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_endtime']
+2019-04-17 17:12:41,247-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_endtime']成功
+2019-04-17 17:12:41,731-name-INFO-滑动成功
+2019-04-17 17:12:42,025-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_dialog_time_commit']
+2019-04-17 17:12:45,647-name-INFO-点击['id', 'com.zhujc.purchasedev:id/tv_dialog_time_commit']成功
+2019-04-17 17:12:45,678-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_confirmtime']
+2019-04-17 17:12:46,052-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_confirmtime']成功
+2019-04-17 17:12:46,482-name-INFO-滑动成功
+2019-04-17 17:12:46,748-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_dialog_time_commit']
+2019-04-17 17:12:50,391-name-INFO-点击['id', 'com.zhujc.purchasedev:id/tv_dialog_time_commit']成功
+2019-04-17 17:12:50,406-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_publish_contact']
+2019-04-17 17:12:56,705-name-INFO-输入asd成功
+2019-04-17 17:12:57,248-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_publish_mobile']
+2019-04-17 17:13:03,906-name-INFO-输入13937949012成功
+2019-04-17 17:13:04,472-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_release']
+2019-04-17 17:13:04,823-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_release']成功
+2019-04-17 17:43:07,392-name-INFO-获取driver成功
+2019-04-17 17:43:07,915-name-INFO-向左滑动成功
+2019-04-17 17:43:13,504-name-INFO-向左滑动成功
+2019-04-17 17:43:14,664-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-17 17:43:15,889-name-INFO-点击['id', 'com.zhujc.purchasedev:id/iv_next']成功
+2019-04-17 17:43:16,689-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-17 17:43:17,625-name-INFO-点击['id', 'com.zhujc.purchasedev:id/riv_my_icon']成功
+2019-04-17 17:43:18,193-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-17 17:43:25,951-name-INFO-输入a00247成功
+2019-04-17 17:43:26,459-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-17 17:43:39,874-name-INFO-输入123456成功
+2019-04-17 17:43:40,393-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit']
+2019-04-17 17:43:40,600-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_login_submit']成功
+2019-04-17 17:43:42,670-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/ll_main_info']
+2019-04-17 17:43:43,811-name-INFO-点击['id', 'com.zhujc.purchasedev:id/ll_main_info']成功
+2019-04-17 17:43:44,730-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_cg_fbbs']
+2019-04-17 17:43:46,526-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_cg_fbbs']成功
+2019-04-17 17:44:39,958-name-INFO-获取driver成功
+2019-04-17 17:44:40,505-name-INFO-向左滑动成功
+2019-04-17 17:44:46,050-name-INFO-向左滑动成功
+2019-04-17 17:44:47,565-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-17 17:44:48,786-name-INFO-点击['id', 'com.zhujc.purchasedev:id/iv_next']成功
+2019-04-17 17:44:49,594-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-17 17:44:50,518-name-INFO-点击['id', 'com.zhujc.purchasedev:id/riv_my_icon']成功
+2019-04-17 17:44:51,070-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-17 17:44:59,045-name-INFO-输入a00247成功
+2019-04-17 17:44:59,754-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-17 17:45:13,960-name-INFO-输入123456成功
+2019-04-17 17:45:14,592-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit']
+2019-04-17 17:45:14,816-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_login_submit']成功
+2019-04-17 17:45:16,945-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/ll_main_info']
+2019-04-17 17:45:18,018-name-INFO-点击['id', 'com.zhujc.purchasedev:id/ll_main_info']成功
+2019-04-17 17:45:18,252-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_cg_fbbs']
+2019-04-17 17:45:18,431-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_cg_fbbs']成功
+2019-04-17 17:45:21,905-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_type']
+2019-04-17 17:45:22,387-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_type']成功
+2019-04-17 17:45:23,007-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:45:23,929-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']
+2019-04-17 17:45:27,226-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']成功
+2019-04-17 17:45:27,257-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_invoice']
+2019-04-17 17:45:28,874-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:45:29,828-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_right']
+2019-04-17 17:45:33,164-name-INFO-选择['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']成功
+2019-04-17 17:45:33,196-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_publish_name']
+2019-04-17 17:45:41,709-name-INFO-输入BID成功
+2019-04-17 17:45:42,383-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_project']
+2019-04-17 17:45:45,255-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:45:46,142-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']
+2019-04-17 17:45:46,998-name-INFO-选择['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']成功
+2019-04-17 17:45:47,207-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_write_content']
+2019-04-17 17:45:48,478-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_write_content']
+2019-04-17 17:45:59,031-name-INFO-输入ASD成功
+2019-04-17 17:45:59,891-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_ok']
+2019-04-17 17:46:02,820-name-INFO-输入ASD成功
+2019-04-17 17:46:13,579-name-ERROR-未找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product_type']
+2019-04-17 17:46:13,579-name-ERROR-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product_type']失败
+2019-04-17 17:46:24,052-name-ERROR-未找到元素['id', 'com.zhujc.purchasedev:id/tv_dialog_title']
+2019-04-17 17:46:24,052-name-INFO-获取['id', 'com.zhujc.purchasedev:id/tv_dialog_title']失败
+2019-04-17 17:46:34,435-name-ERROR-未找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:47:10,053-name-INFO-获取driver成功
+2019-04-17 17:47:10,641-name-INFO-向左滑动成功
+2019-04-17 17:47:16,160-name-INFO-向左滑动成功
+2019-04-17 17:47:17,320-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-17 17:47:18,661-name-INFO-点击['id', 'com.zhujc.purchasedev:id/iv_next']成功
+2019-04-17 17:47:19,501-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-17 17:47:20,439-name-INFO-点击['id', 'com.zhujc.purchasedev:id/riv_my_icon']成功
+2019-04-17 17:47:21,004-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-17 17:47:29,093-name-INFO-输入a00247成功
+2019-04-17 17:47:29,744-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-17 17:47:43,697-name-INFO-输入123456成功
+2019-04-17 17:47:44,225-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit']
+2019-04-17 17:47:44,393-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_login_submit']成功
+2019-04-17 17:47:47,139-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/ll_main_info']
+2019-04-17 17:47:47,782-name-INFO-点击['id', 'com.zhujc.purchasedev:id/ll_main_info']成功
+2019-04-17 17:47:48,848-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_cg_fbbs']
+2019-04-17 17:47:50,652-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_cg_fbbs']成功
+2019-04-17 17:47:53,334-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_type']
+2019-04-17 17:47:54,617-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_type']成功
+2019-04-17 17:47:54,823-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:47:55,751-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']
+2019-04-17 17:47:59,014-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']成功
+2019-04-17 17:47:59,045-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_invoice']
+2019-04-17 17:48:00,637-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:48:01,612-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_right']
+2019-04-17 17:48:04,743-name-INFO-选择['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']成功
+2019-04-17 17:48:04,805-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_publish_name']
+2019-04-17 17:48:11,672-name-INFO-输入BID成功
+2019-04-17 17:48:12,232-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_project']
+2019-04-17 17:48:14,226-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']
+2019-04-17 17:48:15,322-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']
+2019-04-17 17:48:15,869-name-INFO-选择['id', 'com.zhujc.purchasedev:id/cb_dialog_publish_item_select']成功
+2019-04-17 17:48:16,395-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_write_content']
+2019-04-17 17:48:17,485-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_write_content']
+2019-04-17 17:48:28,539-name-INFO-输入ASD成功
+2019-04-17 17:48:29,086-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_ok']
+2019-04-17 17:48:32,737-name-INFO-输入ASD成功
+2019-04-17 17:48:32,772-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product_type']
+2019-04-17 17:48:33,315-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product_type']成功
+2019-04-17 17:48:34,161-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_dialog_title']
+2019-04-17 17:48:34,923-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_invite_type_group_title']
+2019-04-17 17:48:36,123-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_invite_type_child_title']
+2019-04-17 17:48:36,989-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']
+2019-04-17 17:48:38,029-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_dialog_enter']成功
+2019-04-17 17:48:38,529-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product']
+2019-04-17 17:48:39,305-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_product']成功
+2019-04-17 17:48:39,929-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_name']
+2019-04-17 17:48:47,610-name-INFO-输入computer成功
+2019-04-17 17:48:48,224-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_model']
+2019-04-17 17:48:54,552-name-INFO-输入15成功
+2019-04-17 17:48:55,104-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_brand']
+2019-04-17 17:49:02,455-name-INFO-输入lenevo成功
+2019-04-17 17:49:03,091-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_place']
+2019-04-17 17:49:09,997-name-INFO-输入china成功
+2019-04-17 17:49:10,590-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_expect']
+2019-04-17 17:49:18,085-name-INFO-输入10000成功
+2019-04-17 17:49:18,621-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_unit']
+2019-04-17 17:49:25,717-name-INFO-输入tai成功
+2019-04-17 17:49:26,346-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_product_count']
+2019-04-17 17:49:32,724-name-INFO-输入3成功
+2019-04-17 17:49:32,771-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_product_save']
+2019-04-17 17:49:33,594-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_product_save']成功
+2019-04-17 17:49:34,150-name-INFO-向上滑动成功
+2019-04-17 17:49:39,194-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_publish_payway']
+2019-04-17 17:49:50,311-name-INFO-输入xianjin成功
+2019-04-17 17:49:50,900-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/rb_no']
+2019-04-17 17:49:51,115-name-INFO-点击['id', 'com.zhujc.purchasedev:id/rb_no']成功
+2019-04-17 17:49:51,613-name-INFO-向上滑动成功
+2019-04-17 17:49:52,638-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_endtime']
+2019-04-17 17:49:53,121-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_endtime']成功
+2019-04-17 17:49:53,636-name-INFO-滑动成功
+2019-04-17 17:49:53,907-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_dialog_time_commit']
+2019-04-17 17:49:57,525-name-INFO-点击['id', 'com.zhujc.purchasedev:id/tv_dialog_time_commit']成功
+2019-04-17 17:49:57,572-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_confirmtime']
+2019-04-17 17:49:57,958-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_confirmtime']成功
+2019-04-17 17:49:58,394-name-INFO-滑动成功
+2019-04-17 17:49:58,677-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/tv_dialog_time_commit']
+2019-04-17 17:50:02,302-name-INFO-点击['id', 'com.zhujc.purchasedev:id/tv_dialog_time_commit']成功
+2019-04-17 17:50:02,349-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_publish_contact']
+2019-04-17 17:50:09,363-name-INFO-输入asd成功
+2019-04-17 17:50:09,919-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_bid_publish_mobile']
+2019-04-17 17:50:16,428-name-INFO-输入13937949012成功
+2019-04-17 17:50:16,936-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/bt_bid_publish_release']
+2019-04-17 17:50:17,394-name-INFO-点击['id', 'com.zhujc.purchasedev:id/bt_bid_publish_release']成功
+2019-04-18 11:24:21,544-name-INFO-获取driver成功
+2019-04-18 11:24:22,104-name-INFO-向左滑动成功
+2019-04-18 11:24:27,670-name-INFO-向左滑动成功
+2019-04-18 11:24:28,976-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-18 11:24:30,100-name-INFO-点击['id', 'com.zhujc.purchasedev:id/iv_next']成功
+2019-04-18 11:24:30,815-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-18 11:24:31,934-name-INFO-点击['id', 'com.zhujc.purchasedev:id/riv_my_icon']成功
+2019-04-18 11:24:32,545-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-18 11:24:39,559-name-INFO-输入a00247成功
+2019-04-18 11:24:40,318-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-18 11:24:54,477-name-INFO-输入123456成功
+2019-04-18 11:25:04,904-name-ERROR-未找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit1']
+2019-04-18 11:25:04,904-name-ERROR-点击['id', 'com.zhujc.purchasedev:id/bt_login_submit1']失败
+2019-04-18 11:26:35,532-name-INFO-获取driver成功
+2019-04-18 11:26:36,090-name-INFO-向左滑动成功
+2019-04-18 11:26:41,596-name-INFO-向左滑动成功
+2019-04-18 11:26:42,762-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-18 11:26:43,914-name-INFO-点击['id', 'com.zhujc.purchasedev:id/iv_next']成功
+2019-04-18 11:26:44,618-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-18 11:26:45,754-name-INFO-点击['id', 'com.zhujc.purchasedev:id/riv_my_icon']成功
+2019-04-18 11:26:46,314-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-18 11:26:53,769-name-INFO-输入a00247成功
+2019-04-18 11:26:54,343-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-18 11:27:07,976-name-INFO-输入123456成功
+2019-04-18 11:27:20,952-name-ERROR-未找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit1']
+2019-04-18 11:27:20,952-name-ERROR-点击['id', 'com.zhujc.purchasedev:id/bt_login_submit1']失败
+2019-04-18 11:29:13,167-name-INFO-获取driver成功
+2019-04-18 11:29:13,750-name-INFO-向左滑动成功
+2019-04-18 11:29:19,321-name-INFO-向左滑动成功
+2019-04-18 11:29:20,584-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-18 11:29:21,725-name-INFO-点击['id', 'com.zhujc.purchasedev:id/iv_next']成功
+2019-04-18 11:29:22,428-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-18 11:29:23,556-name-INFO-点击['id', 'com.zhujc.purchasedev:id/riv_my_icon']成功
+2019-04-18 11:29:24,157-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-18 11:29:32,008-name-INFO-输入a00247成功
+2019-04-18 11:29:32,547-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-18 11:29:46,773-name-INFO-输入123456成功
+2019-04-18 11:29:59,728-name-ERROR-未找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit1']
+2019-04-18 11:29:59,728-name-ERROR-点击['id', 'com.zhujc.purchasedev:id/bt_login_submit1']失败
+2019-04-18 13:49:57,059-name-INFO-获取driver成功
+2019-04-18 13:49:57,640-name-INFO-向左滑动成功
+2019-04-18 13:50:03,182-name-INFO-向左滑动成功
+2019-04-18 13:50:04,338-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/iv_next']
+2019-04-18 13:50:05,595-name-INFO-点击['id', 'com.zhujc.purchasedev:id/iv_next']成功
+2019-04-18 13:50:06,265-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/riv_my_icon']
+2019-04-18 13:50:07,372-name-INFO-点击['id', 'com.zhujc.purchasedev:id/riv_my_icon']成功
+2019-04-18 13:50:07,943-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_name']
+2019-04-18 13:50:16,349-name-INFO-输入a00247成功
+2019-04-18 13:50:16,900-name-INFO-找到元素['id', 'com.zhujc.purchasedev:id/et_login_pwd']
+2019-04-18 13:50:29,720-name-INFO-输入123456成功
+2019-04-18 13:50:42,912-name-ERROR-未找到元素['id', 'com.zhujc.purchasedev:id/bt_login_submit1']
+2019-04-18 13:50:42,912-name-ERROR-点击['id', 'com.zhujc.purchasedev:id/bt_login_submit1']失败
