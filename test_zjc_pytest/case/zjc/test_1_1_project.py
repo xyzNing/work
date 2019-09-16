@@ -22,7 +22,6 @@ class TestProject():
         number=self.project_page.get_project_number()
         self.project_page.write_excel(number[0],'project')
 
-
     def test_check_project(self,driver):
         # self.back_page = BackStage(driver)
         # self.back_page.enter_project_manage()
