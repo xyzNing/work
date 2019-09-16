@@ -189,9 +189,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>这是测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-04-18 10:42:30</p>
-<p class='attribute'><strong>Duration:</strong> 0:04:10.645676</p>
-<p class='attribute'><strong>Status:</strong> Pass 2</p>
+<p class='attribute'><strong>Start Time:</strong> 2019-09-16 10:30:15</p>
+<p class='attribute'><strong>Duration:</strong> 0:14:01.623019</p>
+<p class='attribute'><strong>Status:</strong> Pass 1 Error 3</p>
 
 <p class='description'>用例执行情况</p>
 </div>
@@ -232,20 +232,46 @@ function showOutput(id, name) {
 
 <tr id='pt1.1' class='hiddenRow'>
     <td class='none'><div class='testcase'>test_login</div></td>
+    <td colspan='5' align='center'>pass</td>
+</tr>
+
+<tr class='errorClass'>
+    <td>test_pubBid.TestPublicBid</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
+</tr>
+
+<tr id='ft2.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_pub_bid</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
-        pass</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.1')" >
+        error</a>
 
-    <div id='div_pt1.1' class="popup_window">
+    <div id='div_ft2.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft2.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-pt1.1: 
+ft2.1: Traceback (most recent call last):
+  File "C:\gitStore\test_app\testcase\test_pubBid.py", line 37, in test_pub_bid
+    self.pubbid.pub_bid(self.bid_name,self.content,self.name,self.model,self.brand,self.place,self.price,self.unit,self.count,self.pay_content,self.link_name,self.phone)
+  File "C:\gitStore\test_app\page\purchase\pubBid.py", line 98, in pub_bid
+    elements3[0].click()
+TypeError: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\gitStore\test_app\testcase\test_pubBid.py", line 37, in test_pub_bid
+    self.pubbid.pub_bid(self.bid_name,self.content,self.name,self.model,self.brand,self.place,self.price,self.unit,self.count,self.pay_content,self.link_name,self.phone)
+  File "C:\gitStore\test_app\page\purchase\pubBid.py", line 98, in pub_bid
+    elements3[0].click()
+TypeError: 'NoneType' object is not subscriptable
+
 
         </pre>
     </div>
@@ -254,31 +280,131 @@ pt1.1:
     </td>
 </tr>
 
-<tr class='passClass'>
-    <td>test_pubBid.TestPublicBid</td>
-    <td>1</td>
-    <td>1</td>
+<tr class='errorClass'>
+    <td>test_pubProject.TestPubProject</td>
+    <td>2</td>
     <td>0</td>
     <td>0</td>
-    <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
+    <td>2</td>
+    <td><a href="javascript:showClassDetail('c3',2)">Detail</a></td>
 </tr>
 
-<tr id='pt2.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_pub_bid</div></td>
+<tr id='ft3.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_pub_project</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.1')" >
-        pass</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft3.1')" >
+        error</a>
 
-    <div id='div_pt2.1' class="popup_window">
+    <div id='div_ft3.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft3.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-pt2.1: 
+ft3.1: Traceback (most recent call last):
+  File "C:\gitStore\test_app\testcase\test_pubProject.py", line 34, in test_pub_project
+    self.pro_area1,self.pro_area2,self.pro_cycle,self.pro_address,self.pro_desc)
+  File "C:\gitStore\test_app\page\purchase\pubProject.py", line 50, in pub_project
+    self.swipe_up()
+  File "C:\gitStore\test_app\config\basePage.py", line 209, in swipe_up
+    size = self.get_size()
+  File "C:\gitStore\test_app\config\basePage.py", line 204, in get_size
+    x = self.driver.get_window_size()['width']
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1108, in get_window_size
+    size = self.get_window_rect()
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1165, in get_window_rect
+    return self.execute(Command.GET_WINDOW_RECT)['value']
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Programs\Python\Python36\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+  File "C:\Programs\Python\Python36\lib\site-packages\appium\webdriver\errorhandler.py", line 24, in check_response
+    super(MobileErrorHandler, self).check_response(response)
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: A session is either terminated or not started
+
+Traceback (most recent call last):
+  File "C:\gitStore\test_app\testcase\test_pubProject.py", line 34, in test_pub_project
+    self.pro_area1,self.pro_area2,self.pro_cycle,self.pro_address,self.pro_desc)
+  File "C:\gitStore\test_app\page\purchase\pubProject.py", line 50, in pub_project
+    self.swipe_up()
+  File "C:\gitStore\test_app\config\basePage.py", line 209, in swipe_up
+    size = self.get_size()
+  File "C:\gitStore\test_app\config\basePage.py", line 204, in get_size
+    x = self.driver.get_window_size()['width']
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1108, in get_window_size
+    size = self.get_window_rect()
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1165, in get_window_rect
+    return self.execute(Command.GET_WINDOW_RECT)['value']
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Programs\Python\Python36\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+  File "C:\Programs\Python\Python36\lib\site-packages\appium\webdriver\errorhandler.py", line 24, in check_response
+    super(MobileErrorHandler, self).check_response(response)
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: A session is either terminated or not started
+
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='ft3.2' class='none'>
+    <td class='errorCase'><div class='testcase'>test_pub_project</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft3.2')" >
+        error</a>
+
+    <div id='div_ft3.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft3.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+ft3.2: Traceback (most recent call last):
+  File "C:\gitStore\test_app\testcase\test_pubProject.py", line 26, in tearDown
+    self.driver.quit()
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 698, in quit
+    self.execute(Command.QUIT)
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Programs\Python\Python36\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+  File "C:\Programs\Python\Python36\lib\site-packages\appium\webdriver\errorhandler.py", line 24, in check_response
+    super(MobileErrorHandler, self).check_response(response)
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: A session is either terminated or not started
+
+Traceback (most recent call last):
+  File "C:\gitStore\test_app\testcase\test_pubProject.py", line 26, in tearDown
+    self.driver.quit()
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 698, in quit
+    self.execute(Command.QUIT)
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Programs\Python\Python36\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
+    raise wde
+  File "C:\Programs\Python\Python36\lib\site-packages\appium\webdriver\errorhandler.py", line 24, in check_response
+    super(MobileErrorHandler, self).check_response(response)
+  File "C:\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: A session is either terminated or not started
+
+
 
         </pre>
     </div>
@@ -289,10 +415,10 @@ pt2.1:
 
 <tr id='total_row'>
     <td>Total</td>
-    <td>2</td>
-    <td>2</td>
+    <td>4</td>
+    <td>1</td>
     <td>0</td>
-    <td>0</td>
+    <td>3</td>
     <td>&nbsp;</td>
 </tr>
 </table>

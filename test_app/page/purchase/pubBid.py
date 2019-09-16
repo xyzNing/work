@@ -45,9 +45,9 @@ class PubBid(BasePage):
     material_confirm = (By.ID, 'com.zhujc.purchasedev:id/bt_bid_product_save')
 
     # 供应商设置
-    bid_way1 = (By.ID, 'com.zhujc.purchasedev:id/rb_bid_publish_way_public')
-    bid_way2 = (By.ID, 'com.zhujc.purchasedev:id/rb_bid_publish_way_no')
-    bid_way3 = (By.ID, 'com.zhujc.purchasedev:id/rb_bid_publish_way_invitation')
+    bid_way1 = (By.ID, "com.zhujc.purchasedev:id/rb_bid_publish_way_public")
+    bid_sup = (By.XPATH, "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout[3]/android.widget.FrameLayout/android.widget.ListView/android.widget.RelativeLayout[1]/android.widget.CheckBox")
+    bid_sup_confirm = (By.ID, "com.zhujc.purchasedev:id/bt_invite_enter")
 
     # 商务条款
     cash_need = (By.ID, 'com.zhujc.purchasedev:id/rb_cash_need')
@@ -81,6 +81,9 @@ class PubBid(BasePage):
     confirm_time_month = (By.ID, 'com.zhujc.purchasedev:id/wv_dialog_time_month')
     confirm_time_day = (By.ID, 'com.zhujc.purchasedev:id/wv_dialog_time_day')
     confirm_time_confirm = (By.ID, 'com.zhujc.purchasedev:id/tv_dialog_time_commit')
+
+    enter_date=(By.ID, "com.zhujc.purchasedev:id/bt_bid_publish_into")
+    enter_date_confirm =(By.ID, "com.zhujc.purchasedev:id/tv_dialog_time_commit")
     # 联系方式
     link_name = (By.ID, 'com.zhujc.purchasedev:id/et_bid_publish_contact')
     phone = (By.ID, 'com.zhujc.purchasedev:id/et_bid_publish_mobile')
@@ -102,7 +105,7 @@ class PubBid(BasePage):
         self.select(self.bid_project_select, self.bid_project1, self.bid_project_confirm)
         self.send_to_text(self.bid_content, self.bid_content_send, content, self.bid_content_save)
         self.click(self.material_type_select)
-        text = self.get_text(self.material_title)
+        text = self.get_ele_attribute(self.material_title,"text")
         print("**********")
         print(text)
         if text == u'物资类别':
@@ -130,6 +133,10 @@ class PubBid(BasePage):
         self.click(self.material_confirm)
         self.swipe_up()
         time.sleep(5)
+        self.click(self.bid_way1)
+        time.sleep(6)
+        self.click(self.bid_sup)
+        self.click(self.bid_sup_confirm)
         self.send_text(self.pay_content, paycontent)
         self.click(self.supply_finance_no)
         self.swipe_up()
@@ -152,6 +159,9 @@ class PubBid(BasePage):
         self.click(self.confirm_time)
         self.swipe(70, 1695, 137, 1630)
         self.click(self.confirm_time_confirm)
+        self.click(self.enter_date)
+        self.swipe(70, 1695, 137, 1630)
+        self.click(self.enter_date_confirm)
         self.send_text(self.link_name, linkname)
         self.send_text(self.phone, phonenum)
         self.click(self.submit)

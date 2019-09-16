@@ -1,11 +1,12 @@
 import os
+from datetime import datetime
 import logging
 from logging.handlers import TimedRotatingFileHandler
 class Logger():
     def __init__(self,logger_name='name'):
         self.logger=logging.getLogger(logger_name)
-        logging.root.setLevel(logging.NOTSET)
-        self.log_file_name='log.log'
+        logging.root.setLevel(logging.INFO)
+        self.log_file_name=r"C:\gitStore\test_app\log\\"+str(datetime.now().strftime("%Y_%m_%d"))+'.log'
         self.backup_count=5
         self.console_level='WARNING'
         self.file_level='DEBUG'
@@ -18,7 +19,7 @@ class Logger():
             console_handles.setLevel(self.console_level)
             self.logger.addHandler(console_handles)
 
-            file_handle=TimedRotatingFileHandler(filename=os.path.join(os.path.dirname(os.getcwd()),r'log\log.log'),
+            file_handle=TimedRotatingFileHandler(filename = self.log_file_name,
                                                  when='D' ,
                                                  interval=1,
                                                  backupCount=self.backup_count,
@@ -35,3 +36,5 @@ if __name__ == '__main__':
     print(os.getcwd())
     print(os.path.dirname(os.getcwd()))
     print(os.path.join(os.path.dirname(os.getcwd()),r'log\log.log'))
+    log_file_name = r"C:\gitStore\test_app\log\""  + str(datetime.now().strftime('%Y_%m_%d')) + '.log'
+    print(log_file_name)

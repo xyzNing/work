@@ -20,21 +20,18 @@ class PubProject(BasePage):
 
     project_state=(By.XPATH,"//*[@text='选择项目状态']")
     project_state_detail=(By.ID,'com.zhujc.purchasedev:id/im_item_recy_dialog')
+    project_states=(By.XPATH,"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.support.v7.widget.RecyclerView/android.widget.LinearLayout[2]/android.widget.ImageView")
     project_state_ensure=(By.ID,'com.zhujc.purchasedev:id/tv_dialog_select_list_ok')
-
-    project_address1=(By.XPATH,"//*[@text='选择省市区域']")
+    project_address1=(By.ID,"com.zhujc.purchasedev:id/tv_add_project_address")
     project_address1_provice=(By.ID,'com.zhujc.purchasedev:id/wv_dialog_address_province')
     project_address1_city=(By.ID,'com.zhujc.purchasedev:id/wv_dialog_address_city')
     project_address1_area=(By.ID,'com.zhujc.purchasedev:id/wv_dialog_address_area')
     project_address1_ensure=(By.ID,'com.zhujc.purchasedev:id/tv_dialog_address_commit')
     # 159,1695 ,1830
-    project_address2 = (By.XPATH, "//*[@text='填写具体街道']")
-    project_desc=(By.XPATH,"//*[@text='填写具体描述']")
-
-    add_pictures=(By.XPATH,"//*[@text='添加图片']")
+    project_address2 = (By.ID, "com.zhujc.purchasedev:id/et_add_project_detail_address")
+    project_desc=(By.ID,"com.zhujc.purchasedev:id/et_add_project_desc")
+    add_pictures=(By.ID,"com.zhujc.purchasedev:id/rl_add_project_pic")
     add_pictures_1=(By.ID,'com.zhujc.purchasedev:id/bt_dialog_img_album')
-    # 305,407
-    # 778, 476
     project_save=(By.ID,'com.zhujc.purchasedev:id/tv_add_project_save')
 
     def pub_project(self,text,text2,text3,text4,text5,area1,area2,cycle,address,desc):
@@ -47,9 +44,9 @@ class PubProject(BasePage):
         self.send_text(self.floor_area,area1)
         self.send_text(self.building_area,area2)
         self.send_text(self.project_cycle,cycle)
-        self.select(self.project_state,self.project_state_detail,self.project_state_ensure)
         self.swipe_up()
-        time.sleep(1)
+        time.sleep(3)
+        self.select(self.project_state,self.project_states,self.project_state_ensure)
         self.click(self.project_address1)
         self.swipe(200,1730,200,1660)
         time.sleep(1)
@@ -58,15 +55,14 @@ class PubProject(BasePage):
         self.swipe(900,1730,900,1660)
         time.sleep(1)
         self.click(self.project_address1_ensure)
-        self.send_text(self.project_address2,address)
-        self.send_text(self.project_desc,desc)
-        self.uoload_photo(self.add_pictures,self.add_pictures_1,self.project_save)
-        # self.click(self.add_pictures)
-        # self.click(self.add_pictures_1)
-        # self.tap(305,407)
-        # time.sleep(1)
-        # self.tap(778,476)
-        # self.click(self.project_save)
+        self.send_text(self.project_address2, address)
+        self.send_text(self.project_desc, desc)
+        self.click(self.add_pictures)
+        self.click(self.add_pictures_1)
+        self.tap(305,407)
+        time.sleep(1)
+        self.tap(778,476)
+        self.click(self.project_save)
 
 
 
