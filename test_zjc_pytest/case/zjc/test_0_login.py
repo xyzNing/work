@@ -4,9 +4,9 @@ import time
 class TestLogin():
 
     def setup(self):
-        self.user1='a100048'
-        self.pas1='123456'
-        self.pas2='zjc123456789'
+        self.user1=''
+        self.pas1=''
+        self.pas2=''
         self.text=u'你好，阳哥'
         self.text1=u'密码错误'
 
@@ -26,6 +26,7 @@ class TestLogin():
         result=self.login_page.alert_text(self.text1)
         print(result)
         assert result
+
 
 if __name__ == '__main__':
     pytest.main(['-v','test_0_login.py'])

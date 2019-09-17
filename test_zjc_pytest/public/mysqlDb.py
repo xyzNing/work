@@ -32,6 +32,8 @@ class Db():
             return result[0][11:15:]
         except:
             raise ("查询失败")
+
+
 if __name__ == '__main__':
     db=Db()
     # s=db.select_db('13937949015')

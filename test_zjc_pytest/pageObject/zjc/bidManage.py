@@ -5,23 +5,23 @@ from selenium.webdriver.common.by import By
 import time
 
 class BidManage(BasePage):
-    loc_bid_self=(By.XPATH,"//li[@id='n2-2-1']/a")  #自建项目
-    loc_bid_other=(By.XPATH,"//li[@id='n2-2-2']/a")  #挂入项目
-    location_public_bid = (By.XPATH,"//input[@value='发布标书']")
+    loc_bid_self=(By.XPATH,"//li[@id='n2-2-1']")
+    loc_bid_other=(By.XPATH,"//li[@id='n2-2-2']")
+    location_public_bid = (By.XPATH,"//input[@value='发布']")
     #标书基本信息
-    location_bid_type = (By.ID, "//div[@id='bidType'/i[1]")
+    location_bid_type = (By.ID, "//div[@id='bidType'")
     location_bid_project = (By.ID,"bidProject")
     location_project = (By.XPATH,"//ul[@id='bidProjectList']/li[1]")
     location_bid_name = (By.ID,"bidName")
 
     location_bid_method = (By.XPATH,".//*[@id='bidWay']/i[1]")
-    #  askSupplier=(By.ID,"askSupplierButton")
-    location_billing_info=(By.XPATH,"//input[@class='selectBtn w6 fl']")  #开票信息
-    location_select_billing_info=(By.XPATH,".//*[@id='billingItem']/tr[1]/td[1]/i")  #选择开票信息
-    location_billing_confirm =(By.XPATH,".//*[@id='choseBilling']/div[2]/div/input")
+
+    location_billing_info=(By.XPATH,"//input[@class='selectBtn w6 fl']")
+    location_select_billing_info=(By.XPATH,".//*[@id='billingItem']/tr[1]")
+    location_billing_confirm =(By.XPATH,".//*[@id='choseBilling']/div[2]")
     location_link_name = (By.ID,'linkman')
     location_mobile_phone= (By.ID,'linkmanmob')
-    location_select_material=(By.ID,"selectMaterialBtn")
+    location_select_material=(By.ID,"select")
     location_category_Ⅰ = (By.CSS_SELECTOR,".on>span")
     location_category_Ⅱ = (By.XPATH,".//*[@id='material-box']/div[2]/ul[2]/li[1]")
     location_is_category_Ⅱ=(By.XPATH,".//*[@id='material-box']/div[2]/ul[2]/li[1]/label/i")
@@ -43,15 +43,15 @@ class BidManage(BasePage):
     model3 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[3]/td[2]/input")
     unit3 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[3]/td[6]/input")
     amount3 = (By.XPATH, ".//*[@id='productTbody']/tr[3]/td[7]/input")
-    price3 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[3]/td[8]/input")
+    price3 = (By.XPATH, ".//*[@id='bidProductTbody']/tr[3]/td[8]/iput")
 
-    location_bid_content=(By.ID,"bidContent")
-    location_first_next=(By.CSS_SELECTOR,".next-btn")
+    location_bid_content=(By.ID,"bidt")
+    location_first_next=(By.CSS_SELECTOR,".nex")
     #招标要求
     tender_closing_time=(By.ID,"endTime")
     calibration_date=(By.ID,'confirmTime')
     entry_data=(By.ID,'forecastTime')
-    sent_sample=(By.XPATH,".//*[@id='sentSampleLi']/div/i[1]")
+    sent_sample=(By.XPATH,".//*[@id='sentSampleLi']/di")
     sent_product=(By.XPATH,".//*[@id='sentProductLi']/div/i[1]")
 
     province = (By.ID,"province")
@@ -63,39 +63,38 @@ class BidManage(BasePage):
     address = (By.ID,"address")
 
     quote_type = (By.XPATH,".//*[@id='quoteTypeLi']/div/i[1]")
-    location_pay_day = (By.XPATH,".//*[@id='payDaysLi']/div/i[1]")  #付款天数
-    location_pay_way = (By.ID,"payway")  #付款方式
-    location_invoice_type = (By.XPATH,".//*[@id='invoice_type']/i[2]")   #发票要求
-    location_is_deposit = (By.XPATH, "//li[@id='depositLi']/div/i[1]")  # 是否保证金   1不需要 2需要
-    location_is_deposit2=(By.XPATH,"//li[@id='depositLi']/div/i[2]")  #是否保证金   1不需要 2需要
-    location_money=(By.XPATH,"//li[@id='depositBox']/input")   #标书保证金金额
-    location_second_next = (By.XPATH,"//input[@value='下一步']")   #下一步
-    location_public_button=(By.XPATH,"//input[@value='发布标书']")
+    location_pay_day = (By.XPATH,".//*[@id='payDaysLi']/div/i[1]")
+    location_pay_way = (By.ID,"payway")
+    location_invoice_type = (By.XPATH,".//*[@id='invoice_type']/i[2]")
+    location_is_deposit = (By.XPATH, "//li[@id='depositLi']/div/i[1]")
+    location_is_deposit2=(By.XPATH,"//li[@id='depositLi']/div/i[2]")
+    location_money=(By.XPATH,"//li[@id='depositBox']/input")
+    location_second_next = (By.XPATH,"//input[@value='下一步']")
     public_tender = (By.ID,'addBidBtn')
-    #选择金融产品
+
     financial_product=(By.XPATH,".//li[@id='260']//div[@class='poa cursor opens']")
     financia_day=(By.XPATH,".//li[@id='260']//input[@name='paydays']")
     public=(By.ID,"addBidBtn")
-    confirm3=(By.XPATH,"//div[@class='btns-div']/input[4]")  #金融标书确认按钮，不管是否时金融标书
+    confirm3=(By.XPATH,"//div[@class='btns-div']/input[4]")
 
-    #处理发布标书成功后的弹框
-    loc_comfirm = (By.ID, 'noNeedCreateBid')  # 不需要并发布标书
-    bid_success=(By.XPATH,"//div[@class='dialog__footer']/a")  #确定
-    loc_state = (By.XPATH, "//li[@state='3']/a")   #
-    loc_number = (By.XPATH, "//div[@class='textleft pl15']")  #标书编号
-    #搜索相关
+
+    loc_comfirm = (By.ID, 'noNeedCreateBid')
+    bid_success=(By.XPATH,"//div[@class='dialog__footer']/a")
+    loc_state = (By.XPATH, "//li[@state='3']/a")
+    loc_number = (By.XPATH, "//div[@class='textleft pl15']")
+
     loc_search_text=(By.ID,"searchInput")
     loc_search_button=(By.XPATH,"//p[@class='fr']/input[@value='搜索']")
-    #定标相关
-    loc_bid_confirm=(By.XPATH,"//a[text()='定标']")
-    loc_select_suppier=(By.XPATH,"//input[@value='+选择供应商']")
-    loc_suppier_name=(By.XPATH,"//td[@class='name']")  #选择中标的供应商
+
+    loc_bid_confirm=(By.XPATH,"//a[text()='标']")
+    loc_select_suppier=(By.XPATH,"//input[@value='+供应商']")
+    loc_suppier_name=(By.XPATH,"//td[@class='name']")
     loc_ensure=(By.XPATH,"//div[@class='btns-div']/input[@value='确定']")
     loc_next=(By.XPATH,"//input[@value='下一步']")
-    loc_start1=(By.XPATH,"//ul[@class='judge-ul']/li[1]/ul/li[5]")  #服务态度
-    loc_start2=(By.XPATH,"//ul[@class='judge-ul']/li[2]/ul/li[5]")   #价格合理度
-    loc_start3 = (By.XPATH,"//ul[@class='judge-ul']/li[3]/ul/li[5]")   #公司资质
-    loc_coment=(By.XPATH,"//ul[@class='judge-ul']/li[4]/textarea")   #总体评价
+    loc_start1=(By.XPATH,"//ul[@class='judge-ul']/li[1]/ul/li[5]")
+    loc_start2=(By.XPATH,"//ul[@class='judge-ul']/li[2]/ul/li[5]")
+    loc_start3 = (By.XPATH,"//ul[@class='judge-ul']/li[3]/ul/li[5]")
+    loc_coment=(By.XPATH,"//ul[@class='judge-ul']/li[4]/textarea")
     loc_complete=(By.XPATH,"//input[@value='完成']")
 
     def bid_project(self):

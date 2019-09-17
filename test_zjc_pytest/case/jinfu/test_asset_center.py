@@ -3,7 +3,7 @@ import datetime
 import pytest
 class TestAssertCenter():
     def setup(self):
-        self.url="http://paybytest.zhutx.net/index/my_asset/asset"
+        self.url=""
         self.htnumber='HT190808010021'
         self.code=str((datetime.datetime.now()+datetime.timedelta(days=-1)).strftime("%Y%m%d"))+"a"
         self.num=str((datetime.datetime.now()+datetime.timedelta(days=-1)).strftime("%Y%m%d"))+"b"
@@ -21,7 +21,7 @@ class TestAssertCenter():
         pass
 
     @pytest.mark.skip('not zjc')
-    def test_addInstock(self):
+    def test_add_instock(self):
         n=0
         self.pur = AssetCenter(self.driver)
         while n<1:
@@ -30,7 +30,7 @@ class TestAssertCenter():
             n+=1
 
     @pytest.mark.skip('not zjc')
-    def test_addInvoice(self,driver):
+    def test_add_invoice(self,driver):
         self.assert_center_page=AssetCenter(driver)
         n = 0
         while n < 1:
@@ -42,6 +42,7 @@ class TestAssertCenter():
             self.assert_center_page.add_invoice(self.htnumber,self.code,self.num,self.date1,self.tax,
                                  self.name,self.sum)
             n += 1
+
 
 if __name__ == '__main__':
     pytest.main(['-v','-m','jinfu','test_assert_center'])

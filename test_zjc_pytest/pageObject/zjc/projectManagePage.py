@@ -1,6 +1,8 @@
 from public.basePage import BasePage
 from selenium.webdriver.common.by import By
 import time
+
+
 class ProjectPage( BasePage):
 
     loc_project_self=(By.XPATH,"//li[@id='n2-1-1']/a")
@@ -9,11 +11,11 @@ class ProjectPage( BasePage):
     loc_project_name=(By.ID,"projectName")
     loc_project_desc=(By.ID,'projectDescription')
     loc_project_province=(By.ID,"projectProvince")
-    loc_province=(By.XPATH,"//li[@code='11']")  #北京
+    loc_province=(By.XPATH,"//li[@code='11']")
     loc_project_city=(By.ID,"projectCity")
-    loc_city=(By.XPATH,"//li[@code='1101']") #市辖区
+    loc_city=(By.XPATH,"//li[@code='1101']")
     loc_project_area=(By.ID,"projectArea")
-    loc_area=(By.XPATH,"//li[@code='110101']") #code=110101  东城区
+    loc_area=(By.XPATH,"//li[@code='110101']")
     loc_project_addr=(By.ID,"projectAddress")
     loc_project_manager=(By.ID,"projectManager")
     loc_project_contract=(By.ID,"projectContact")

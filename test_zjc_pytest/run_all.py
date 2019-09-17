@@ -1,6 +1,8 @@
 #conding=utf-8
 import os
 import time
+
+
 def run_case():
     os.system(r"pytest --reruns 1 -v --alluredir C:\gitStore\test_zjc_pytest\report")
     time.sleep(2)

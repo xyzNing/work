@@ -3,24 +3,24 @@ from selenium.webdriver.common.by import By
 import time
 class BillingInfo(BasePage):
     loc_bill_info=(By.XPATH,"//li[@id='n5-4']/a")
-    loc_add_bill=(By.XPATH,"//input[@value='新增开票信息']")
-    #新增开票信息页面元素
+    loc_add_bill=(By.XPATH,"//input[@value='信息']")
+
     loc_title=(By.ID,"title")
     loc_province = (By.ID, "province")
-    loc_province_info = (By.XPATH, "//li[@code='11']")  # 北京
+    loc_province_info = (By.XPATH, "//li[@code='11']")
     loc_city = (By.ID, "city")
-    loc_city_info = (By.XPATH, "//li[@code='1101']")  # 市辖区
+    loc_city_info = (By.XPATH, "//li[@code='1106']")
     loc_area = (By.ID, "area")
-    loc_area_info = (By.XPATH, "//li[@code='110101']")  # code=110101  东城区
+    loc_area_info = (By.XPATH, "//li[@code='110101']")
     loc_addr = (By.ID, "address")
-    loc_postcode=(By.ID,"postcode")   #邮政编号，非必填
+    loc_postcode=(By.ID,"postcode")
     loc_taxno=(By.ID,"taxno")
     loc_financetel2=(By.ID,"financetel2")
     loc_linkman=(By.ID,"linkman")
     loc_bank=(By.ID,"bank")
     loc_account=(By.ID,"account")
     loc_shortname=(By.ID,"shortname")
-    loc_submit=(By.XPATH,"//input[@value='提交']")
+    loc_submit=(By.XPATH,"//input[@value='提']")
     loc_success=(By.XPATH,"//div[@class='dialog__footer']/a")
     loc_shortname_text=(By.XPATH,"//div[@class='textleft pl15']")
 

@@ -35,6 +35,8 @@ mylog=Logger(logger="BasePage").getlog()
 #             print(u"请重新选择浏览器")
 #     except Exception as msg:
 #         print('%s' %msg)
+
+
 class BasePage(object):
     def __init__(self,driver):
         self.driver=driver

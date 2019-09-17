@@ -1,6 +1,8 @@
 from public.basePage import BasePage
 from selenium.webdriver.common.by import By
 import time
+
+
 class SupContract(BasePage):
     loc_enter_home=(By.XPATH,"//div[@class='index-login__content']/a")
     loc_sup_manage=(By.XPATH,"//div[@id='n2']/h3/span")

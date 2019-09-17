@@ -5,22 +5,22 @@ import time
 
 
 class BackStage(BasePage):
-    selector_enter=(By.XPATH,"//a[@class='index-login__link mt16 goAdminPage']")#进入管理首页
-    selector_pur_manage=(By.CSS_SELECTOR,"#n2>h3>span")#采购管理
-    selector_project=(By.CSS_SELECTOR,"#n2-1>span")#项目管理
-    selector_bid=(By.CSS_SELECTOR,"#n2-2>span")#招标管理
-    selector_bid_self_build=(By.CSS_SELECTOR,"#n2-2-1>a")#自建项目
-    selector_contract=(By.CSS_SELECTOR,"#n2-3>span") #合同管理
-    select_instock=(By.CSS_SELECTOR,"#n2-5>span")   #入库管理
+    selector_enter=(By.XPATH,"//a[@class='index-goAdminPage']")
+    selector_project=(By.CSS_SELECTOR,"#n2-1>san")
+    selector_pur_manage=(By.CSS_SELECTOR,"#n2>h>span")
+    selector_bid=(By.CSS_SELECTOR,"#n2-2>span")
+    selector_bid_self_build=(By.CSS_SELECTOR,"#n2-2-1>a")
+    selector_contract=(By.CSS_SELECTOR,"#n2-3>span") 
+    select_instock=(By.CSS_SELECTOR,"#n2-5>span")
     select_instock_self=(By.XPATH,"//li[@id='n2-5-1']/a")
-    invoice_manage=(By.XPATH,"//li[@id='n2-6']/span")  #发票管理
-    invoice_self=(By.XPATH,"//li[@id='n2-6-1']/a")   #自建项目
-    invoice_other=(By.XPATH,"//li[@id='n2-6-2']/a")  #挂入项目
-    set_focus=(By.XPATH,"//div[@id='n5']/h3/span")   #设置中心
-    subaccount_manage=(By.XPATH,"//li[@id='n5-3']/a")
+    invoice_manage=(By.XPATH,"//li[@id='n2']/span")
+    invoice_self=(By.XPATH,"//li[@id='n2-6-]/a")
+    invoice_other=(By.XPATH,"//li[@id='n2-2']/a")
+    set_focus=(By.XPATH,"//div[@id='n5']/h/span")
+    subaccount_manage=(By.XPATH,"//li[@id='n53']/a")
     billing_info=(By.XPATH,"//li[@id='n5-4']/a")
 
-    def enter_project_manage(self):   #进入项目管理
+    def enter_project_manage(self):
         self.click(self.selector_enter)
         self.click(self.selector_pur_manage)
         self.click(self.selector_project)
