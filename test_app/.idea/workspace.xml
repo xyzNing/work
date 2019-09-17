@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dadb5cd1-3d66-41ae-b0c1-d9c87f6e9fe2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/log/2019_09_16.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_login.py" afterPath="$PROJECT_DIR$/testcase/test_login.py" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_pubBid.py" afterPath="$PROJECT_DIR$/testcase/test_pubBid.py" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_pubProject.py" afterPath="$PROJECT_DIR$/testcase/test_pubProject.py" />
-      <change beforePath="$PROJECT_DIR$/../test_interface/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../test_interface/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../test_interface/page/contractPage.py" afterPath="$PROJECT_DIR$/../test_interface/page/contractPage.py" />
-      <change beforePath="$PROJECT_DIR$/../test_interface/run_excel.py" afterPath="$PROJECT_DIR$/../test_interface/run_excel.py" />
       <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/.idea/misc.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/.idea/modules.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/.idea/test_zjc_pytest.iml" afterPath="" />
