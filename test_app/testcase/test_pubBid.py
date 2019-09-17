@@ -21,8 +21,7 @@ class TestPublicBid(unittest.TestCase):
         self.pay_content = 'xianjin'
         self.link_name = 'asd'
         self.phone = '13937949012'
-        # self.driver=get_driver('Android','GWY0217803001154','9','com.zhujc.purchasedev','com.zhujc.purchase.activity.splash.SplashActivity')
-        self.driver=get_driver('Android',"c2f8b612",'5.0','com.zhujc.purchasedev','com.zhujc.purchase.activity.splash.SplashActivity')
+        self.driver=get_driver('Android',"c2f8b612",'5.0','com.','com')
         self.login = Login(self.driver)
         self.login.login(self.username, self.passwd)
 

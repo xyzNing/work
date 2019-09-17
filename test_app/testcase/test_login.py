@@ -7,8 +7,8 @@ class LoginTest(unittest.TestCase):
     def setUp(self):
         self.user=''
         self.passwd=''
-        # self.driver=get_driver('Android','GWY0217803001154','9','com.zhujc.purchasedev','com.zhujc.purchase.activity.splash.SplashActivity')
-        self.driver=get_driver('Android',"c2f8b612",'5.0','com.zhujc.purchasedev','com.zhujc.purchase.activity.splash.SplashActivity')
+
+        self.driver=get_driver('Android',"c2f8b612",'5.0','com.v','com.')
 
     def tearDown(self):
         self.driver.quit()

@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="460eda7a-35dc-43a2-8b61-e03ca8bb9087" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../test_app/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../test_app/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../test_app/log/2019_09_16.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_app/testcase/test_login.py" afterPath="$PROJECT_DIR$/../test_app/testcase/test_login.py" />
+      <change beforePath="$PROJECT_DIR$/../test_app/testcase/test_pubBid.py" afterPath="$PROJECT_DIR$/../test_app/testcase/test_pubBid.py" />
+      <change beforePath="$PROJECT_DIR$/../test_app/testcase/test_pubProject.py" afterPath="$PROJECT_DIR$/../test_app/testcase/test_pubProject.py" />
+      <change beforePath="$PROJECT_DIR$/../test_interface/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../test_interface/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../test_interface/page/contractPage.py" afterPath="$PROJECT_DIR$/../test_interface/page/contractPage.py" />
+      <change beforePath="$PROJECT_DIR$/../test_interface/run_excel.py" afterPath="$PROJECT_DIR$/../test_interface/run_excel.py" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/.idea/test_zjc_pytest.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/Data/date.xls" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/bin/allure" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/bin/allure.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/config/allure-cucumber.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/config/allure-junit.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/config/allure.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/allure-commandline-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/allure-generator-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/allure-model-2.9.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/allure-plugin-api-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/allure1-model-1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/commons-beanutils-1.9.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/commons-codec-1.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/commons-collections-3.2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/commons-collections4-4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/commons-io-2.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/commons-lang3-3.8.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/commons-logging-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/commons-text-1.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/config/jetty-logging.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/config/log4j.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/flexmark-0.40.16.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/flexmark-util-0.40.16.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/freemarker-2.3.28.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/httpclient-4.5.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/httpcore-4.4.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jackson-annotations-2.9.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jackson-core-2.9.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jackson-databind-2.9.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jackson-dataformat-xml-2.9.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jackson-dataformat-yaml-2.9.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jackson-module-jaxb-annotations-2.9.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/javax.activation-api-1.2.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jaxb-api-2.3.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jaxb-utils-1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jcommander-1.72.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jetty-http-9.4.14.v20181114.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jetty-io-9.4.14.v20181114.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jetty-server-9.4.14.v20181114.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/jetty-util-9.4.14.v20181114.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/log4j-1.2.17.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/opencsv-4.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/properties-2.0.RC5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/slf4j-api-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/slf4j-log4j12-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/snakeyaml-1.23.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/stax2-api-3.1.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/tika-core-1.20.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/lib/woodstox-core-5.0.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/behaviors-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/behaviors-plugin/behaviors-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/behaviors-plugin/static/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/custom-logo-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/custom-logo-plugin/custom-logo-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/custom-logo-plugin/static/custom-logo.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/custom-logo-plugin/static/styles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/jira-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/lib/allure-jira-commons-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/lib/converter-jackson-2.5.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/lib/jackson-annotations-2.9.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/lib/jackson-core-2.9.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/lib/jackson-databind-2.9.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/lib/okhttp-3.12.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/lib/okio-1.15.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/jira-plugin/lib/retrofit-2.5.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/junit-xml-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/junit-xml-plugin/junit-xml-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/packages-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/packages-plugin/packages-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/packages-plugin/static/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/screen-diff-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/screen-diff-plugin/screen-diff-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/screen-diff-plugin/static/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/screen-diff-plugin/static/styles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/trx-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/trx-plugin/trx-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xctest-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xctest-plugin/lib/xmlwise-1.2.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xctest-plugin/xctest-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/lib/allure-jira-commons-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/lib/converter-jackson-2.5.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/lib/jackson-annotations-2.9.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/lib/jackson-core-2.9.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/lib/jackson-databind-2.9.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/lib/okhttp-3.12.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/lib/okio-1.15.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/lib/retrofit-2.5.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xray-plugin/xray-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xunit-xml-plugin/allure-plugin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/allure-2.12.1/plugins/xunit-xml-plugin/xunit-xml-plugin-2.12.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/jinfu/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/jinfu/orc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/jinfu/re_test.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/jinfu/test_asset_center.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/assets/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/conftest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/geckodriver.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_0_login.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_1_1_project.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_1_2_create_account.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_1_3_create_billing_info.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_1_4_test_chech_billing.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_2_1_public_bid.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_2_2_bid_check.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_2_3_bid_tender.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_2_4_bid_confirm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_3_1_create_contract.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_3_2_check_contract.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_3_3_confirm_contract.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_4_create_Instock.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_4_create_invoice.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_5_check_instock.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_5_check_invoice.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/case/zjc/test_6_ensure_invoice.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/conftest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/jinfu/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/jinfu/assetCenter.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/jinfu/login.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/InstockPage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/accountManage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/bidManage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/billingInfoManage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/contractMange.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/cusBackStage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/invoiceManage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/loginPage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/projectManagePage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/purBackStage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/supContractManage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/pageObject/zjc/supTenderBid.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/public/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/public/basePage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/public/log.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/public/mysqlDb.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/run_all.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/easy-install.pth" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/PKG-INFO" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/entry_points.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/not-zip-safe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/requires.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/top_level.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/__main__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/basecommand.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/baseparser.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/build_env.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/cache.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/cmdoptions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/check.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/completion.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/configuration.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/download.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/freeze.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/hash.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/help.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/install.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/list.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/search.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/show.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/uninstall.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/wheel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/compat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/configuration.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/download.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/exceptions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/index.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/locations.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/models/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/models/index.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/check.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/freeze.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/prepare.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/pep425tags.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_file.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_install.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_set.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_uninstall.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/resolve.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/status_codes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/appdirs.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/deprecation.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/encoding.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/filesystem.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/glibc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/hashes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/logging.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/misc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/outdated.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/packaging.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/setuptools_build.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/temp_dir.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/typing.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/ui.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/bazaar.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/git.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/mercurial.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/subversion.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/wheel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/appdirs.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/cache.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/compat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/controller.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__main__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/cacert.pem" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/core.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5freq.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5prober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/chardistribution.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetgroupprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/compat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cp949prober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/enums.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escsm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/eucjpprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrfreq.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwfreq.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312freq.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312prober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/hebrewprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jisfreq.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jpcntx.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langbulgarianmodel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langgreekmodel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhungarianmodel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langthaimodel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langturkishmodel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/latin1prober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcharsetprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcssm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcharsetprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcsgroupprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sjisprober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/universaldetector.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/utf8prober.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/version.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/ansi.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/initialise.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/win32.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/winterm.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/database.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/index.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/locators.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/manifest.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/markers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/metadata.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/resources.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/scripts.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/t32.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/t64.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/util.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/version.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/w32.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/w64.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/wheel.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distro.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/constants.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/serializer.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/codec.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/compat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/core.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/idnadata.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/intranges.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/package_data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/uts46data.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/ipaddress.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/_version.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/exceptions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/fallback.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/__about__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/_compat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/_structures.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/markers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/requirements.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/specifiers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/version.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pkg_resources/py31compat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/bar.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/counter.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/helpers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/spinner.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pyparsing.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/core.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/parser.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/writer.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/__version__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/_internal_utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/adapters.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/api.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/auth.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/certs.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/compat.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/cookies.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/exceptions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/help.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/hooks.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/models.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/packages.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/sessions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/status_codes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/structures.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/utils.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/retrying.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/six.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/_collections.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connection.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connectionpool.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/appengine.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/securetransport.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/socks.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/exceptions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/fields.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/filepost.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/backports/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/backports/makefile.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ordered_dict.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/six.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/poolmanager.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/request.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/response.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/connection.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/request.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/response.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/retry.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/selectors.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/ssl_.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/timeout.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/url.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/wait.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/labels.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/mklabels.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/site-packages/setuptools.pth" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Lib/tcl8.6/init.tcl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/Activate.ps1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_asyncio.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_bz2.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_ctypes.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_ctypes_test.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_decimal.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_elementtree.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_hashlib.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_lzma.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_msi.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_multiprocessing.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_overlapped.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_socket.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_sqlite3.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_ssl.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_testbuffer.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_testcapi.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_testconsole.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_testimportmultiple.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_testmultiphase.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/_tkinter.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/activate" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/activate.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/deactivate.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/easy_install-3.6-script.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/easy_install-3.6.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/easy_install-script.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/easy_install.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/pip-script.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/pip.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/pip3-script.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/pip3.6-script.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/pip3.6.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/pip3.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/pyexpat.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/python.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/python3.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/python36.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/pythonw.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/select.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/sqlite3.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/tcl86t.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/tk86t.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/unicodedata.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/vcruntime140.dll" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/Scripts/winsound.pyd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../test_zjc_pytest/venv/pyvenv.cfg" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_for_test_0_project_TestProject.coverage" NAME="pytest for test_0_project.TestProject Coverage Results" MODIFIED="1567390776730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1568021962523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_3_3_confirm_contract_py.coverage" NAME="pytest in test_3_3_confirm_contract.py Coverage Results" MODIFIED="1568019614899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_1_3_create_billing_info_py.coverage" NAME="pytest in test_1_3_create_billing_info.py Coverage Results" MODIFIED="1567995187672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_3_create_contract_py.coverage" NAME="pytest in test_3_create_contract.py Coverage Results" MODIFIED="1567651146009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_for_test_cus_check_instock_TestCheckInstock_test_check_instock.coverage" NAME="pytest for test_cus_check_instock.TestCheckInstock.test_check_instock Coverage Results" MODIFIED="1566440163912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_login_py.coverage" NAME="pytest in test_login.py Coverage Results" MODIFIED="1566272167849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_1_login_py.coverage" NAME="pytest in test_1_login.py Coverage Results" MODIFIED="1566974768548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_4_Instock_py.coverage" NAME="pytest in test_4_create_Instock.py Coverage Results" MODIFIED="1568014318742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_1_4_test_chech_billing_py.coverage" NAME="pytest in test_1_4_test_chech_billing.py Coverage Results" MODIFIED="1567997249278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_bid_public_py.coverage" NAME="pytest in test_bid_public.py Coverage Results" MODIFIED="1566294589301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_5_check_instock_py.coverage" NAME="pytest in test_5_check_instock.py Coverage Results" MODIFIED="1568014400313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_4_invoice_py.coverage" NAME="pytest in test_4_create_invoice.py Coverage Results" MODIFIED="1568014460374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_1_2_create_account_py.coverage" NAME="pytest in test_1_2_create_account.py Coverage Results" MODIFIED="1567762322558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_3_2_check_contract_py.coverage" NAME="pytest in test_3_2_check_contract.py Coverage Results" MODIFIED="1568018893343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_5_ensure_invoice_py.coverage" NAME="pytest in test_5_ensure_invoice.py Coverage Results" MODIFIED="1566464970718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_1_public_bid_py.coverage" NAME="pytest in test_2_1_public_bid.py Coverage Results" MODIFIED="1568003446432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_5_check_invoice_py.coverage" NAME="pytest in test_5_check_invoice.py Coverage Results" MODIFIED="1568014657915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_2_bid_check_py.coverage" NAME="pytest in test_2_2_bid_check.py Coverage Results" MODIFIED="1568003544052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_cus_check_instock_py.coverage" NAME="pytest in test_4_check_instock.py Coverage Results" MODIFIED="1566455005776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_add_instock_py.coverage" NAME="pytest in test_addInstock.py Coverage Results" MODIFIED="1566202029948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_testLogin_py.coverage" NAME="pytest in test_login.py Coverage Results" MODIFIED="1566199867617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_Instock_py.coverage" NAME="pytest in test_3_Instock.py Coverage Results" MODIFIED="1566462643852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$orc.coverage" NAME="orc Coverage Results" MODIFIED="1568014157481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/jinfu" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_4_bid_confirm_py.coverage" NAME="pytest in test_2_4_bid_confirm.py Coverage Results" MODIFIED="1568005786460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_invoice_py.coverage" NAME="pytest in test_3_invoice.py Coverage Results" MODIFIED="1566463520030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_3_Instock_py.coverage" NAME="pytest in test_3_Instock.py Coverage Results" MODIFIED="1566982834505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_4_check_invoice_py.coverage" NAME="pytest in test_4_check_invoice.py Coverage Results" MODIFIED="1566463946021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_0_project_py.coverage" NAME="pytest in test_0_project.py Coverage Results" MODIFIED="1567391000133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$re_test.coverage" NAME="re_test Coverage Results" MODIFIED="1566813156747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/jinfu" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_1_1_project_py.coverage" NAME="pytest in test_1_1_project.py Coverage Results" MODIFIED="1568007836833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_3_bid_tender_py.coverage" NAME="pytest in test_2_3_bid_tender.py Coverage Results" MODIFIED="1568005618105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_2_public_bid_py.coverage" NAME="pytest in test_2_public_bid.py Coverage Results" MODIFIED="1566982518708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_6_ensure_invoice_py.coverage" NAME="pytest in test_6_ensure_invoice.py Coverage Results" MODIFIED="1568014761987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_addInstock_py.coverage" NAME="pytest in test_addInstock.py Coverage Results" MODIFIED="1566204533544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$mysqlDb.coverage" NAME="mysqlDb Coverage Results" MODIFIED="1567501167692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_assert_center_py.coverage" NAME="pytest in test_asset_center.py Coverage Results" MODIFIED="1566550029445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/jinfu" />
+    <SUITE FILE_PATH="coverage/test_zjc_pytest$pytest_in_test_0_login_py.coverage" NAME="pytest in test_0_login.py Coverage Results" MODIFIED="1568015737810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case/zjc" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-413316741">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="5" />
+          <entry key="py" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="3" />
+          <entry key="py" value="1056" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="1056" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1970732033">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="41" />
+          <entry key="py" value="3081" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="Python" value="3081" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="log" value="6" />
+          <entry key="py" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="44" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="425186817">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="htmlpytest" value="1" />
+          <entry key="log" value="9" />
+          <entry key="projectManagePage" value="1" />
+          <entry key="py" value="190" />
+          <entry key="pyi" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="191" />
+          <entry key="PythonStub" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="128" />
+          <entry key="py" value="18898" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="Python" value="18898" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="loginPage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageObject/zjc/loginPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-448">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basePage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/basePage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-10692">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysqlDb.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/mysqlDb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              <folding>
+                <marker date="1568710093872" expanded="true" signature="443:487" ph="update zjc_bid... " />
+                <marker date="1568710093872" expanded="true" signature="835:900" ph="select conte... zjc_sms" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_all.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run_all.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_0_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/zjc/test_0_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="729">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assetCenter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageObject/jinfu/assetCenter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1215">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageObject/jinfu/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageObject/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.</find>
+      <find>project</find>
+      <find>b</find>
+      <find>public_instock</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>list_2</replace>
+      <replace>bid_page</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pageObject/zjc/bidManagePage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/bidPage.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_public_bid.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2.1_bid_chech.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_2_bid_chech.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/BidManage.py" />
+        <option value="$PROJECT_DIR$/case/jinfu/re_test.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_3_create_contract.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_3_1_check_contract.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/supContractComfirm.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/purInvoice.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/subaccountManage.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_0_1create_account.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/supTenderBid.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_1_1_project.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_1_2_create_account.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_3_3_confirm_contract.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_1_3_create_billing_info.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_1_4_test_chech_billing.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_1_public_bid.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_2_bid_check.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_3_bid_tender.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_2_4_bid_confirm.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_4_Instock.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/invoiceManage.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_4_invoice.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_4_create_invoice.py" />
+        <option value="$PROJECT_DIR$/case/jinfu/orc.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_4_create_Instock.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_5_check_invoice.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_6_ensure_invoice.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_5_check_instock.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_3_1_create_contract.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_3_2_check_contract.py" />
+        <option value="$PROJECT_DIR$/case/zjc/conftest.py" />
+        <option value="$PROJECT_DIR$/case/zjc/test_0_login.py" />
+        <option value="$PROJECT_DIR$/case/jinfu/test_asset_center.py" />
+        <option value="$PROJECT_DIR$/public/basePage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/loginPage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/accountManage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/bidManage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/billingInfoManage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/contractMange.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/cusBackStage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/InstockPage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/projectManagePage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/supContractManage.py" />
+        <option value="$PROJECT_DIR$/pageObject/zjc/purBackStage.py" />
+        <option value="$PROJECT_DIR$/public/mysqlDb.py" />
+        <option value="$PROJECT_DIR$/run_all.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test_pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="zjc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObject" type="462c0819:PsiDirectoryNode" />
+              <item name="jinfu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObject" type="462c0819:PsiDirectoryNode" />
+              <item name="zjc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_pytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\untitled3\test_zjc_pytest\case" />
+      <recent name="C:\Work\untitled3\test_zjc_pytest\case\zjc" />
+      <recent name="C:\Work\untitled3\test_zjc_pytest\pageObject\zjc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\untitled3\test_zjc_pytest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.orc">
+    <configuration name="orc" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/jinfu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_zjc_pytest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case/jinfu/orc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_zjc_pytest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration name="pytest in test_0_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/zjc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_zjc_pytest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_0_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="pytest in test_3_2_check_contract.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/zjc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_zjc_pytest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_3_2_check_contract.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="pytest in test_3_3_confirm_contract.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/zjc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_zjc_pytest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_3_3_confirm_contract.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="pytest in test_6_ensure_invoice.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/zjc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test_zjc_pytest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/zjc/test_6_ensure_invoice.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.orc" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.pytest in test_6_ensure_invoice.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run_all" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.pytest in test_3_2_check_contract.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.pytest in test_0_login.py" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.pytest in test_3_3_confirm_contract.py" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.pytest in test_3_3_confirm_contract.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.pytest in test_0_login.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.pytest in test_3_2_check_contract.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.run_all" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.pytest in test_6_ensure_invoice.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="460eda7a-35dc-43a2-8b61-e03ca8bb9087" name="Default Changelist" comment="" />
+      <created>1566179673925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566179673925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_5_check_instock_py - 2019.09.09 at 15h 33m 53s.xml">
+      <configuration name="pytest in test_5_check_instock.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_4_create_invoice_py - 2019.09.09 at 15h 35m 37s.xml">
+      <configuration name="pytest in test_4_create_invoice.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_5_check_invoice_py - 2019.09.09 at 15h 38m 08s.xml">
+      <configuration name="pytest in test_5_check_invoice.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_6_ensure_invoice_py - 2019.09.09 at 15h 40m 08s.xml">
+      <configuration name="pytest in test_6_ensure_invoice.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_0_login_py - 2019.09.09 at 15h 56m 18s.xml">
+      <configuration name="pytest in test_0_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_3_2_check_contract_py - 2019.09.09 at 16h 24m 46s.xml">
+      <configuration name="pytest in test_3_2_check_contract.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_3_2_check_contract_py - 2019.09.09 at 16h 40m 48s.xml">
+      <configuration name="pytest in test_3_2_check_contract.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_3_2_check_contract_py - 2019.09.09 at 16h 48m 44s.xml">
+      <configuration name="pytest in test_3_2_check_contract.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_3_3_confirm_contract_py - 2019.09.09 at 16h 53m 24s.xml">
+      <configuration name="pytest in test_3_3_confirm_contract.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_3_3_confirm_contract_py - 2019.09.09 at 17h 01m 00s.xml">
+      <configuration name="pytest in test_3_3_confirm_contract.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_5_check_invoice.py" />
+    <entry file="file://$PROJECT_DIR$/logs/201909091606.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201909091706.log" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_4_create_invoice.py" />
+    <entry file="file://$PROJECT_DIR$/logs/201909091739.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201909091555.log" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_1_2_create_account.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_1_1_project.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_1_3_create_billing_info.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_1_4_test_chech_billing.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_2_2_bid_check.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_2_3_bid_tender.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_2_4_bid_confirm.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_3_1_create_contract.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_3_3_confirm_contract.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_3_2_check_contract.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_4_create_Instock.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_5_check_instock.py" />
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_6_ensure_invoice.py" />
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/case/jinfu/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/supTenderBid.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/accountManage.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/bidManage.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/billingInfoManage.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/contractMange.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/cusBackStage.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/InstockPage.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/invoiceManage.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/projectManagePage.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/supContractManage.py" />
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/purBackStage.py" />
+    <entry file="file://$PROJECT_DIR$/case/jinfu/test_asset_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/jinfu/re_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/jinfu/orc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/geckodriver.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zjc/test_0_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/jinfu/assetCenter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/jinfu/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageObject/zjc/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-448">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/basePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10692">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/mysqlDb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <marker date="1568710093872" expanded="true" signature="443:487" ph="update zjc_bid... " />
+            <marker date="1568710093872" expanded="true" signature="835:900" ph="select conte... zjc_sms" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

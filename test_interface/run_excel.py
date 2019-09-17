@@ -25,5 +25,7 @@ def test(self):
 
     print(self.case_pass)
     print(self.case_fail)
+
+
 if __name__ == '__main__':
-    unittest.main
+    unittest.main()
