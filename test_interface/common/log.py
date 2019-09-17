@@ -23,7 +23,10 @@ class Logger(object):
 
     def get_logger(self):
         return self.logger
+
+
 log=Logger("mylog").get_logger()
+
 
 if __name__ == '__main__':
     print(os.getcwd())

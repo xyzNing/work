@@ -1,5 +1,7 @@
 import xlrd
 from xlutils.copy import copy
+
+
 class ExcelUtil():
     def __init__(self,path,sheet_name):
         self.path=path
@@ -23,8 +25,10 @@ class ExcelUtil():
         sheet=wb.get_sheet(self.sheet_name)
         sheet.write(row,col,value)
         wb.save()
+
+
 if __name__ == '__main__':
-    excel=ExcelUtil(r'C:\Work\test_interface\testdata\case.xls','contract')
+    excel=ExcelUtil(r'C:\Work\test_interface\testdata\case.xls', 'contract')
     print(excel.row)
     list1=excel.get_value()
     print(len(list1))

@@ -2,6 +2,7 @@ from page.contractPage import ContractPage
 import unittest
 from datetime import datetime
 
+
 class TestContract(unittest.TestCase):
     def setUp(self):
         self.contract_page = ContractPage()

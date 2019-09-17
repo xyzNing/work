@@ -3,10 +3,13 @@ import unittest
 import HTMLTestRunner
 case_dir=os.path.join(os.getcwd(),'testcase')
 report_file=os.path.join(os.getcwd(),'report')+r'\result.html'
+
+
 def all_case():
-    all=unittest.defaultTestLoader.discover(case_dir,pattern='test*.py',top_level_dir=None)
-    print(all)
-    return all
+    cases=unittest.defaultTestLoader.discover(case_dir,pattern='test*.py',top_level_dir=None)
+    print(cases)
+    return cases
+
 
 def get_report(case):
    fp=open(report_file,'wb')
@@ -14,7 +17,10 @@ def get_report(case):
    runner.run(case)
    fp.close()
 
+
 print(os.getcwd())
+
+
 if __name__ == '__main__':
     print(case_dir)
     print(report_file)

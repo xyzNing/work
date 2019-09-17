@@ -5,14 +5,12 @@ from ddt import ddt,data,unpack
 @ddt
 class TestUesr(unittest.TestCase):
     def setUp(self):
-        self.content='{"pname":"web","sn":"d41d8cd98f00b204e9800998ecf8427e","interface_name":"HomeUserAccount/login","user_name":"jf0461","type":"2002","password":"zjc123456","page_name":"jf0461","user_token":""}'
-        self.content2='{"pname":"web","sn":"d41d8cd98f00b204e9800998ecf8427e","interface_name":"HomeUserAccount/myAssets","company_id":"461","user_token":"d8865837e4c18a299cc44aa837dcc58b1538219212AAA"}'
+        self.content=''
+
     def tearDown(self):
         pass
-    # @data('{"pname":"web","sn":"d41d8cd98f00b204e9800998ecf8427e","interface_name":"HomeUserAccount/login","user_name":"jf0461","type":"2002","password":"zjc123456","page_name":"jf0461","user_token":""}',
-    #       '{"pname":"web","sn":"d41d8cd98f00b204e9800998ecf8427e","interface_name":"HomeUserAccount/login","user_name":"jf0461","type":"2002","password":"","page_name":"jf0461","user_token":""}',
-    #       '{"pname":"web","sn":"d41d8cd98f00b204e9800998ecf8427e","interface_name":"HomeUserAccount/login","user_name":"","type":"2002","password":"","page_name":"jf0461","user_token":""}')
 
+    @data('')
     def test_Login(self):
         '''登陆'''
         # data=base.data_to_json(data1)
@@ -51,5 +49,5 @@ class TestUesr(unittest.TestCase):
     #         print("测试失败")
 
 if __name__ == '__main__':
-    unittest.main
+    unittest.main()
 
